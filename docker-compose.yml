@@ -1,0 +1,26 @@
+
+
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: stockx-postgres
+    ports: 
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: stockx
+      POSTGRES_PASSWORD: stockx123
+      POSTGRES_DB: stockx
+    volumes: 
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-scripts:/docker-entrypoint-initdb.d
+    networks:
+      - stockx-network
+
+volumes:
+  postgres_data:
+
+networks:
+  stockx-network:
+    driver: bridge

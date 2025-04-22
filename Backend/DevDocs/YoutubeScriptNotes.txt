@@ -1,0 +1,34 @@
+StockX Youtube Video Dev Notes 
+
+[#] Python Installation 
+
+        [#] Python Installation on Windows Steps: 
+            [#] Visit official Python webpage @ 'Python.org'
+                -Download latest version and make sure within the installation wizard to click 'Add Python to PATH'
+                - explain what PATH means for windows users 
+                - Run the installer by opening the command prompt and typing 'python --version'
+
+        
+        [#] Python Installation on MacOS Steps: 
+            [#] Install Homebrew 
+                -Explain what Homebrew is and how to use it on MacOS
+                        - RUN COMMAND -> /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+            [#] Install Python
+                    - command : brew install python 
+                    - verify installation: python3 --version
+
+    [#] Make Project Directory | Setup Virtual ENV
+
+            - Explain: Project file structure and relevance 
+            - Explain: Virtual Environment and its purpose for this Project
+                TERMINAL COMMANDS: 
+                    - mkdir stockx-Demo
+                    - cd stockX-Demo
+                    - python -m venv venv 
+                    - source venv/bon/activate
+                    - pip install fastapi sqlalchemy pydantic alembic psycopg2-binary uvicorn python-dotenv
+
+
+    [#] Docker Installation | Docker Pull PostgreSQL:latest
+
+        [#] Create docker-compose.yml 
