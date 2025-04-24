@@ -1,5 +1,17 @@
 StockX Youtube Video Dev Notes 
 
+[#][#][#][#] TECH STACK [#][#][#][#]
+ - Python 
+        [#] Explain why python
+ - SQLAlchemy ORM 
+        [#] Defines database tables that are in Postgres as Python classes instead of using raw sql characters
+- Alembic 
+        [#] Took that works with SQLAlchemy to manage the database schema migrations (create/alter tables etc)
+- FastAPI 
+        [#] modern async web framework 
+
+[#][#][#][#] TECH STACK [#][#][#][#]
+
 [#] Python Installation 
 
         [#] Python Installation on Windows Steps: 
@@ -17,7 +29,7 @@ StockX Youtube Video Dev Notes
                     - command : brew install python 
                     - verify installation: python3 --version
 
-    [#] Make Project Directory | Setup Virtual ENV
+[#] Make Project Directory | Setup Virtual ENV
 
             - Explain: Project file structure and relevance 
             - Explain: Virtual Environment and its purpose for this Project
@@ -29,6 +41,25 @@ StockX Youtube Video Dev Notes
                     - pip install fastapi sqlalchemy pydantic alembic psycopg2-binary uvicorn python-dotenv
 
 
-    [#] Docker Installation | Docker Pull PostgreSQL:latest
+[#] Docker Installation | Docker Pull PostgreSQL:latest
 
         [#] Create docker-compose.yml 
+        [#] Create postgres service with container_name, ports, environment data, volumes, networks 
+                [#] explain these concepts about Docker 
+
+[#] Create data models | SQLAlchemy models | Alembic data migration 
+
+        [$] Dev Notes - 
+                [$$] Alembic - light weight database migration tool for the usage with SQLAlchemy.
+                                Use Alembic to migrate SQLAlchemy model classes to Postgres.
+                                Alembic will enable you to make changes to you database schema 
+                                and keep track of versioning. 
+
+        [#] Review Postgres tables & DatabaseTables.txt for proposed 'schema'
+        [#] Create a 'database.py' configuration file to initialize SQLAlchemy (setup) and database URL
+        [#] Install 'alembic' if not already and initialize within the /app Directory
+                [#] pip install alembic 
+                [#] alembic init alembic -> creates an alembic env and a 'alembic.in'
+                [#] Set 'sqlalchemy.url' in 'alembic.ini' to postgresql database url 
+                [#] configure 'env.py' in the /alembic/env.py' directory, modify to import models
+        
