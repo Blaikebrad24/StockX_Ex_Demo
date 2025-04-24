@@ -6,7 +6,7 @@ from app.database import Base
 class Watchlist(Base):
     __tablename__ = "watchlist"
 
-    user_id = Column(UUID(as_uuid=True), ForeignKey("users.id", ondelete="CASCADE"), primary_key=True)
+    user_id = Column(Integer, ForeignKey("users.id", ondelete="CASCADE"), primary_key=True)
     variant_id = Column(Integer, ForeignKey("product_variants.id", ondelete="CASCADE"), primary_key=True)
     desired_price = Column(DECIMAL(10, 2))
     notify_on_price = Column(Boolean, default=False)
