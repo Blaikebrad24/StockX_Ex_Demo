@@ -4,7 +4,7 @@ from app.database import Base
 class ProductMedia(Base):
     __tablename__ = "product_media"
 
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     product_id = Column(Integer, ForeignKey("products.id", ondelete="CASCADE"))
     media_url = Column(String, nullable=False)
     media_type = Column(String(20), nullable=False)

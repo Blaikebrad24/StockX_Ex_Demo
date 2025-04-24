@@ -6,9 +6,9 @@ from app.database import Base
 class Ask(Base):
     __tablename__ = "asks"
 
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     variant_id = Column(Integer, ForeignKey("product_variants.id", ondelete="CASCADE"))
-    seller_id = Column(UUID(as_uuid=True), ForeignKey("users.id", ondelete="CASCADE"))
+    seller_id = Column(Integer, ForeignKey("users.id", ondelete="CASCADE"))
     price = Column(DECIMAL(10, 2), nullable=False)
     condition = Column(String(50), nullable=False)
     status = Column(String(20), default="active")

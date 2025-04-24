@@ -4,7 +4,7 @@ from app.database import Base
 class ProductVariant(Base):
     __tablename__ = "product_variants"
 
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     product_id = Column(Integer, ForeignKey("products.id", ondelete="CASCADE"))
     size = Column(String(20))
     color = Column(String(50))

@@ -4,7 +4,7 @@ from app.database import Base
 class Category(Base):
     __tablename__ = "categories"
 
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String(50), nullable=False)
     slug = Column(String(50), unique=True, nullable=False)
     parent_id = Column(Integer, ForeignKey("categories.id", ondelete="CASCADE"))

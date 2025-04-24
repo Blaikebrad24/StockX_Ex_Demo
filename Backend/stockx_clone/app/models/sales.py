@@ -6,7 +6,7 @@ from app.database import Base
 class Sale(Base):
     __tablename__ = "sales"
 
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     variant_id = Column(Integer, ForeignKey("product_variants.id", ondelete="SET NULL"))
     ask_id = Column(Integer, ForeignKey("asks.id", ondelete="SET NULL"))
     bid_id = Column(Integer, ForeignKey("bids.id", ondelete="SET NULL"))

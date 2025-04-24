@@ -5,7 +5,7 @@ from app.database import Base
 class Product(Base):
     __tablename__ = "products"
 
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     brand_id = Column(Integer, ForeignKey("brands.id", ondelete="CASCADE"))
     primary_category_id = Column(Integer, ForeignKey("categories.id", ondelete="SET NULL"))
     style_id = Column(String(50))

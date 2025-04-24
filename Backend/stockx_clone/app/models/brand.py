@@ -6,7 +6,7 @@ from app.database import Base
 class Brand(Base):
     __tablename__ = "brands"
     
-    id = Column(UUID(as_uuid=True), primary_key=True)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String(100), unique=True, nullable=False)
     slug = Column(String(100), unique=True, nullable=False)
     description = Column(String)

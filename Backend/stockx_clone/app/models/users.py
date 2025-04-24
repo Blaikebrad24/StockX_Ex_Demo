@@ -1,4 +1,4 @@
-from sqlalchemy import Column, String, Boolean, DateTime, DECIMAL 
+from sqlalchemy import Column, String, Integer, Boolean, DateTime, DECIMAL 
 from sqlalchemy.dialects.postgresql import UUID 
 from sqlalchemy.sql import func
 import uuid 
@@ -8,7 +8,7 @@ from app.database import Base
 class User(Base):
     __tablename__ = "users"
 
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    id = Column(Integer, primary_key=True, autoincrement=True)
     username = Column(String(50), unique=True, nullable=False)
     email = Column(String(100), unique=True, nullable=False)
     profile_picture_url = Column(String)
