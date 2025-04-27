@@ -1,0 +1,5084 @@
+{
+    "data": {
+      "results": [
+        {
+          "objectId": "cd7c5b4b-6ebb-4271-92a9-0b99b9565600",
+          "name": "Women's Premium Crochet Track",
+          "urlKey": "adidas-womens-premium-crochet-track-top-wonder-white",
+          "title": "adidas Women's Premium Crochet Track Top Wonder White",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Premium-Crochet-Track-Top-Wonder-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889976",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Premium-Crochet-Track-Top-Wonder-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889976"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "140"
+            }
+          ],
+          "variants": [
+            {
+              "id": "79fe0742-3843-406e-b1bd-feae1d4bd304",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "925aa0a5-a7c2-4514-8276-a93c394ea2a6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "73cfa355-983e-4c8b-a92b-922fd5a1e1a5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "8f279e3e-8f89-459f-a3e8-bf7273aebf51",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "516a1ad1-a447-4025-b007-78d318040176",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "226ec57c-9511-4a7f-9e7e-fa2f0781789b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a473b0f1-8c7d-4850-a016-f31075bcb115",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "485027c4-1345-4a51-9ced-1dc3a7b08cb8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "f9528416-2ae0-40e6-997a-0f40cd6bad38",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 180,
+                "updatedAt": "2025-04-26T17:48:22Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 154,
+                "updatedAt": "2025-04-17T20:52:21Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 266,
+              "lastSaleDate": "2025-04-25T18:30:12.884Z",
+              "salesThisPeriod": 3,
+              "salesLastPeriod": 0,
+              "changeValue": 6,
+              "changePercentage": 0.020237,
+              "volatility": 0.235031,
+              "pricePremium": 0.9
+            },
+            "deadStock": {
+              "sold": 31,
+              "averagePrice": 216
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 217
+              },
+              "annual": {
+                "averagePrice": 216,
+                "salesCount": 31
+              }
+            }
+          }
+        },
+        {
+          "objectId": "4e1c32b9-7aa8-48da-94c7-bfc077f22b6c",
+          "name": "Women's Liberty London Wide Leg Track",
+          "urlKey": "adidas-womens-liberty-london-wide-leg-track-pants-multicolor-night-indigo",
+          "title": "adidas Women's Liberty London Wide Leg Track Pants Multicolor/Night Indigo",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Wide-Leg-Track-Pants-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741209983",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Wide-Leg-Track-Pants-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741209983"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "75"
+            }
+          ],
+          "variants": [
+            {
+              "id": "f5860f79-ac8f-4925-99e2-436ddd484f3c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "e53ce164-e42b-4f3b-a671-ed801b14d28a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "5b29d54a-b9ad-4c30-a5a1-17467be643f3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "78e70bcb-ed6d-4f85-a21b-5a908ed67d54",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "07b21425-299f-437d-80d4-6f4ec89c08fa",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "166d8506-3643-43ae-b1ca-bc5da4085fb7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c74d66ca-c186-41c9-b8db-8eeb787c5c94",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "4f1f1a63-810b-4eca-9da2-19bab9db90ff",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 114,
+                "updatedAt": "2025-04-26T13:13:26Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 112,
+                "updatedAt": "2025-04-26T19:11:59Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 140,
+              "lastSaleDate": "2025-04-26T12:59:00Z",
+              "salesThisPeriod": 7,
+              "salesLastPeriod": 4,
+              "changeValue": -19,
+              "changePercentage": -0.119497,
+              "volatility": 0.097481,
+              "pricePremium": 0.867
+            },
+            "deadStock": {
+              "sold": 40,
+              "averagePrice": 133
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 134
+              },
+              "annual": {
+                "averagePrice": 133,
+                "salesCount": 40
+              }
+            }
+          }
+        },
+        {
+          "objectId": "be174faf-8117-4c30-8083-74323f6f02a5",
+          "name": "Womens 1996 Retro Nuptse 700 Fill Packable",
+          "urlKey": "the-north-face-womens-1996-retro-nuptse-700-fill-packable-jacket-recycled-tnf-black",
+          "title": "The North Face Womens 1996 Retro Nuptse 700 Fill Packable Jacket Recycled TNF Black",
+          "brand": "The North Face",
+          "description": "The North Face Womens 1996 Retro Nuptse 700 Fill Packable Jacket Recycled TNF Black, appearing in all sizes for women, is a garment that in a dark color.\n<br>\n<br>\nThis 1996 Retro Nuptse 700 jacket by The North Face features secure-zip hand pockets, a shockcord at the hem, non-PFC DWR finish for water repellency, an encased-elastic cuffs featuring adjustable hook-and-loop cuff tabs, and Triclimate loops for snap-in compatibility.\n<br>\n<br>\nThe The North Face Womens 1996 Retro Nuptse 700 Fill Packable Jacket Recycled TNF Black retailed for $132 at the time of its debut on the 23rd of July, 2022.",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/the-north-face-womens-1996-retro-nuptse-700-fill-packable-jacket-recycled-tnf-black-v2.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1729694243",
+            "smallImageUrl": "https://images.stockx.com/images/the-north-face-womens-1996-retro-nuptse-700-fill-packable-jacket-recycled-tnf-black-v2.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1729694243"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "330"
+            }
+          ],
+          "variants": [
+            {
+              "id": "3d1632d1-4a45-4cb0-89ce-069e1a34f72f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "26d456a5-da53-4a54-b48a-e99401f7308d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "d7ccdf19-6f49-4afa-8a4f-0cd0f367b9a6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "74709094-0f8b-4210-baa4-a6ceb39338a0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "59d4eacc-8f47-4511-adc3-5530a9eb060c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "966c150f-f41d-4dc9-bae8-998785db1195",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "87c9527e-7f54-4bc8-8959-6c4e097d0f73",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 5,
+              "lowestAsk": {
+                "amount": 196,
+                "updatedAt": "2025-04-22T04:42:58Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 232
+              },
+              "highestBid": {
+                "amount": 200,
+                "updatedAt": "2025-04-23T22:48:27Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 204,
+              "lastSaleDate": "2025-04-26T01:33:53Z",
+              "salesThisPeriod": 2,
+              "salesLastPeriod": 1,
+              "changeValue": -46,
+              "changePercentage": -0.184,
+              "volatility": 0.224429,
+              "pricePremium": -0.382
+            },
+            "deadStock": {
+              "sold": 556,
+              "averagePrice": 233
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 222
+              },
+              "annual": {
+                "averagePrice": 233,
+                "salesCount": 556
+              }
+            }
+          }
+        },
+        {
+          "objectId": "05480e37-6963-4cca-8466-ff2a9dd56261",
+          "name": "x NOCTA Women's Chalet Polar",
+          "urlKey": "nike-x-nocta-womens-chalet-polar-top-dark-blue",
+          "title": "Nike x NOCTA Women's Chalet Polar Top Dark Blue",
+          "brand": "Nike",
+          "description": "Since first launching his Nike sub-line, NOCTA, in 2020, Drake has churned out a variety of hoodies for both men and women. The Nike x NOCTA Women's Chalet Polar Top Dark Blue was a women's-exclusive hoodie that featured a relatively straightforward design with several touches that helped separate it from other hoodies that Nike and NOCTA have released in the past.\n<br>\n<br>\nThis navy blue hoodie was made of 100% polyester, and it also boasted a 100% cotton lining. It had a large kangaroo pouch on the front of it, along with a pocket on the back that came with a magnetic zipper. An elastic binding at both the hem and the cuff tied the appearance of the hoodie together and emphasized its loose fit.\n<br>\n<br>\nAlthough this hoodie didn't push too many boundaries in terms of its design, our experts appreciated its simplicity and the small details that differentiated it from the pack. The Nike x NOCTA Women's Chalet Polar Top Dark Blue was first released on December 6, 2023, and it retailed for $120.",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-x-NOCTA-Womens-Chalet-Polar-Top-Dark-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701904747",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-x-NOCTA-Womens-Chalet-Polar-Top-Dark-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701904747"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2023-12-06"
+            },
+            {
+              "name": "Retail Price",
+              "value": "120"
+            }
+          ],
+          "variants": [
+            {
+              "id": "f4d8935d-c4a9-4177-8164-8a67190bc140",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f753aea9-c10b-4c7d-a0b4-9d1a97f50a9a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "469e1e33-eb35-4b64-9b65-adf4fb7bfb7d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "77dacd29-b0a1-495f-9822-056f7852b91d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "bd97b7cd-54eb-43d7-94ec-09601a61bbb3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "b23f7e90-3802-4f13-b900-ebad60834a90",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 3,
+              "lowestAsk": {
+                "amount": 111,
+                "updatedAt": "2025-04-26T14:58:29Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 114
+              },
+              "highestBid": {
+                "amount": 167,
+                "updatedAt": "2025-04-26T06:47:30Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 128,
+              "lastSaleDate": "2025-04-25T17:09:49.849Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 1,
+              "changeValue": -24,
+              "changePercentage": -0.161133,
+              "volatility": 0.643644,
+              "pricePremium": 0.063
+            },
+            "deadStock": {
+              "sold": 313,
+              "averagePrice": 237
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 207
+              },
+              "annual": {
+                "averagePrice": 237,
+                "salesCount": 313
+              }
+            }
+          }
+        },
+        {
+          "objectId": "5f571371-70eb-4da0-9636-2714f975a542",
+          "name": "x Travis Scott Cactus Jack Women's Leather",
+          "urlKey": "jordan-x-travis-scott-cactus-jack-womens-leather-jacket-archaeo-brown",
+          "title": "Jordan x Travis Scott Cactus Jack Women's Leather Jacket Archaeo Brown",
+          "brand": "Jordan",
+          "description": "The Jordan x Travis Scott Cactus Jack Women's Leather Jacket Archaeo Brown is a collaboration between Jordan and Travis Scott. It is made of brown leather and features Cactus Jack branding on the front and back.<br><br>\nThis Jordan x Travis Scott Cactus Jack leather jacket is crafted from premium materials, ensuring both durability and style. It is made of brown leather, exuding a sense of timeless elegance. It also features a satin lining, and comes in various sizes. The jacket’s other great features include a snap closure collar, full-length zip, Cactus Jack logo embroidery, and Air Jordan patches. It also has a removable hood and zippered pockets. The design features intricate detailing, showcasing a unique blend of streetwear and luxury fashion, a hallmark of Travis Scott’s creative influence and love of vintage clothing.<br><br>\nWhat our experts love about this jacket is the intricate detailing. The leather is soft and supple, and also the stitching.. The patches and embroidery are also high-quality and add a touch of luxury. The Jordan x Travis Scott Cactus Jack Women's Leather Jacket Archaeo Brown was released on April 26th, 2023 and retailed for $600.<br><br>",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-x-Travis-Scott-Cactus-Jack-Womens-Leather-Jacket-Archaeo-Brown.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1682407020",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-x-Travis-Scott-Cactus-Jack-Womens-Leather-Jacket-Archaeo-Brown.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1682407020"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2023-04-26"
+            },
+            {
+              "name": "Retail Price",
+              "value": "600"
+            }
+          ],
+          "variants": [
+            {
+              "id": "e6a806f1-7640-4997-ab44-c6df680eb77b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "3ca2a88f-d6a4-44ac-a98d-0a950f0c42ec",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "8f9933e7-85bd-4e73-8fc7-bcd743675fa7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "ca2b9188-decb-4577-a009-0f0a807af403",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "0e7ec2c2-839f-44b4-a035-d693793a3bf5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "e2cdfd52-54a4-4367-a16d-9793f2536ca9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 200,
+                "updatedAt": "2025-04-24T10:21:06Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 186,
+                "updatedAt": "2025-04-04T16:04:26Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 306,
+              "lastSaleDate": "2025-04-25T19:39:47Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": 64,
+              "changePercentage": 0.263681,
+              "volatility": 0.209683,
+              "pricePremium": -0.491
+            },
+            "deadStock": {
+              "sold": 124,
+              "averagePrice": 256
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 268
+              },
+              "annual": {
+                "averagePrice": 256,
+                "salesCount": 124
+              }
+            }
+          }
+        },
+        {
+          "objectId": "6ca55e00-1a4c-40ff-a064-93d506f0d127",
+          "name": "Women's Liberty London Floral Track",
+          "urlKey": "adidas-womens-liberty-london-floral-track-top-multicolor-night-indigo",
+          "title": "adidas Women's Liberty London Floral Track Top Multicolor/Night Indigo",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Floral-Track-Top-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889935",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Floral-Track-Top-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889935"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "80"
+            }
+          ],
+          "variants": [
+            {
+              "id": "e781402c-44ba-4d90-8329-96296cb4e974",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "f5345d62-2907-43ef-92be-f02ad86f0e88",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "0350590d-a5ea-412a-9161-800bca4c7a8a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "3b9185fc-1f20-4ced-aace-a0e72875a102",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "8ad4c1a8-061e-4941-9450-2742cd2c8dd8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "2c3fd0af-20c2-4ee3-aa3e-ff65fa164ffa",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "056f47a4-e875-4fcb-880d-0dacf744cd9a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "235e445e-3da4-4786-ae8f-14f9b16d8a71",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "ab1a49eb-aba3-4b3a-8ed5-2a5d21621ed5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 126,
+                "updatedAt": "2025-04-26T10:52:51Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 63,
+                "updatedAt": "2025-04-26T08:36:15Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 160,
+              "lastSaleDate": "2025-04-25T21:30:40Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 3,
+              "changeValue": -4,
+              "changePercentage": -0.024847,
+              "volatility": 0.148765,
+              "pricePremium": 0.999
+            },
+            "deadStock": {
+              "sold": 6,
+              "averagePrice": 182
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 183
+              },
+              "annual": {
+                "averagePrice": 182,
+                "salesCount": 6
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d7a64185-ece0-4735-b045-0476dae5c244",
+          "name": "Women's Liberty London Cali",
+          "urlKey": "adidas-womens-liberty-london-cali-tee-multicolor-night-indigo",
+          "title": "adidas Women's Liberty London Cali Tee Multicolor/Night Indigo",
+          "brand": "adidas",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Cali-Tee-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1743529852",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Cali-Tee-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1743529852"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "45"
+            }
+          ],
+          "variants": [
+            {
+              "id": "23317c72-d9e4-49e9-81df-95c3ce570e26",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "1e636043-56af-4e0b-a536-06f369f397a3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f3a0882f-7038-473e-9e00-22b649c05e5e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "d71de36c-fc45-4dce-820a-c9cf39075fcf",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "497f4b5b-78b5-44d5-8eae-159f176cb332",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "083b34ee-b05c-4ed7-bc79-2d971d88e927",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "5ccf9a1c-81ff-4573-b62b-e73f8b390973",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "68011482-b212-4be3-98d9-109b0216a91f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 146,
+                "updatedAt": "2025-04-26T07:37:10Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 61,
+                "updatedAt": "2025-04-18T16:08:40Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "48db0bd0-c0a9-4e9c-872b-e65f58ed5c67",
+          "name": "",
+          "urlKey": "",
+          "title": "",
+          "brand": "",
+          "description": "",
+          "model": "",
+          "condition": "",
+          "productCategory": "",
+          "listingType": "",
+          "gender": "",
+          "media": "",
+          "productTraits": "",
+          "variants": "",
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 2909,
+                "updatedAt": "2025-04-26T07:32:01Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 1700,
+                "updatedAt": "2025-04-26T14:39:08Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 3496,
+              "lastSaleDate": "2025-03-01T12:47:43Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 974,
+              "changePercentage": 0.386201,
+              "volatility": 0.114651,
+              "pricePremium": 0.29
+            },
+            "deadStock": {
+              "sold": 3,
+              "averagePrice": 2973
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 3496
+              },
+              "annual": {
+                "averagePrice": 2973,
+                "salesCount": 3
+              }
+            }
+          }
+        },
+        {
+          "objectId": "e4c1794a-ef12-4452-af56-32eda70040bd",
+          "name": "Women's Milo Shark Full Zip Double",
+          "urlKey": "bape-womens-milo-shark-full-zip-double-hoodie-pink",
+          "title": "BAPE Women's Milo Shark Full Zip Double Hoodie Pink",
+          "brand": "BAPE",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/BAPE-Womens-Milo-Shark-Full-Zip-Double-Hoodie-Pink.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742218330",
+            "smallImageUrl": "https://images.stockx.com/images/BAPE-Womens-Milo-Shark-Full-Zip-Double-Hoodie-Pink.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742218330"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2025-03-08"
+            },
+            {
+              "name": "Retail Price",
+              "value": "449"
+            }
+          ],
+          "variants": [
+            {
+              "id": "f6f1b27e-7185-4bb7-bd36-ef245f42e779",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "236878c6-1bda-46a1-be1b-53879f818ab8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "fb28268e-37a9-46b3-8756-4c46e30d956c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "d2e3f332-0576-4231-b137-eb1e12eb4bb4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "38d30608-865c-4727-846c-36b354808a43",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 1498,
+                "updatedAt": "2025-04-26T11:36:52Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 350,
+                "updatedAt": "2025-04-15T04:39:42Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "91ccfae0-4e09-4ee6-b450-49a13942cb36",
+          "name": "",
+          "urlKey": "",
+          "title": "",
+          "brand": "",
+          "description": "",
+          "model": "",
+          "condition": "",
+          "productCategory": "",
+          "listingType": "",
+          "gender": "",
+          "media": "",
+          "productTraits": "",
+          "variants": "",
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 1,
+              "lowestAsk": {
+                "amount": 125,
+                "updatedAt": "2025-04-04T16:45:40Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 125
+              },
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 125,
+              "lastSaleDate": "2025-02-28T14:27:30.189Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 125
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "6fdd027e-3f50-4547-8225-6d82049aa204",
+          "name": "Interlocking G Zipper",
+          "urlKey": "gucci-interlocking-g-zipper-jacket-womens-olive-green-ivory",
+          "title": "Gucci Interlocking G Zipper Jacket (Women's) Olive Green/Ivory",
+          "brand": "Gucci",
+          "description": "",
+          "model": "Jacket (Women's)",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Gucci-Interlocking-G-Zipper-Jacket-Womens-Olive-Green-Ivory.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741896526",
+            "smallImageUrl": "https://images.stockx.com/images/Gucci-Interlocking-G-Zipper-Jacket-Womens-Olive-Green-Ivory.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741896526"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "9e3b7cba-5885-40e1-89ae-c60a6e933001",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "bdc4e43f-8596-4b59-b2d2-11d8a97eef45",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "9b1e32ac-d0f4-4b3a-8e13-0853d1bb54c0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "472163e6-0bd9-4bcf-9050-4154a2ae048b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "61398986-4edb-493b-9867-3044ecc570d1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "1aec547f-d3f9-43cb-90d9-0138c8a7a138",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 659,
+                "updatedAt": "2025-04-22T11:39:21Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 539,
+                "updatedAt": "2025-04-26T10:10:11Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 500,
+              "lastSaleDate": "2025-04-18T15:26:13Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -188,
+              "changePercentage": -0.273256,
+              "volatility": 0.207995,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 4,
+              "averagePrice": 673
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 674
+              },
+              "annual": {
+                "averagePrice": 673,
+                "salesCount": 4
+              }
+            }
+          }
+        },
+        {
+          "objectId": "e54b4838-0168-48d9-b0dd-e607630ee37a",
+          "name": "Essentials Women's Fleece Cropped",
+          "urlKey": "fear-of-god-essentials-womens-fleece-cropped-hoodie-light-heather-gray",
+          "title": "Fear of God Essentials Women's Fleece Cropped Hoodie Light Heather Gray",
+          "brand": "Fear of God",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Fear-of-God-Essentials-Womens-Fleece-Cropped-Hoodie-Light-Heather-Gray.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1731586255",
+            "smallImageUrl": "https://images.stockx.com/images/Fear-of-God-Essentials-Womens-Fleece-Cropped-Hoodie-Light-Heather-Gray.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1731586255"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-11-15"
+            },
+            {
+              "name": "Retail Price",
+              "value": "110"
+            }
+          ],
+          "variants": [
+            {
+              "id": "06d8cc0c-6b2c-44fa-a64f-e10f0766c8b0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "9b9a9489-1819-409b-88c4-e24c8d6b8cb4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "723769a7-19f7-46f5-ac59-e7ebc7ded490",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "6dc53e4f-e7ed-4efe-9e95-d67c23f2b1bc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "f5e1122b-6ce8-4e7a-833d-0ba28cbf5b6b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "c2474cf1-a5c6-4e45-92b1-b45121309090",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "a1704266-9dcb-4e5a-9f26-8118a13a25bd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "08ba05be-5185-4d3a-bf6f-0514794ee6f9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 475,
+                "updatedAt": "2025-04-26T13:14:34Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 140,
+                "updatedAt": "2025-04-04T06:32:09Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 178,
+              "lastSaleDate": "2025-04-25T13:23:01Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 1,
+              "changeValue": -2,
+              "changePercentage": -0.011111,
+              "volatility": 0.060743,
+              "pricePremium": 0.618
+            },
+            "deadStock": {
+              "sold": 22,
+              "averagePrice": 176
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 176
+              },
+              "annual": {
+                "averagePrice": 176,
+                "salesCount": 22
+              }
+            }
+          }
+        },
+        {
+          "objectId": "fa26eb1c-c3cd-45ab-a5dc-2df4b3c5d573",
+          "name": "Women's Milo Shark Full Zip Double",
+          "urlKey": "bape-womens-milo-shark-full-zip-double-hoodie-black",
+          "title": "BAPE Women's Milo Shark Full Zip Double Hoodie Black",
+          "brand": "BAPE",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/BAPE-Womens-Milo-Shark-Full-Zip-Double-Hoodie-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742218332",
+            "smallImageUrl": "https://images.stockx.com/images/BAPE-Womens-Milo-Shark-Full-Zip-Double-Hoodie-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742218332"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2025-03-08"
+            },
+            {
+              "name": "Retail Price",
+              "value": "449"
+            }
+          ],
+          "variants": [
+            {
+              "id": "8709329a-8986-4201-ae5b-03a0db05ffec",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "73a0e25a-df47-4ead-b466-5f4313db3f7c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "f7e56460-b2b9-496a-a30f-155acc0092dc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "834606d5-7ad9-45d6-b213-52c5b7822ad9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "bde6fc9c-5821-4e22-98bd-ba03c66dad01",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 1477,
+                "updatedAt": "2025-04-26T11:36:36Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 250,
+                "updatedAt": "2025-04-19T23:52:49Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "2864e54f-83b2-400d-8f51-d30cc33b5630",
+          "name": "Women's 1st Camo Big Ape Head",
+          "urlKey": "bape-womens-1st-camo-big-ape-head-tee-white-grey",
+          "title": "BAPE Women's 1st Camo Big Ape Head Tee White/Grey",
+          "brand": "BAPE",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/BAPE-Womens-1st-Camo-Big-Ape-Head-Tee-White-Grey.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1740604411",
+            "smallImageUrl": "https://images.stockx.com/images/BAPE-Womens-1st-Camo-Big-Ape-Head-Tee-White-Grey.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1740604411"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "8f5e4694-50cf-4a26-b57e-f09f3a6115fa",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "fa3207e2-ee9c-4dcc-8aac-b637b86a4e61",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "e6424f81-15e6-4b22-ab0c-417f14bb4c65",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "48d84d7e-e8b9-475f-aab4-50b5472b2862",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "0cb29c2b-9a00-4450-ad44-9c4401cbeda9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "f7e48cbb-1ec4-4ec7-aaa3-02df10de3ce1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 120,
+                "updatedAt": "2025-04-23T23:29:04Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 50,
+                "updatedAt": "2025-04-22T13:55:51Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 64,
+              "lastSaleDate": "2025-04-24T11:28:29Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": 0,
+              "volatility": 0.039063,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 6,
+              "averagePrice": 66
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 67
+              },
+              "annual": {
+                "averagePrice": 66,
+                "salesCount": 6
+              }
+            }
+          }
+        },
+        {
+          "objectId": "e6627264-3ab2-47ab-b80c-930ab3a22db4",
+          "name": "Talley Embroidery Logo Check Hooded",
+          "urlKey": "burberry-talley-embroidery-logo-check-hooded-sweatshirt-womens-black",
+          "title": "Burberry Talley Embroidery Logo Check Hooded Sweatshirt (Women's) Black",
+          "brand": "Burberry",
+          "description": "",
+          "model": "Sweatshirt (Women's)",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Burberry-Talley-Embroidery-Logo-Check-Hooded-Sweatshirt-Womens-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741896523",
+            "smallImageUrl": "https://images.stockx.com/images/Burberry-Talley-Embroidery-Logo-Check-Hooded-Sweatshirt-Womens-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741896523"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "78ec266f-47bd-4ffa-813d-c778382eff84",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "b419b993-589b-4412-b106-a1fb27f3ee7e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "e4275e73-9c50-467b-9df3-b34451481476",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "e389d898-ae72-410c-8c8f-08a56ba3e4ce",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "295df4a2-aa66-47ea-a69a-0b3539aadc3c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "185282eb-f712-4480-8562-bbdf9d96069d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 237,
+                "updatedAt": "2025-04-22T21:12:26Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 109,
+                "updatedAt": "2025-04-25T06:16:57Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 282,
+              "lastSaleDate": "2025-03-18T01:54:31Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 282
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "8eaba0bc-e65d-4773-b906-1d0d23795292",
+          "name": "",
+          "urlKey": "",
+          "title": "",
+          "brand": "",
+          "description": "",
+          "model": "",
+          "condition": "",
+          "productCategory": "",
+          "listingType": "",
+          "gender": "",
+          "media": "",
+          "productTraits": "",
+          "variants": "",
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 1,
+              "lowestAsk": {
+                "amount": 125,
+                "updatedAt": "2025-04-04T16:45:40Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 125
+              },
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 169,
+              "lastSaleDate": "2024-12-04T14:39:48.266Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "5b8c3bf6-b22c-417c-8a40-01cc325b5b28",
+          "name": "Women's ABC Camo Milo On Big Ape",
+          "urlKey": "bape-womens-abc-camo-milo-on-big-ape-tee-black-blue",
+          "title": "BAPE Women's ABC Camo Milo On Big Ape Tee Black/Blue",
+          "brand": "BAPE",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/BAPE-Womens-ABC-Camo-Milo-On-Big-Ape-Tee-Black-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741975277",
+            "smallImageUrl": "https://images.stockx.com/images/BAPE-Womens-ABC-Camo-Milo-On-Big-Ape-Tee-Black-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741975277"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2025-03-01"
+            },
+            {
+              "name": "Retail Price",
+              "value": "139"
+            }
+          ],
+          "variants": [
+            {
+              "id": "5f40ab6b-df8a-44b8-8cd3-26130ca70f18",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "9dd5a437-6595-489d-8295-48447ae79fee",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "e7cb863f-2499-4f39-8190-ae409f2a346a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "a50aa316-c852-4637-9c67-4e81f7f66ddf",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "f482d8db-192d-43cb-b833-e779a807f104",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "ba054ec0-4e84-4229-89e4-eec8ea443aa2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "c9de77a2-b425-4b66-ba20-4e0d14ddb5a2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 134,
+                "updatedAt": "2025-04-25T01:47:09Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 50,
+                "updatedAt": "2025-04-07T00:24:17Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 102,
+              "lastSaleDate": "2025-04-25T01:46:01Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "35351bb0-f8fa-4177-b2ca-c1398aff1125",
+          "name": "Women's Letter Graphic Cotton Blend Zip",
+          "urlKey": "burberry-womens-letter-graphic-cotton-blend-zip-hoodie-black",
+          "title": "Burberry Women's Letter Graphic Cotton Blend Zip Hoodie Black",
+          "brand": "Burberry",
+          "description": "Burberry is a brand that has been around for almost 170 years, so the company has certainly created its fair share of hoodies at this point. But the Burberry Women's Letter Graphic Cotton Blend Zip Hoodie Black seemed to be proof that it isn't going to stop coming up with new hoodie designs anytime soon.\n<br>\n<br>\nThis particular hoodie featured a regular fit, a zip-up closure, and a relatively basic design that allowed the Burberry check pattern to shine. The bulk of the hoodie was done up in black, aside from the gold zipper and, of course, the Burberry check pattern that appeared prominently on the interior of its hood.\n<br>\n<br>\nWhat we loved most about this hoodie was the simplicity of it all. Rather than going with a more over-the-top design, Burberry chose to stick with what has worked for the brand in the past by letting its signature check pattern do the talking. The Burberry Women's Letter Graphic Cotton Blend Zip Hoodie Black was released as part of Burberry's Spring/Summer 2023 collection and originally retailed for $920.",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Burberry-Womens-Letter-Graphic-Cotton-Blend-Zip-Hoodie-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1676902894",
+            "smallImageUrl": "https://images.stockx.com/images/Burberry-Womens-Letter-Graphic-Cotton-Blend-Zip-Hoodie-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1676902894"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "920"
+            }
+          ],
+          "variants": [
+            {
+              "id": "7c07a888-0610-4747-a136-2a807e821695",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "522c69ca-7010-4f08-a014-392dab581974",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "07fe65e8-498c-43c5-ba81-76786491509d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "8e336caa-886e-4e92-922e-98aa28d772f6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "8d63958f-1330-4a59-8152-4fd326f6e8bb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "3eccb7c2-8898-444a-aa3f-3fcdd045d68c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "034ad352-f34c-4cff-9303-3ac02fd8c417",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 433,
+                "updatedAt": "2025-04-24T20:42:45Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 372,
+                "updatedAt": "2025-04-26T10:07:03Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 577,
+              "lastSaleDate": "2025-04-24T03:38:49Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 1,
+              "changeValue": 138,
+              "changePercentage": 0.313715,
+              "volatility": 0.191933,
+              "pricePremium": -0.373
+            },
+            "deadStock": {
+              "sold": 36,
+              "averagePrice": 427
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 582
+              },
+              "annual": {
+                "averagePrice": 427,
+                "salesCount": 36
+              }
+            }
+          }
+        },
+        {
+          "objectId": "abdf036f-bb39-4ea3-ab11-0e3fc7275e21",
+          "name": "Women's Satin",
+          "urlKey": "adidas-womens-satin-shorts-multicolor-bronze-strata",
+          "title": "adidas Women's Satin Shorts Multicolor/Bronze Strata",
+          "brand": "adidas",
+          "description": "",
+          "model": "Shorts",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Satin-Shorts-Multicolor-Bronze-Strata.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741038068",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Satin-Shorts-Multicolor-Bronze-Strata.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741038068"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "35"
+            }
+          ],
+          "variants": [
+            {
+              "id": "5f8301e9-d4b4-4bd2-85a5-3648abe9c0b2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "5fc60f24-85d5-4b39-aa89-bebd01856645",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "8e45d3d1-0495-42f8-932d-1f9bf14dd519",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "f15ae338-6799-4d88-891e-b7f8725bb056",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "6ebf1920-f100-48ea-b2a2-02e92a0c79d4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "fc184975-1cee-42d2-ae4e-29cd5d7a4e6f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c5ac2925-e82b-47ec-8798-e5bd07cedf13",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "0a58980c-5bcd-42d3-bf2b-24d06cfac1b2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 70,
+                "updatedAt": "2025-04-26T11:18:57Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 38,
+                "updatedAt": "2025-04-25T23:12:31Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 109,
+              "lastSaleDate": "2025-04-26T13:42:09Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": -15,
+              "changePercentage": -0.127699,
+              "volatility": 0.203497,
+              "pricePremium": 2.114
+            },
+            "deadStock": {
+              "sold": 3,
+              "averagePrice": 102
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 102
+              },
+              "annual": {
+                "averagePrice": 102,
+                "salesCount": 3
+              }
+            }
+          }
+        },
+        {
+          "objectId": "fe5ffd50-c9ff-4881-8d5c-7238edc9d565",
+          "name": "",
+          "urlKey": "",
+          "title": "",
+          "brand": "",
+          "description": "",
+          "model": "",
+          "condition": "",
+          "productCategory": "",
+          "listingType": "",
+          "gender": "",
+          "media": "",
+          "productTraits": "",
+          "variants": "",
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 467,
+                "updatedAt": "2025-04-26T08:28:07Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 130,
+              "lastSaleDate": "2024-07-30T18:52:00Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 7,
+              "changePercentage": 0.055325,
+              "volatility": 0.146145,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 2,
+              "averagePrice": 127
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 127,
+                "salesCount": 2
+              }
+            }
+          }
+        },
+        {
+          "objectId": "0558d3f3-3e02-4cdb-ae6f-57c8d5343688",
+          "name": "Women's Adicolor Classic Firebird Loose Track",
+          "urlKey": "adidas-womens-adicolor-classic-firebird-loose-track-top-collegiate-green-crew-yellow",
+          "title": "adidas Women's Adicolor Classic Firebird Loose Track Top Collegiate Green/Crew Yellow",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Top-Collegiate-Green-Crew-Yellow.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890117",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Top-Collegiate-Green-Crew-Yellow.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890117"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "70"
+            }
+          ],
+          "variants": [
+            {
+              "id": "66fbf9a2-f802-4d12-b640-07916583ebff",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "a9322b5b-2597-410e-bf51-9a3bca3a156c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "60499c00-352c-408e-a336-c41bd991f66c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "8918e2e5-21b4-47c9-92ba-d128f8d8d455",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "fcc93c93-14d7-4573-a616-7fb42c2ace21",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "9f7a8f36-40c6-4b23-91f4-728aa2813a58",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "c8d9f608-c083-4127-b0f3-1383ccbb83a7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "65f0924a-63dd-4535-9787-5274f5715716",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "2ede69b9-2304-4f90-a71a-0a1e68560a30",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 114,
+                "updatedAt": "2025-04-26T13:10:20Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "e3891bef-53a8-4e3d-8f19-7496bf810e7b",
+          "name": "Sportswear Women's Phoenix Cozy Boucle Long Knit",
+          "urlKey": "nike-sportswear-womens-phoenix-cozy-boucle-long-knit-cardigan-white",
+          "title": "Nike Sportswear Women's Phoenix Cozy Boucle Long Knit Cardigan White",
+          "brand": "Nike",
+          "description": "",
+          "model": "Cardigan",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Sportswear-Womens-Phoenix-Cozy-Boucle-Long-Knit-Cardigan-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737496236",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Sportswear-Womens-Phoenix-Cozy-Boucle-Long-Knit-Cardigan-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737496236"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "39bf17f1-5c92-490f-91f9-d1d6789e1f97",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "74cf3d10-0b7a-456b-ac97-2a5d5c724795",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "24da7788-5b10-4b9c-a23c-e22984042cda",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "555b598c-a9ea-41a5-89c4-70b1573d77e3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "845f874f-10d8-492d-98f5-517e16354095",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "12b2848c-6b3b-4746-8831-ada17f6c8407",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 78,
+                "updatedAt": "2025-04-02T04:14:07Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 55,
+                "updatedAt": "2025-04-23T11:56:36Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 70,
+              "lastSaleDate": "2025-04-25T05:08:16Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 1,
+              "changeValue": -17,
+              "changePercentage": -0.195402,
+              "volatility": 0.08657,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 20,
+              "averagePrice": 84
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 84
+              },
+              "annual": {
+                "averagePrice": 84,
+                "salesCount": 20
+              }
+            }
+          }
+        },
+        {
+          "objectId": "f8530159-a447-4788-aaf8-d88d1f21b0cd",
+          "name": "Women's Adicolor Short Sleeve Track Long-Sleeve",
+          "urlKey": "adidas-womens-adicolor-short-sleeve-track-long-sleeve-top-black",
+          "title": "adidas Women's Adicolor Short Sleeve Track Long-Sleeve Top Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Short-Sleeve-Track-Long-Sleeve-Top-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890165",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Short-Sleeve-Track-Long-Sleeve-Top-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890165"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "50"
+            }
+          ],
+          "variants": [
+            {
+              "id": "015efb95-7dfd-4c3a-9a62-1c95529bb354",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "3f203eff-b761-4af2-9007-31bf4c6401ba",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "1f48636b-6f3d-476c-8e9c-32a9e6642f0b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "ad121a65-a229-48ed-ae49-baf4592c23f9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "350078b7-6d07-4f3e-bfd6-e8f4f04d382b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "82da1aa7-6b2b-4330-a30f-c80b867c65fc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "8e7d6832-7fc1-4dd4-b4f9-87557190c158",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "e4fcec7d-ca04-4bdf-aa4c-4a4b695d5675",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "d329e044-5154-4a5d-8e0f-2c45ee5b5f10",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 118,
+                "updatedAt": "2025-04-26T15:25:14Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 24,
+                "updatedAt": "2025-04-26T10:32:04Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "5c3177bb-7224-4617-a2e9-e8865570cc6e",
+          "name": "Women's Adicolor 3-Stripes Long Sleeve Crop Long-Sleeve",
+          "urlKey": "adidas-womens-adicolor-3-stripes-long-sleeve-crop-long-sleeve-top-better-scarlet",
+          "title": "adidas Women's Adicolor 3-Stripes Long Sleeve Crop Long-Sleeve Top Better Scarlet",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-3-Stripes-Long-Sleeve-Crop-Long-Sleeve-Top-Better-Scarlet.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890082",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-3-Stripes-Long-Sleeve-Crop-Long-Sleeve-Top-Better-Scarlet.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890082"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "33"
+            }
+          ],
+          "variants": [
+            {
+              "id": "2fcb8ad6-e8b2-46e7-b166-6d8884edda18",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "7c15aacf-173f-4b10-921a-d75aac4efdc0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "c95a5500-1744-4448-b014-b27a3e3e2e8e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "e1284771-9a5d-4cc1-b1ce-71744e3f06cd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "84b14ef7-47ff-4605-b83d-942302fb6f85",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "27620cde-1ed0-4a0b-b99c-7041a451d356",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "f8dd0bc9-829b-43c4-8789-77c1c08d4485",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "55d03cdc-80e2-4626-81bb-db1b4db37a57",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "514fbe18-ea72-43d8-b6aa-584b3bc86e58",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 102,
+                "updatedAt": "2025-04-26T15:19:21Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 10,
+                "updatedAt": "2025-04-26T10:33:41Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "73fd689c-851f-43f8-8755-781cb0f2a6ac",
+          "name": "Women's Firebird Badge Track",
+          "urlKey": "adidas-womens-firebird-badge-track-top-preloved-green",
+          "title": "adidas Women's Firebird Badge Track Top Preloved Green",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Firebird-Badge-Track-Top-Preloved-Green.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889928",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Firebird-Badge-Track-Top-Preloved-Green.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889928"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "75"
+            }
+          ],
+          "variants": [
+            {
+              "id": "5adeede6-e9dd-4125-83b0-473e9998d515",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "183241a9-a4ba-4b94-98d1-c81737f7cd1e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "c77ded30-cd15-4cd6-bb8f-123ee82525df",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "b00bd104-344f-437e-92cd-5e2fd8cd7798",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "228245e1-6342-49a8-9aed-d61a10f8b319",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "0b90b020-e787-4db2-9be2-eda114cfd945",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "8035b837-0ceb-4c5c-a550-2abc2ef5f830",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "10a7fad2-3c8d-440a-848a-4a47fa2fa1a3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "31c2495c-b680-45ab-b907-df9f366a97a2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 99,
+                "updatedAt": "2025-04-26T13:14:56Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 48,
+                "updatedAt": "2025-04-26T12:10:14Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "0e5b5f8a-7648-41a9-9fa9-ea2f0314967f",
+          "name": "Women's Premium Collared Track",
+          "urlKey": "adidas-womens-premium-collared-track-top-black",
+          "title": "adidas Women's Premium Collared Track Top Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Premium-Collared-Track-Top-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890026",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Premium-Collared-Track-Top-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890026"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-12-13"
+            },
+            {
+              "name": "Retail Price",
+              "value": "120"
+            }
+          ],
+          "variants": [
+            {
+              "id": "fc273f9a-f756-4af5-b3c1-aa9a37820941",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "48d4c2aa-4c12-45cf-82cb-a1ad68ab399c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "deaff994-91a9-4b96-b8d2-a2b41e4a6618",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "6d2e0f3c-cb9a-4f30-aef3-cc9664be3a5c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "7bd054e4-b0a3-43e0-ae85-bd5d7e891de6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "7b83022b-3ee3-4d1c-a20c-b2a09845f50a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "60d3d439-36d6-4c2b-99e4-11374afaf732",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "9246163d-e3e8-4687-b0f3-2315bb1ea99c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "f0dfc685-4f56-433f-b5b5-1027669313cd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 262,
+                "updatedAt": "2025-04-26T07:17:28Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 95,
+                "updatedAt": "2025-04-26T06:07:43Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "70371a88-c14e-4a26-96e5-c0e78a560506",
+          "name": "Women's Adicolor Denim Firebird",
+          "urlKey": "adidas-womens-adicolor-denim-firebird-shorts-indigo-denim",
+          "title": "adidas Women's Adicolor Denim Firebird Shorts Indigo Denim",
+          "brand": "adidas",
+          "description": "",
+          "model": "Shorts",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Denim-Firebird-Shorts-Indigo-Denim.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741038067",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Denim-Firebird-Shorts-Indigo-Denim.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741038067"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "50"
+            }
+          ],
+          "variants": [
+            {
+              "id": "d750514d-9da8-454c-98e2-ecbb7e8d2da8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "d98caaa7-db86-4ae0-81f8-534df2289c75",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "6313b7cc-6248-4ee8-8e6a-6a3aa4d204a4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "ed892d42-28a6-4652-9c6a-f304f4dd87ef",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "17d5c637-f693-4c75-b338-61ab2a22b2ac",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a9829892-6565-4411-9c20-7b50c44775e1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "1c2056f7-1c9a-4c87-ab11-7368ed4d1da4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "b77e5627-b667-4634-b99e-053ef6cd50de",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 100,
+                "updatedAt": "2025-04-17T23:32:48Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 50,
+                "updatedAt": "2025-04-18T18:55:04Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 121,
+              "lastSaleDate": "2025-04-26T16:36:31Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 2,
+              "changePercentage": 0.016807,
+              "volatility": 0.13483,
+              "pricePremium": 1.42
+            },
+            "deadStock": {
+              "sold": 4,
+              "averagePrice": 105
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 105
+              },
+              "annual": {
+                "averagePrice": 105,
+                "salesCount": 4
+              }
+            }
+          }
+        },
+        {
+          "objectId": "71b747cd-4f90-4ac6-8d64-3282ec2fd433",
+          "name": "Women's Adicolor Classic Firebird Loose Track Tracksuit",
+          "urlKey": "adidas-womens-adicolor-classic-firebird-loose-track-tracksuit-bottoms-trace-brown",
+          "title": "adidas Women's Adicolor Classic Firebird Loose Track Tracksuit Bottoms Trace Brown",
+          "brand": "adidas",
+          "description": "",
+          "model": "Bottoms",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Tracksuit-Bottoms-Trace-Brown.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104248",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Tracksuit-Bottoms-Trace-Brown.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104248"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "60"
+            }
+          ],
+          "variants": [
+            {
+              "id": "0e8532c9-3b96-4270-8346-1063266ffe89",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "6e63edae-a7bb-4c39-92fa-ec252c31e0ad",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "581c6b83-79a7-4cc2-9e72-7c7691d03834",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "faabcb6b-0586-4273-a99a-ac1c74afc72d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "2d5e9f0d-648c-4902-9cbd-38cd58254eb4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "fc311f03-306e-49ab-8206-e9d3fa6d21e0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "ccdc4e7c-f868-455b-9b16-d8f660b1b3eb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "5cb0168e-9863-43f6-83d5-8ebe932a006c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 101,
+                "updatedAt": "2025-04-16T17:05:39Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 17,
+                "updatedAt": "2025-04-26T10:27:06Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 121,
+              "lastSaleDate": "2025-04-26T11:58:57Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -3,
+              "changePercentage": -0.02494,
+              "volatility": 0.012789,
+              "pricePremium": 1.015
+            },
+            "deadStock": {
+              "sold": 2,
+              "averagePrice": 122
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 123
+              },
+              "annual": {
+                "averagePrice": 122,
+                "salesCount": 2
+              }
+            }
+          }
+        },
+        {
+          "objectId": "8b718e27-3d9f-47ec-8e7e-e1adeae1ac24",
+          "name": "Women's 3-Stripes Flared Firebird Track",
+          "urlKey": "adidas-womens-3-stripes-flared-firebird-track-pants-black",
+          "title": "adidas Women's 3-Stripes Flared Firebird Track Pants Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-3-Stripes-Flared-Firebird-Track-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741209813",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-3-Stripes-Flared-Firebird-Track-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741209813"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "65"
+            }
+          ],
+          "variants": [
+            {
+              "id": "9c5b8255-47ec-4182-8652-3b69a7c88aab",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "c66195d0-e84b-4363-a5c8-92407be0f1e0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "ef412edc-94be-4309-8755-70653c79e4c0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "aa832f31-d691-4e99-a403-af661024f5f9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "20d2c403-d46b-4885-a0bf-795952913a97",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "0d211cca-cb6d-4dd9-8fa1-42c019d4d65e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "bead7a98-cbb5-4090-8075-c0d1e4b160b9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "b11f0a35-cb88-4b6d-809a-3271020692c8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 146,
+                "updatedAt": "2025-04-26T15:21:58Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 39,
+                "updatedAt": "2025-04-26T10:34:42Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "1b074a1b-976a-488c-81ee-8e1dd8505b23",
+          "name": "x Palace Women's On Court",
+          "urlKey": "adidas-x-palace-womens-on-court-dress-white",
+          "title": "adidas x Palace Women's On Court Dress White",
+          "brand": "adidas",
+          "description": "",
+          "model": "Dress",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-x-Palace-Womens-On-Court-Dress-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1732288329",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-x-Palace-Womens-On-Court-Dress-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1732288329"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2018-07-03"
+            }
+          ],
+          "variants": [
+            {
+              "id": "d27c1c03-b2db-4cf1-8f62-4e6b6b804966",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "71ae6a2c-aa67-460f-bd4a-d096483979ac",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "63b02a68-ce47-4afd-a131-6e3b3bdf1210",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "2562a544-582b-49a0-bda5-09d3b3d8c12d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "7759d779-c52b-421a-b999-6f0e8bc8e876",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "1fcaa9b1-82d6-4f1f-8d0d-7e81f2d9563c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 78,
+                "updatedAt": "2024-11-25T20:08:03Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 105,
+              "lastSaleDate": "2025-04-24T13:32:06Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 1,
+              "changeValue": 40,
+              "changePercentage": 0.604454,
+              "volatility": 0.188446,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 7,
+              "averagePrice": 79
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 76
+              },
+              "annual": {
+                "averagePrice": 79,
+                "salesCount": 7
+              }
+            }
+          }
+        },
+        {
+          "objectId": "9a17a627-e607-4562-91c0-8bbd45385002",
+          "name": "Women's Tech Fleece Windrunner Full Zip",
+          "urlKey": "nike-womens-tech-fleece-windrunner-full-zip-hoodie-black",
+          "title": "Nike Women's Tech Fleece Windrunner Full Zip Hoodie Black",
+          "brand": "Nike",
+          "description": "The Nike Women's Tech Fleece Windrunner Full Zip Hoodie Black is constructed with a mixture of 69% cotton and 31% polyester.\n<br>\n<br>\nThis Windrunner long-sleeved hoodie is an all-black garment that features a spacer knit by Nike. The garment also includes a stretch material for mobility, an internal stash pocket, a full-zip front and lined hood for coverage. The Chevron design patterns lines with surrounding tape to highlight the detailing. For branding, there’s a printed Nike Swoosh on the left chest.\n<br>\n<br>\nThe Nike Women's Tech Fleece Windrunner Full Zip Hoodie Black was released on December 18th, 2020, retailing at a price of $120.",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Womens-Tech-Fleece-Windrunner-Full-Zip-Hoodie-Black-Product-1.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1738193358",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Womens-Tech-Fleece-Windrunner-Full-Zip-Hoodie-Black-Product-1.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1738193358"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "120"
+            }
+          ],
+          "variants": [
+            {
+              "id": "e93dbfce-b661-4430-944f-0dddd83a1f92",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "4bb42366-59c3-4648-b696-70d327558da8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "5fda24bd-6f06-4ee4-b6c6-4d57fe2aa950",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "b471845a-21d5-4aac-985f-5a8fb4e63812",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "93bb74a9-96f3-4107-93f4-e207ed052590",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "aa48e761-8455-4adc-b0e2-464e5505e55e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 78,
+                "updatedAt": "2025-04-03T21:33:06Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 35,
+                "updatedAt": "2025-04-13T04:58:57Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 168,
+              "lastSaleDate": "2025-04-22T10:16:43Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 3,
+              "changeValue": 75,
+              "changePercentage": 0.804002,
+              "volatility": 0.203422,
+              "pricePremium": 0.398
+            },
+            "deadStock": {
+              "sold": 107,
+              "averagePrice": 86
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 99
+              },
+              "annual": {
+                "averagePrice": 86,
+                "salesCount": 107
+              }
+            }
+          }
+        },
+        {
+          "objectId": "b8f4fbe4-ff6f-49ff-88ef-4589d1fc57ff",
+          "name": "Women's Leopard Firebird Track",
+          "urlKey": "adidas-womens-leopard-firebird-track-pants-black",
+          "title": "adidas Women's Leopard Firebird Track Pants Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Leopard-Firebird-Track-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741209931",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Leopard-Firebird-Track-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741209931"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "65"
+            }
+          ],
+          "variants": [
+            {
+              "id": "5d8ac361-1e4b-42e7-bd83-9fd820f62c69",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "2bf1933b-1016-429a-9009-22c6b5243e30",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "717e163a-0e76-4959-8c2f-5857fdfa6725",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "10613013-9c2d-4af2-bf32-d3eac6c0f3ba",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "d525ef70-4ea1-4893-bc83-ee3bbd5ff3cb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "16d9d06e-ce83-4e58-8277-d3171380a7d2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "4ac45bc3-05a1-4002-be28-9a75335c67cb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "d882ebc6-2217-43f6-ac08-aa1f20deb620",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 98,
+                "updatedAt": "2025-04-26T15:24:16Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 60,
+                "updatedAt": "2025-03-16T01:01:56Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "ad1d1ff4-5a0a-4098-ac9d-01b0ce06a03c",
+          "name": "Sportswear Women's Phoenix Cozy Boucle Long Knit",
+          "urlKey": "nike-sportswear-womens-phoenix-cozy-boucle-long-knit-cardigan-mauve",
+          "title": "Nike Sportswear Women's Phoenix Cozy Boucle Long Knit Cardigan Mauve",
+          "brand": "Nike",
+          "description": "",
+          "model": "Cardigan",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Sportswear-Womens-Phoenix-Cozy-Boucle-Long-Knit-Cardigan-Mauve.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737496192",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Sportswear-Womens-Phoenix-Cozy-Boucle-Long-Knit-Cardigan-Mauve.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737496192"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "23052601-d7d5-44f7-a92a-daba24060894",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "d908ea53-7e67-4803-b5ea-d6009e473f90",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "6b4710c3-c246-40f4-adff-c8ff375179f3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "f9cd1485-90a6-408f-aed1-5e5456cfb32c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "34c78018-6c26-4f37-87b4-05b852b8ffb3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "4ff16e43-6e26-4e95-9ebe-48a4105e2282",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 4,
+              "lowestAsk": {
+                "amount": 72,
+                "updatedAt": "2025-04-05T05:48:40Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 90
+              },
+              "highestBid": {
+                "amount": 70,
+                "updatedAt": "2025-04-24T05:45:13Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 78,
+              "lastSaleDate": "2025-04-25T05:06:52Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -22,
+              "changePercentage": -0.22,
+              "volatility": 0.170168,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 18,
+              "averagePrice": 87
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 88
+              },
+              "annual": {
+                "averagePrice": 87,
+                "salesCount": 18
+              }
+            }
+          }
+        },
+        {
+          "objectId": "fab68c8e-0f0a-4fe4-8954-08a26d028533",
+          "name": "Women's Adicolor Classic Firebird Loose Track Tracksuit",
+          "urlKey": "adidas-womens-adicolor-classic-firebird-loose-track-tracksuit-bottoms-maroon-cream-white",
+          "title": "adidas Women's Adicolor Classic Firebird Loose Track Tracksuit Bottoms Maroon/Cream White",
+          "brand": "adidas",
+          "description": "",
+          "model": "Bottoms",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Tracksuit-Bottoms-Maroon-Cream-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104285",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Tracksuit-Bottoms-Maroon-Cream-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104285"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "60"
+            }
+          ],
+          "variants": [
+            {
+              "id": "306b6d12-060a-4518-bea6-cc949a0061f7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "b28df0cd-b9ac-4cb3-949e-d43312d5d1d0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "ea4aded1-312f-4079-8077-18655ec8a036",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "000bf52f-b57e-4464-bee4-0bb87a8d6297",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "47064aa5-624d-4a3c-95b4-d8e5974c5838",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "b3453915-2094-4467-8ab9-be9ee268bb32",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "fc0c1228-3bd8-4311-9778-0e581d779511",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "6930132d-cc80-4695-a91b-e5a835a4acc6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 140,
+                "updatedAt": "2025-04-26T15:27:39Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 70,
+                "updatedAt": "2025-04-18T02:02:04Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "dafb400f-4b67-4f5f-8388-551fbc0fd0b8",
+          "name": "Women's Adicolor Sheer Track Tracksuit",
+          "urlKey": "adidas-womens-adicolor-sheer-track-tracksuit-bottoms-black",
+          "title": "adidas Women's Adicolor Sheer Track Tracksuit Bottoms Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Bottoms",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Sheer-Track-Tracksuit-Bottoms-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104318",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Sheer-Track-Tracksuit-Bottoms-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104318"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "60"
+            }
+          ],
+          "variants": [
+            {
+              "id": "e7f0d91e-29ac-4805-880a-5d72f25f3607",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "d358f58f-86f2-4cb5-a284-11d17c173718",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "6e80c726-c454-4518-bbb6-f3b076dcc39e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "7db3486c-97fb-47a9-b16f-94b2f533e6b0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "53cb76c4-0d7f-472a-96ee-7edb08bac431",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "f882a1cf-ae05-4f37-83d3-dbe0daa07976",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "64ef9b2a-a379-4238-8ab3-4829e0ffaef6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "571a8972-1fc1-4bc0-8cee-01d34bf66678",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 140,
+                "updatedAt": "2025-04-26T15:19:01Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 38,
+                "updatedAt": "2025-04-26T10:33:43Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "59af87e0-9056-47c6-9f53-6bd988e3099b",
+          "name": "Women's Adicolor Classic Firebird Loose Track Tracksuit",
+          "urlKey": "adidas-womens-adicolor-classic-firebird-loose-track-tracksuit-bottoms-collegiate-green-semi-green-spark",
+          "title": "adidas Women's Adicolor Classic Firebird Loose Track Tracksuit Bottoms Collegiate Green/Semi Green Spark",
+          "brand": "adidas",
+          "description": "",
+          "model": "Bottoms",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Tracksuit-Bottoms-Collegiate-Green-Semi-Green-Spark.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104266",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Tracksuit-Bottoms-Collegiate-Green-Semi-Green-Spark.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104266"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "60"
+            }
+          ],
+          "variants": [
+            {
+              "id": "5e6a0e37-cea0-4a93-b064-6539d5afb130",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "8cb88f6c-0c33-4988-99c7-bcf11cf5bd63",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "375c717f-487d-4496-89e7-908e5dcab49b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "70b97f40-89a8-4bce-881d-3f02a44a6d45",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "6a339f43-511a-4736-92e7-d8dd78c8d722",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "48e8844f-93c4-4453-bf66-c32b89a80fba",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "6da9fd39-a0e6-426f-85ae-4ff57722af2d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "1cb1d197-d9c0-419f-a58e-73b3b17c73ec",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 140,
+                "updatedAt": "2025-04-26T15:19:29Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 38,
+                "updatedAt": "2025-04-26T10:27:31Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d447343f-e752-46ba-ad92-9e70c308b1f0",
+          "name": "x Sporty & Rich Women's Track",
+          "urlKey": "adidas-x-sporty-rich-womens-track-pants-night-navy",
+          "title": "adidas x Sporty & Rich Women's Track Pants Night Navy",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-x-Sporty-Rich-Womens-Track-Pants-Night-Navy.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1740693036",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-x-Sporty-Rich-Womens-Track-Pants-Night-Navy.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1740693036"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2025-02-27"
+            },
+            {
+              "name": "Retail Price",
+              "value": "90"
+            }
+          ],
+          "variants": [
+            {
+              "id": "03a0787b-3746-4a04-947e-4761631a8563",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "dea6204e-706c-4616-b255-ae3b49939a5a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "8dd5cf33-7ed9-4ba6-942d-6434cddac417",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "d38580f0-636b-40a6-9a36-29622a0667d0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "23cfb114-7258-48c4-a154-4d5c862d43cb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "c296546c-a813-48df-9d50-c1847a919a30",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c8532482-6c42-4375-bf7f-d3418594c8d3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 180,
+                "updatedAt": "2025-04-19T11:48:30Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 94,
+                "updatedAt": "2025-04-26T09:30:59Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "b39ffedf-7da0-435c-becd-dfc18ccbd4f4",
+          "name": "Women's Farm Rio Pacer",
+          "urlKey": "adidas-womens-farm-rio-pacer-shorts-bold-pink-spring-yellow-lucid-fuchsia",
+          "title": "adidas Women's Farm Rio Pacer Shorts Bold Pink/Spring Yellow/Lucid Fuchsia",
+          "brand": "adidas",
+          "description": "",
+          "model": "Shorts",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Farm-Rio-Pacer-Shorts-Bold-Pink-Spring-Yellow-Lucid-Fuchsia.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741037972",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Farm-Rio-Pacer-Shorts-Bold-Pink-Spring-Yellow-Lucid-Fuchsia.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741037972"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "33"
+            }
+          ],
+          "variants": [
+            {
+              "id": "463c6eeb-c10b-4468-aeb3-3f9e48502d81",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "37490cd9-3bfe-44b6-bc2b-4d6522c3455a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "5a01dbb9-0969-41e2-9916-8d4b63e497aa",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "b2d6f601-64d1-443c-8367-14247a1e02f6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "712a0598-87ac-4340-8fbf-55396b5f041a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "f614fc47-950f-44b3-975b-ecaec048fed4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "bbbf70ef-83fd-4b14-a52e-bfad3e9ef498",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "758fa536-1124-4f4c-b8b8-17bee3ea7a93",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 86,
+                "updatedAt": "2025-04-26T15:14:38Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 43,
+                "updatedAt": "2025-04-05T17:04:40Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "040f92bc-6150-431c-b18c-0a3128dbbf37",
+          "name": "Women's Truepurpose Optime 7/8",
+          "urlKey": "adidas-womens-truepurpose-optime-7-8-leggings-black",
+          "title": "adidas Women's Truepurpose Optime 7/8 Leggings Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Leggings",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Truepurpose-Optime-7-8-Leggings-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741035460",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Truepurpose-Optime-7-8-Leggings-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741035460"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "85"
+            }
+          ],
+          "variants": [
+            {
+              "id": "79e8efa8-2300-4aea-b936-2aa8ef19da80",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "83c406b6-1990-4eb9-8df1-1ad026153233",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "17853a7a-d801-4396-8537-6f4d1413f638",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "68afb300-db84-4f9f-960e-05cffd0903d3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "1f91f58f-47e9-4b1f-a1fb-d83425dc622c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "e11442d6-185a-4f0c-910d-7ccbaa46a209",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "e8638725-f038-4d87-bdc6-740b219e2951",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "9f18caf7-698b-4361-89b0-b41b739b0f07",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 153,
+                "updatedAt": "2025-04-26T15:18:33Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 66,
+                "updatedAt": "2025-04-26T10:46:14Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d6b037e0-248e-4eed-8eb2-695d3faee68d",
+          "name": "x NOCTA Women's Chalet Polar",
+          "urlKey": "nike-x-nocta-womens-chalet-polar-pant-dark-blue",
+          "title": "Nike x NOCTA Women's Chalet Polar Pant Dark Blue",
+          "brand": "Nike",
+          "description": "The Nike x NOCTA Women's Chalet Polar Pant Dark Blue is a collaborative piece between Nike and NOCTA, a sub-label founded by Canadian rapper Drake. Designed with comfort and style in mind, these pants offer a blend of athletic functionality and urban streetwear aesthetics.\n<br>\n<br>\nCrafted from soft, high-quality polar fleece fabric, these pants feature a relaxed, straight-leg silhouette with a slightly tapered hem for a modern look. Their predominant color is dark blue, offering a versatile and timeless aesthetic. Its elastic waistband provides a secure and adjustable fit, while the drawstring closure allows for further customization when it comes to sizing.\n<br>\n<br>\nWhat our experts especially enjoy about the Nike x NOCTA Womens Chalet Polar Pant Dark Blue, however, is the subtle white NOCTO and Nike branding on the legs. These pants originally retailed for a price of $110 when they were released on December 6, 2023.",
+          "model": "Pant",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-x-NOCTA-Womens-Chalet-Polar-Pant-Dark-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701904737",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-x-NOCTA-Womens-Chalet-Polar-Pant-Dark-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701904737"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2023-12-06"
+            },
+            {
+              "name": "Retail Price",
+              "value": "110"
+            }
+          ],
+          "variants": [
+            {
+              "id": "0cd80d94-fc63-4d1e-97d7-df82be026985",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "da044a0d-4bf1-45fc-97bc-0c2e27351cbb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f892c7f9-3a85-4bb7-82c3-5ce4e45c2701",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "63d42ef5-db95-4a82-a77f-2734700f3107",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "a1ece5cf-1839-4ffc-9dea-b943898b6e7d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a02fe4ed-9e46-4b02-bcf7-61b5a3d9c047",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "f3652ebb-2c4b-4bd3-9cc1-5b843d6334c0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 1,
+              "lowestAsk": {
+                "amount": 154,
+                "updatedAt": "2025-04-08T05:16:47Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 154
+              },
+              "highestBid": {
+                "amount": 90,
+                "updatedAt": "2025-04-23T19:16:43Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 383,
+              "lastSaleDate": "2025-04-20T06:08:38Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 248,
+              "changePercentage": 1.834948,
+              "volatility": 0.172857,
+              "pricePremium": 2.482
+            },
+            "deadStock": {
+              "sold": 190,
+              "averagePrice": 172
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 167
+              },
+              "annual": {
+                "averagePrice": 172,
+                "salesCount": 190
+              }
+            }
+          }
+        },
+        {
+          "objectId": "addd33e3-97db-4fe6-85c4-8b3896612364",
+          "name": "x Sporty & Rich Women's Track",
+          "urlKey": "adidas-x-sporty-rich-womens-track-pants-maroon",
+          "title": "adidas x Sporty & Rich Women's Track Pants Maroon",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-x-Sporty-Rich-Womens-Track-Pants-Maroon.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1740693063",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-x-Sporty-Rich-Womens-Track-Pants-Maroon.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1740693063"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2025-02-27"
+            },
+            {
+              "name": "Retail Price",
+              "value": "90"
+            }
+          ],
+          "variants": [
+            {
+              "id": "22d0786b-c764-4c6e-84cd-876867b9a827",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "84aea3e7-c91c-4668-93af-7a6086b2d16b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "17f186b8-eb95-4772-b2ce-2f1705337200",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "ebebb49c-894f-4b7f-9c8d-e22a3d4c3380",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "9080805e-381b-4621-8e25-fff83612d840",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "461556a5-d2f0-4c4f-a2e2-56c820ff5987",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "91a70ad7-fa71-47ef-ba09-127bea60db13",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 180,
+                "updatedAt": "2025-04-19T11:47:56Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 17,
+                "updatedAt": "2025-04-26T10:34:54Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 150,
+              "lastSaleDate": "2025-03-28T00:17:32Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -30,
+              "changePercentage": -0.168128,
+              "volatility": 0.08876,
+              "pricePremium": 0.664
+            },
+            "deadStock": {
+              "sold": 3,
+              "averagePrice": 161
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 162
+              },
+              "annual": {
+                "averagePrice": 161,
+                "salesCount": 3
+              }
+            }
+          }
+        },
+        {
+          "objectId": "56332946-c5be-4526-ab45-58ffc85be832",
+          "name": "Womens Oversized Swoosh Logo",
+          "urlKey": "nike-womens-oversized-swoosh-logo-jacket-black-fossil",
+          "title": "Nike Womens Oversized Swoosh Logo Jacket Black/Fossil",
+          "brand": "Nike",
+          "description": "The Nike Womens Oversized Swoosh Logo Jacket Black Fossil became available as part of a women's collection by apparel and manufacturer brand Nike.\n<br>\n<br>\nThe Oversized Swoosh Logo Jacket comes in black and fossil and is made using faux fur and polyester materials. This sherpa fleece garment displays side pockets, an elastic hem, cuffs, and a collar. In addition, it has a full zipper at the front and a large white Nike logo done in white color running across the chest, which gives it its overall look.\n<br>\n<br>\nThe Nike Womens Oversized Swoosh Logo Jacket Black Fossil was released on the 1st of February 2022 and retailed for $170.",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Womens-Oversized-Swoosh-Logo-Jacket-Black-Fossil.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1643831606",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Womens-Oversized-Swoosh-Logo-Jacket-Black-Fossil.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1643831606"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "170"
+            }
+          ],
+          "variants": [
+            {
+              "id": "75f35b4f-b040-4379-abb5-a5d157efcf45",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "ac9f0b0b-8213-42d3-b1d4-6d29766b8330",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "853db8dc-a6a2-47fd-800d-63c0344aee1b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "f8293efc-7c85-4d27-b7b3-467e9b865224",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "102a49c1-9680-4b8c-b6f9-789412315275",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "9a51be7d-ef76-4f16-b8f3-56a9d653e46e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 82,
+                "updatedAt": "2025-04-25T01:17:07Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 75,
+                "updatedAt": "2025-04-23T15:57:15Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 100,
+              "lastSaleDate": "2025-04-23T00:17:49Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 1,
+              "changeValue": 10,
+              "changePercentage": 0.111111,
+              "volatility": 0.316839,
+              "pricePremium": -0.412
+            },
+            "deadStock": {
+              "sold": 89,
+              "averagePrice": 107
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 116
+              },
+              "annual": {
+                "averagePrice": 107,
+                "salesCount": 89
+              }
+            }
+          }
+        },
+        {
+          "objectId": "04fbf414-87f5-484b-916f-5520dd35cb58",
+          "name": "Women's ABC Camo Crystal Logo Wide Zip",
+          "urlKey": "bape-womens-abc-camo-crystal-logo-wide-zip-hoodie-pink",
+          "title": "BAPE Women's ABC Camo Crystal Logo Wide Zip Hoodie Pink",
+          "brand": "BAPE",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/BAPE-Womens-ABC-Camo-Crystal-Logo-Wide-Zip-Hoodie-Pink.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1739217155",
+            "smallImageUrl": "https://images.stockx.com/images/BAPE-Womens-ABC-Camo-Crystal-Logo-Wide-Zip-Hoodie-Pink.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1739217155"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2025-02-08"
+            },
+            {
+              "name": "Retail Price",
+              "value": "320"
+            }
+          ],
+          "variants": [
+            {
+              "id": "4868b2ed-7604-4c3a-ab3a-0d3bdc8aa761",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "aed51a91-c3c9-458c-a7ee-238ed13d1e78",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "8f02aa1b-776b-46e3-827a-9d1dddbe0f69",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "c844cc14-2411-4fbd-bb5a-76349823d377",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "bc3bc705-27f8-465b-b78c-87e59f2c61e9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "abd4e918-6b6c-47b4-a9e2-a5f3cfc03502",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 400,
+                "updatedAt": "2025-04-04T16:55:27Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 350,
+                "updatedAt": "2025-03-28T23:31:29Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 405,
+              "lastSaleDate": "2025-02-11T19:22:59Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 1,
+              "averagePrice": 405
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 405
+              },
+              "annual": {
+                "averagePrice": 405,
+                "salesCount": 1
+              }
+            }
+          }
+        },
+        {
+          "objectId": "aaa23f64-6976-44fe-8ce0-31f02096d69e",
+          "name": "Sportswear Women's Phoenix Cozy Boucle Long Knit",
+          "urlKey": "nike-sportswear-womens-phoenix-cozy-boucle-long-knit-cardigan-grey",
+          "title": "Nike Sportswear Women's Phoenix Cozy Boucle Long Knit Cardigan Grey",
+          "brand": "Nike",
+          "description": "",
+          "model": "Cardigan",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Sportswear-Womens-Phoenix-Cozy-Boucle-Long-Knit-Cardigan-Grey.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737496147",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Sportswear-Womens-Phoenix-Cozy-Boucle-Long-Knit-Cardigan-Grey.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737496147"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "209a5386-ded4-4810-ae61-ae1088000127",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "6bc0c0d1-e76d-4df4-ad00-99533adbeb13",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "32472e58-865d-4ca4-9ad2-e4258920dcef",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "91d6f040-7aba-4cd3-8a41-ae40f4bb218f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a942b023-a484-4f76-bedf-73a97a3ffa5b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "96e4b979-a021-4563-8897-43daa45f3b34",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 75,
+                "updatedAt": "2025-04-09T17:09:35Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 100,
+                "updatedAt": "2025-04-06T19:15:45Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 73,
+              "lastSaleDate": "2025-04-16T13:37:23Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 3,
+              "changePercentage": 0.042857,
+              "volatility": 0.332059,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 12,
+              "averagePrice": 83
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 83
+              },
+              "annual": {
+                "averagePrice": 83,
+                "salesCount": 12
+              }
+            }
+          }
+        }
+      ],
+      "page": 1,
+      "limit": 40,
+      "total": 8425
+    }
+  }
