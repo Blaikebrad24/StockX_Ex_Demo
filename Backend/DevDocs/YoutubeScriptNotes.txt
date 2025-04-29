@@ -4,7 +4,7 @@ StockX Youtube Video Dev Notes
  - Python 
         [#] Explain why python
  - SQLAlchemy ORM 
-        [#] Defines database tables that are in Postgres as Python classes instead of using raw sql characters
+        [#] Defines database tables that are in Postgres as Python classes instead of using raw sql queries/ creating
 - Alembic 
         [#] Took that works with SQLAlchemy to manage the database schema migrations (create/alter tables etc)
 - FastAPI 
@@ -12,6 +12,7 @@ StockX Youtube Video Dev Notes
 
 [#][#][#][#] TECH STACK [#][#][#][#]
 
+----- > Setup | Python Installation | Docker Postgres Container | SQLAlchemy Pydantic Alembic Configuration < -----
 [#] Python Installation 
 
         [#] Python Installation on Windows Steps: 
@@ -33,6 +34,7 @@ StockX Youtube Video Dev Notes
 
             - Explain: Project file structure and relevance 
             - Explain: Virtual Environment and its purpose for this Project
+                        - recommended for python for dependency version complications
                 TERMINAL COMMANDS: 
                     - mkdir stockx-Demo
                     - cd stockX-Demo
@@ -55,11 +57,64 @@ StockX Youtube Video Dev Notes
                                 Alembic will enable you to make changes to you database schema 
                                 and keep track of versioning. 
 
+                [$$$] SQLAlchemy ORM  - uses python classes to represent and define database tables 
+
+        STEPS: 
         [#] Review Postgres tables & DatabaseTables.txt for proposed 'schema'
         [#] Create a 'database.py' configuration file to initialize SQLAlchemy (setup) and database URL
+                [#] Create model classes and schemas
         [#] Install 'alembic' if not already and initialize within the /app Directory
                 [#] pip install alembic 
                 [#] alembic init alembic -> creates an alembic env and a 'alembic.in'
                 [#] Set 'sqlalchemy.url' in 'alembic.ini' to postgresql database url 
-                [#] configure 'env.py' in the /alembic/env.py' directory, modify to import models
+                [#] configure 'env.py' in the /alembic/env.py' directory, import all classe within /models directory to /alembic/env.py as 'app.models'
+                [#] create Alembic revision 'alembic revision --autogenerate -m "Initial Migration" -> THEN -> alembic upgrade HEAD
+        [#] Pydantic schemas
+                [#] DTOs for FastAPI route handlers
+                [#] Used for validating incoming requests data 'UserCreate'
+                [#] Controlling the response format 'UserOut'
+        [#] Creating Tables in Dev: init_db.py
+                [#]  Run command in root folder Script location -> python -m app/utils/Scripts/init_db.py
+
+----- > Creating the data | Python Script | RapidAPI data cleaning | Multithreading < -----
         
+[#] Collecting data from RapidAPI -> Sneaker Database - StockX API 
+        [#] Data collection endpoints 
+                [#] StockX Only - Sneakers Only 
+                                [#] Can use for products data table
+                                [#] Brands 
+                                        - adidas, Air Jordan, Asics, New Balance , Nike, Puma, Yeezy
+                [#] APPAREL
+                                [#] Returns apparel for brand query string, use for products etc
+                [#] Most Popular 
+                                [#] use for most popular row on front end 
+                [#] Simple Search
+                                [#] use to fill in for other data 
+        [#] Data tables that will be ingested with data -> products, users
+
+
+        [#] StockX Endpoint data collections | Utis/Data/**
+                [# FROM] /getProducts -> Stockx Only
+                        - Nike
+                        - adidas
+                        - New Balance
+                        - Air Jordan
+                        - Asics
+                        - Yeezy
+                        - Travis Scott
+                   
+                [# FROM] /ApparelSearch - Women    
+        
+        [#] Cleaning data from RapidAPI | Data Conversion | Database Injection
+                [X] Data cleaning for 'Sneakers/StockXOnly/*.json' files into 'product.py' data table
+                [#] 'products' Postgres data cleaning 
+                id (UUID) -> JSON objectId must be parsed as UUID type
+                thumbnail_url -> Nested field from media
+                retail_price -> Extracted from product traits
+                last_sale_price, last_sale_date -> Deeply nested in market.salesInformation
+                average_price, sales_count -> Nested in market.statistics.annual
+                description -> Sometimes empty or missing in JSON
+                listing_type, category -> Renamed fields to match DB
+                last_sale_date -> ISO string â†’ datetime
+
+                

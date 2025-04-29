@@ -5,9 +5,7 @@ from app.database import engine, Base
 
 # ✅ IMPORT ALL MODEL FILES (registers tables with metadata)
 from app.models import (
-    users, brand, categories, product, product_variants,
-    asks, bids, sales, product_media, sponsored_listings,
-    trending_products, watchlist, search_history
+    users, product,sales
 )
 
 def create_tables():

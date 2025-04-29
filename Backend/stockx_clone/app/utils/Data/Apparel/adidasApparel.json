@@ -1,0 +1,5255 @@
+{
+    "data": {
+      "results": [
+        {
+          "objectId": "da9c60e0-964b-4b9c-beb6-d311f9b7955b",
+          "name": "Originals x Minecraft",
+          "urlKey": "adidas-originals-x-minecraft-jacket-pulse-magenta",
+          "title": "adidas Originals x Minecraft Jacket Pulse Magenta",
+          "brand": "adidas",
+          "description": "",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "unisex",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Originals-x-Minecraft-Jacket-Pulse-Magenta.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068847",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Originals-x-Minecraft-Jacket-Pulse-Magenta.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068847"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "130"
+            }
+          ],
+          "variants": [
+            {
+              "id": "c2be2ef7-3512-4aed-8514-a8fef97b0183",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "cb2dc149-2970-408a-a8e2-0846457ee932",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "e61040d4-b1a1-4f07-bccc-3824b759f21e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "a0fb4c3e-b9f8-4ff3-8a09-217b90ca7369",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "03e99a12-e315-4929-a8eb-6fe96db3c301",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "2e8351cd-5845-4aa1-928f-648ae88f30b2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "af7d8c60-5585-464a-96c5-d9dcdf2a7c9b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "8ca34356-3746-4cab-b74f-1d28c1ca8d8f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 129,
+                "updatedAt": "2025-04-27T20:05:26Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 100,
+                "updatedAt": "2025-04-12T04:15:34Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 138,
+              "lastSaleDate": "2025-04-27T23:52:23Z",
+              "salesThisPeriod": 10,
+              "salesLastPeriod": 18,
+              "changeValue": -5,
+              "changePercentage": -0.034965,
+              "volatility": 0.158617,
+              "pricePremium": 0.062
+            },
+            "deadStock": {
+              "sold": 145,
+              "averagePrice": 143
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 144
+              },
+              "annual": {
+                "averagePrice": 143,
+                "salesCount": 145
+              }
+            }
+          }
+        },
+        {
+          "objectId": "58754505-99dd-406d-9fe0-e012344d7d6e",
+          "name": "Real Madrid 99/00 Away",
+          "urlKey": "adidas-real-madrid-99-00-away-jersey-black",
+          "title": "adidas Real Madrid 99/00 Away Jersey Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Real-Madrid-99-00-Away-Jersey-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1745605036",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Real-Madrid-99-00-Away-Jersey-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1745605036"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "105"
+            }
+          ],
+          "variants": [
+            {
+              "id": "2cb16c16-c4eb-469c-bfb3-86340e874242",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "4fd112d4-59f7-4284-9297-d9313ed22dad",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "3e1c7b91-27db-4a40-af43-3dd96cf14264",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "e01826f6-a0aa-4615-819f-4f47aeb5f053",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "4627f504-c9bb-46be-acf3-28ff5d638428",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "f9792c9c-fe71-4a80-8908-14ce290277bc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "25b32a7e-8f44-49fc-81af-f4bf8dd5c1c4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 220,
+                "updatedAt": "2025-04-28T17:25:12Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 100,
+                "updatedAt": "2025-04-27T10:13:16Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "cd7c5b4b-6ebb-4271-92a9-0b99b9565600",
+          "name": "Women's Premium Crochet Track",
+          "urlKey": "adidas-womens-premium-crochet-track-top-wonder-white",
+          "title": "adidas Women's Premium Crochet Track Top Wonder White",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Premium-Crochet-Track-Top-Wonder-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889976",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Premium-Crochet-Track-Top-Wonder-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889976"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "140"
+            }
+          ],
+          "variants": [
+            {
+              "id": "79fe0742-3843-406e-b1bd-feae1d4bd304",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "925aa0a5-a7c2-4514-8276-a93c394ea2a6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "73cfa355-983e-4c8b-a92b-922fd5a1e1a5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "8f279e3e-8f89-459f-a3e8-bf7273aebf51",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "516a1ad1-a447-4025-b007-78d318040176",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "226ec57c-9511-4a7f-9e7e-fa2f0781789b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a473b0f1-8c7d-4850-a016-f31075bcb115",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "485027c4-1345-4a51-9ced-1dc3a7b08cb8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "f9528416-2ae0-40e6-997a-0f40cd6bad38",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 178,
+                "updatedAt": "2025-04-28T11:10:09Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 154,
+                "updatedAt": "2025-04-17T20:52:21Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 200,
+              "lastSaleDate": "2025-04-28T02:26:58Z",
+              "salesThisPeriod": 3,
+              "salesLastPeriod": 4,
+              "changeValue": 21,
+              "changePercentage": 0.117318,
+              "volatility": 0.288956,
+              "pricePremium": 0.429
+            },
+            "deadStock": {
+              "sold": 33,
+              "averagePrice": 214
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 215
+              },
+              "annual": {
+                "averagePrice": 214,
+                "salesCount": 33
+              }
+            }
+          }
+        },
+        {
+          "objectId": "4e1c32b9-7aa8-48da-94c7-bfc077f22b6c",
+          "name": "Women's Liberty London Wide Leg Track",
+          "urlKey": "adidas-womens-liberty-london-wide-leg-track-pants-multicolor-night-indigo",
+          "title": "adidas Women's Liberty London Wide Leg Track Pants Multicolor/Night Indigo",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Wide-Leg-Track-Pants-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741209983",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Wide-Leg-Track-Pants-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741209983"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "75"
+            }
+          ],
+          "variants": [
+            {
+              "id": "f5860f79-ac8f-4925-99e2-436ddd484f3c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "e53ce164-e42b-4f3b-a671-ed801b14d28a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "5b29d54a-b9ad-4c30-a5a1-17467be643f3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "78e70bcb-ed6d-4f85-a21b-5a908ed67d54",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "07b21425-299f-437d-80d4-6f4ec89c08fa",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "166d8506-3643-43ae-b1ca-bc5da4085fb7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c74d66ca-c186-41c9-b8db-8eeb787c5c94",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "4f1f1a63-810b-4eca-9da2-19bab9db90ff",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 114,
+                "updatedAt": "2025-04-28T09:34:03Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 112,
+                "updatedAt": "2025-04-26T19:11:59Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 137,
+              "lastSaleDate": "2025-04-26T22:50:09Z",
+              "salesThisPeriod": 2,
+              "salesLastPeriod": 8,
+              "changeValue": -3,
+              "changePercentage": -0.021429,
+              "volatility": 0.098793,
+              "pricePremium": 0.827
+            },
+            "deadStock": {
+              "sold": 40,
+              "averagePrice": 133
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 134
+              },
+              "annual": {
+                "averagePrice": 133,
+                "salesCount": 40
+              }
+            }
+          }
+        },
+        {
+          "objectId": "c15dd0d1-71cd-4b61-8237-a41a0a72fecb",
+          "name": "Adicolor Denim Firebird Track",
+          "urlKey": "adidas-adicolor-denim-firebird-track-top-medium-blue-denim",
+          "title": "adidas Adicolor Denim Firebird Track Top Medium Blue Denim",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Adicolor-Denim-Firebird-Track-Top-Medium-Blue-Denim.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889820",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Adicolor-Denim-Firebird-Track-Top-Medium-Blue-Denim.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889820"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2025-02-12"
+            },
+            {
+              "name": "Retail Price",
+              "value": "85"
+            }
+          ],
+          "variants": [
+            {
+              "id": "f24834b3-392d-4ac4-a50c-d0a119edaba1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "4e76f2e7-f6cc-4680-bcd3-eb50c7da2871",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "5c164aeb-2410-4151-8741-1a443575f474",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "bfabfe6c-88db-4916-8cc3-71ec7add2d1b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "85483d9d-8d3b-426e-a18a-1a16a659cdaf",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "5705ee2c-3acd-4210-8d21-3f26dd6bff11",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "ac35561a-78de-4ecd-befd-86dce8a18287",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 121,
+                "updatedAt": "2025-04-28T09:38:44Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 80,
+                "updatedAt": "2025-04-28T07:50:29Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 120,
+              "lastSaleDate": "2025-04-26T07:36:24Z",
+              "salesThisPeriod": 2,
+              "salesLastPeriod": 1,
+              "changeValue": 1,
+              "changePercentage": 0.008403,
+              "volatility": 0.095674,
+              "pricePremium": 0.412
+            },
+            "deadStock": {
+              "sold": 14,
+              "averagePrice": 125
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 126
+              },
+              "annual": {
+                "averagePrice": 125,
+                "salesCount": 14
+              }
+            }
+          }
+        },
+        {
+          "objectId": "1ad9e2fb-0075-4a30-a7d5-e9aec26462f8",
+          "name": "Originals x Minecraft Track",
+          "urlKey": "adidas-originals-x-minecraft-track-top-hazy-blue-magic-lime-tribe-green",
+          "title": "adidas Originals x Minecraft Track Top Hazy Blue/Magic Lime/Tribe Green",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "unisex",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Originals-x-Minecraft-Track-Top-Hazy-Blue-Magic-Lime-Tribe-Green.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068860",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Originals-x-Minecraft-Track-Top-Hazy-Blue-Magic-Lime-Tribe-Green.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068860"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "90"
+            }
+          ],
+          "variants": [
+            {
+              "id": "a2d09b99-3086-4c42-b2b6-910aad8b5b84",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "9786fe3e-ec97-4e7d-8b5c-0b121b340dfe",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "18deabea-ffd0-486a-b0ee-9b7b3d66f7b9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "e07dce6f-2f79-4d4a-91d4-4ad9c9411ba6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "ed5d8e32-b055-41ab-b9e6-66ebc121833c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "f67927c5-6f4a-405a-b19e-8a0137c87c2c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c0e82ee4-2ca7-4eaa-a504-2154412259a1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "598b42e1-b69a-4bae-881a-9a64cbde5149",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 326,
+                "updatedAt": "2025-04-28T11:38:23Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 27,
+                "updatedAt": "2025-04-28T07:51:56Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 387,
+              "lastSaleDate": "2025-04-27T23:02:50Z",
+              "salesThisPeriod": 2,
+              "salesLastPeriod": 0,
+              "changeValue": 277,
+              "changePercentage": 2.518182,
+              "volatility": 0.308223,
+              "pricePremium": 3.3
+            },
+            "deadStock": {
+              "sold": 3,
+              "averagePrice": 222
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 222
+              },
+              "annual": {
+                "averagePrice": 222,
+                "salesCount": 3
+              }
+            }
+          }
+        },
+        {
+          "objectId": "78831660-1f41-4bbd-8a74-4bd09e04e08f",
+          "name": "Real Madrid 2024/25 Lifestyler Anthem",
+          "urlKey": "adidas-real-madrid-2024-25-lifestyler-anthem-track-top-charcoal",
+          "title": "adidas Real Madrid 2024/25 Lifestyler Anthem Track Top Charcoal",
+          "brand": "adidas",
+          "description": "The adidas Real Madrid 2024/25 Lifestyler Anthem Track Top in Charcoal is a stylish and versatile piece for fans of the iconic Spanish football club. This track top features a sleek charcoal colorway that exudes sophistication and urban appeal. Crafted with adidas' renowned attention to detail, it combines comfort and functionality, making it perfect for both casual wear and pre-match preparations.<br><br>Designed as part of the 2024/25 collection, this track top showcases the Real Madrid crest, proudly representing the club's rich heritage. The full-zip front allows for easy on and off, while the ribbed cuffs and hem provide a snug fit. Made with high-quality materials, it offers durability and breathability, ensuring you stay comfortable whether you're cheering from the stands or going about your daily activities.<br><br>Our team thinks this product is great for die-hard Real Madrid supporters and fashion-conscious individuals alike, offering a perfect blend of team spirit and street-ready style.",
+          "model": "Track Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Real-Madrid-2024-25-Lifestyler-Anthem-Track-Top-Charcoal.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1726003863",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Real-Madrid-2024-25-Lifestyler-Anthem-Track-Top-Charcoal.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1726003863"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "125"
+            }
+          ],
+          "variants": [
+            {
+              "id": "aa1401b1-4bd4-4879-ab57-643bc493bae3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "93f42350-11a5-4164-a99a-4a617221fe27",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "11a54b1f-30af-4def-9594-76eb6e7ccb36",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "2b37e108-37b9-4f19-896d-b9d40e5c383e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "2ead6d70-36ce-4096-ba7e-7b1131f01311",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "a8011136-0e55-4e80-8ac7-804776a976e5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "a0df83f4-d6d8-4357-8ea2-e7247b505858",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            },
+            {
+              "id": "2410b1de-f2c2-4d76-923d-109408abf531",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 6,
+              "lowestAsk": {
+                "amount": 126,
+                "updatedAt": "2025-04-28T06:29:13Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 132
+              },
+              "highestBid": {
+                "amount": 100,
+                "updatedAt": "2025-04-17T02:24:19Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 125,
+              "lastSaleDate": "2025-04-28T06:35:35.254Z",
+              "salesThisPeriod": 2,
+              "salesLastPeriod": 4,
+              "changeValue": -87,
+              "changePercentage": -0.410377,
+              "volatility": 0.227865,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 253,
+              "averagePrice": 132
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 131
+              },
+              "annual": {
+                "averagePrice": 132,
+                "salesCount": 253
+              }
+            }
+          }
+        },
+        {
+          "objectId": "10613013-9c2d-4af2-bf32-d3eac6c0f3ba",
+          "name": "",
+          "urlKey": "",
+          "title": "",
+          "brand": "",
+          "description": "",
+          "model": "",
+          "condition": "",
+          "productCategory": "",
+          "listingType": "",
+          "gender": "",
+          "media": "",
+          "productTraits": "",
+          "variants": "",
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 148,
+                "updatedAt": "2025-04-28T06:40:10Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "ec4106b6-4c5a-4e3f-956e-b6ab04eb5011",
+          "name": "Real Madrid CF OG Track",
+          "urlKey": "adidas-real-madrid-cf-og-track-top-wonder-white-magic-lilac",
+          "title": "adidas Real Madrid CF OG Track Top Wonder White/Magic Lilac",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Real-Madrid-CF-OG-Track-Top-Wonder-White-Magic-Lilac.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737573070",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Real-Madrid-CF-OG-Track-Top-Wonder-White-Magic-Lilac.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1737573070"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "105"
+            }
+          ],
+          "variants": [
+            {
+              "id": "9a5b033b-4b65-4678-9a6c-3b5d980b9c9b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "e8555b34-ef18-49c4-b502-ae41816620dd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "7061fd43-ed65-44a5-8b6c-3cb290d9a3b0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "52619021-0c56-43f5-87ef-19c82b84aada",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "3741ab4d-3519-4c0c-8fa1-819f1e4302ed",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "7ae6bc99-ff8c-4113-b914-d78e8c257f07",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "a2fb34b2-1b7a-475d-aaaf-af108e4d8ad1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 80,
+                "updatedAt": "2025-04-01T20:26:04Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 72,
+                "updatedAt": "2025-04-07T20:05:57Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 80,
+              "lastSaleDate": "2025-04-28T08:22:19Z",
+              "salesThisPeriod": 2,
+              "salesLastPeriod": 1,
+              "changeValue": -28,
+              "changePercentage": -0.260039,
+              "volatility": 0.43752,
+              "pricePremium": -0.238
+            },
+            "deadStock": {
+              "sold": 24,
+              "averagePrice": 119
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 118
+              },
+              "annual": {
+                "averagePrice": 119,
+                "salesCount": 24
+              }
+            }
+          }
+        },
+        {
+          "objectId": "f053eb7c-a9ea-46a0-b522-25cd092b7dcc",
+          "name": "",
+          "urlKey": "",
+          "title": "",
+          "brand": "",
+          "description": "",
+          "model": "",
+          "condition": "",
+          "productCategory": "",
+          "listingType": "",
+          "gender": "",
+          "media": "",
+          "productTraits": "",
+          "variants": "",
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 99,
+                "updatedAt": "2025-04-08T02:01:17Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 85,
+              "lastSaleDate": "2024-12-30T09:35:44Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 22,
+              "changePercentage": 0.349206,
+              "volatility": 0.374033,
+              "pricePremium": -0.227
+            },
+            "deadStock": {
+              "sold": 2,
+              "averagePrice": 74
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 74,
+                "salesCount": 2
+              }
+            }
+          }
+        },
+        {
+          "objectId": "cdd34171-9c36-4420-b347-8bce56900dac",
+          "name": "x Y-3 U GF S/S",
+          "urlKey": "adidas-x-y-3-u-gf-s-s-tee-cwhite",
+          "title": "adidas x Y-3 U GF S/S Tee Cwhite",
+          "brand": "adidas",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-x-Y-3-U-GF-S-S-Tee-Cwhite.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744224282",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-x-Y-3-U-GF-S-S-Tee-Cwhite.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744224282"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-07-30"
+            },
+            {
+              "name": "Retail Price",
+              "value": "150"
+            }
+          ],
+          "variants": [
+            {
+              "id": "1dc991b2-ceb3-4973-9e63-0f9924e900b8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "343d651e-fc1a-4561-a56e-33385b1146a1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "867a42a2-d8b5-417c-ba1f-f16f2e30c29e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "e87606d0-2ad8-49a5-8ad8-0b0f7fc0d558",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "1e9a22fa-3e37-4f6b-bee3-ad3b82ed4af6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "2cb39e57-0f74-4057-8766-c7bb135b6ce1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 569,
+                "updatedAt": "2025-04-28T15:40:58Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "e34177c3-b720-4c5e-a35d-b67429875093",
+          "name": "Colombia 24 Anniversary",
+          "urlKey": "adidas-colombia-24-anniversary-jersey-chalk-white",
+          "title": "adidas Colombia 24 Anniversary Jersey Chalk White",
+          "brand": "adidas",
+          "description": "",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Colombia-24-Anniversary-Jersey-Chalk-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1739803744",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Colombia-24-Anniversary-Jersey-Chalk-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1739803744"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "d3ab945e-cc63-47be-8035-e485482e76a1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "0e995f9d-db18-49ce-86c4-ae176af3d9b7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "f4c83d88-fb5d-4b78-9311-091c375b878d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "f0dc21c0-7312-4651-9144-4178dca791cb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "939e0338-682c-417a-bb77-c1d932f9b30c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "42747f89-e594-468a-ac7b-fd54de444950",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "ecdb12cf-a649-443a-99f2-18e72d7ffd2c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 179,
+                "updatedAt": "2025-04-24T03:40:19Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 125,
+                "updatedAt": "2025-04-11T19:51:09Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 159,
+              "lastSaleDate": "2025-04-26T18:57:42Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 3,
+              "changeValue": -28,
+              "changePercentage": -0.153616,
+              "volatility": 0.240364,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 43,
+              "averagePrice": 198
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 198
+              },
+              "annual": {
+                "averagePrice": 198,
+                "salesCount": 43
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d849500a-df2d-44ac-814b-7678242815af",
+          "name": "x Y-3 U GFX S/S",
+          "urlKey": "adidas-x-y-3-u-gfx-s-s-tee-white",
+          "title": "adidas x Y-3 U GFX S/S Tee White",
+          "brand": "adidas",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-x-Y-3-U-GFX-S-S-Tee-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744224161",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-x-Y-3-U-GFX-S-S-Tee-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744224161"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-12-03"
+            },
+            {
+              "name": "Retail Price",
+              "value": "150"
+            }
+          ],
+          "variants": [
+            {
+              "id": "294676c6-34b5-4c8e-a039-42efba20062b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "dbbbde18-fe36-436c-8206-e0a0adafa86b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "bf8574ef-2aa7-493b-90b9-635a7e6b2bb2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "34d66ba4-f979-4cc4-a9e3-c7151289385a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "5b8d3819-e71d-438e-ba59-bac3a41d58b6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "3be98637-79dd-49aa-9b9f-eab47cdde530",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 496,
+                "updatedAt": "2025-04-28T15:44:04Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 200,
+              "lastSaleDate": "2025-04-28T07:11:20Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 1,
+              "averagePrice": 200
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 200
+              },
+              "annual": {
+                "averagePrice": 200,
+                "salesCount": 1
+              }
+            }
+          }
+        },
+        {
+          "objectId": "2d8969a9-4392-46ca-9132-650eb70bffe5",
+          "name": "Originals x Minecraft Kids Track",
+          "urlKey": "adidas-originals-x-minecraft-kids-track-pants-silver-pebble-magic-lime-tribe-green-legend-ivy",
+          "title": "adidas Originals x Minecraft Kids Track Pants Silver Pebble/Magic Lime/Tribe Green/Legend Ivy",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "kids",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Originals-x-Minecraft-Kids-Track-Pants-Silver-Pebble-Magic-Lime-Tribe-Green-Legend-Ivy.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068855",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Originals-x-Minecraft-Kids-Track-Pants-Silver-Pebble-Magic-Lime-Tribe-Green-Legend-Ivy.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068855"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "45"
+            }
+          ],
+          "variants": [
+            {
+              "id": "a9173f0e-57ba-483e-8509-bc900ef2ca5d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "e16ab36c-9516-48a9-8382-e985d87fd0b3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "ba3de9b4-1360-4ac4-9786-140f60e8adbe",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "591f1efb-6772-4271-a970-d2b4e034069e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "e7feae6b-4553-4feb-8caf-928eb686d573",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "4aa82d1f-5f72-48d4-bb5f-a1f15325323b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "4880d8c3-3cc3-4150-b856-651b94947e02",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "63847444-4657-47be-8321-2e05c2b0162d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 269,
+                "updatedAt": "2025-04-28T15:29:26Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 45,
+                "updatedAt": "2025-04-20T19:38:27Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "9ea2c4f0-1121-4ecb-89f6-936f6fc16901",
+          "name": "Argentina 1994 Away",
+          "urlKey": "adidas-argentina-1994-away-jersey-blue",
+          "title": "adidas Argentina 1994 Away Jersey Blue",
+          "brand": "adidas",
+          "description": "The adidas Argentina 1994 Away Jersey Blue pays homage to the Argentina National Football Team and the FIFA World Cup in 1994. \n<br>\n<br> \nKeeping with a nod to the team, the Blue adidas Argentina 1994 Away Jersey color scheme is bright blue, black, and white. The number 10, worn by legendary players Armando Maradona and Lionel Messi, is printed in the center of the jersey. Other noticeable features of this throwback jersey include a striped sleeve, rows of diamonds, and the Football Federation badge on the left side of the shirt. It has a polo collar and snap closure, which gives it a more stylish look. Of course, the adidas name is proudly displayed in its top center.\n<br>\n<br> \nOur team is most impressed with the cut of the adidas Argentina 1994 Away Jersey Blue. Like jerseys worn in the 1990s, this is made of polyester and oversized for an easy and comfortable fit. When adidas released this jersey on December 1, 2023, it originally sold for $110.",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Argentina-1994-Away-Jersey-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1703024760",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Argentina-1994-Away-Jersey-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1703024760"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2023-12-01"
+            },
+            {
+              "name": "Retail Price",
+              "value": "110"
+            }
+          ],
+          "variants": [
+            {
+              "id": "1a8a4f89-0da1-4fd4-b6cc-b1a9b63c8810",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f0d90ea7-d3da-4508-bc7b-82a417e1fba9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "0b5a7f9c-1b29-41c5-aa89-6ca3714028c1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "a23cc805-d641-44bc-b2ee-edc8fb0c47b3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "cfb7ae79-646d-4eee-8d32-fe42d2683283",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "08d11a38-c09a-4190-b834-19aaacfd67a1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "3d9cae87-2f77-404e-90ad-6f797925eae8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            },
+            {
+              "id": "c7dbce28-af30-43c6-804b-cc238f1527ed",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 16,
+              "lowestAsk": {
+                "amount": 56,
+                "updatedAt": "2025-04-09T06:02:58Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 61
+              },
+              "highestBid": {
+                "amount": 80,
+                "updatedAt": "2025-04-28T17:09:25Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 76,
+              "lastSaleDate": "2025-04-24T15:53:54.852Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 3,
+              "changeValue": 1,
+              "changePercentage": 0.013333,
+              "volatility": 0.147944,
+              "pricePremium": -0.309
+            },
+            "deadStock": {
+              "sold": 460,
+              "averagePrice": 87
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 80
+              },
+              "annual": {
+                "averagePrice": 87,
+                "salesCount": 460
+              }
+            }
+          }
+        },
+        {
+          "objectId": "717e163a-0e76-4959-8c2f-5857fdfa6725",
+          "name": "",
+          "urlKey": "",
+          "title": "",
+          "brand": "",
+          "description": "",
+          "model": "",
+          "condition": "",
+          "productCategory": "",
+          "listingType": "",
+          "gender": "",
+          "media": "",
+          "productTraits": "",
+          "variants": "",
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 148,
+                "updatedAt": "2025-04-28T06:40:06Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "5f8e6a95-72ab-4037-b0ca-b53788fc135c",
+          "name": "Mexico Gold Long Sleeve",
+          "urlKey": "adidas-mexico-gold-long-sleeve-jersey-black",
+          "title": "adidas Mexico Gold Long Sleeve Jersey Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Mexico-Gold-Long-Sleeve-Jersey-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742324583",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Mexico-Gold-Long-Sleeve-Jersey-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742324583"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "160"
+            }
+          ],
+          "variants": [
+            {
+              "id": "0df2fe36-06f5-4639-bdf4-671ae68b443d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "afcf5c9a-6f90-4afd-9b33-da23ab8d7789",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "9f809449-8abc-4f6c-b0b3-c4b4e82ce25a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "4ce615db-071b-415b-9072-fd9fc14d124b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "734c87fc-723e-4971-8e22-0b9a9e28baa5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "af0a5e17-be0d-445b-8d8a-6398e2fc9b57",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "b0ac8495-a81c-420b-b4ee-f0c51b18a94e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 1,
+              "lowestAsk": {
+                "amount": 201,
+                "updatedAt": "2025-04-15T15:51:51Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 224
+              },
+              "highestBid": {
+                "amount": 99,
+                "updatedAt": "2025-04-10T01:46:53Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 125,
+              "lastSaleDate": "2025-04-25T16:53:51Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 1,
+              "changeValue": -5,
+              "changePercentage": -0.038462,
+              "volatility": 0.469149,
+              "pricePremium": -0.219
+            },
+            "deadStock": {
+              "sold": 13,
+              "averagePrice": 195
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 195
+              },
+              "annual": {
+                "averagePrice": 195,
+                "salesCount": 13
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d7a64185-ece0-4735-b045-0476dae5c244",
+          "name": "Women's Liberty London Cali",
+          "urlKey": "adidas-womens-liberty-london-cali-tee-multicolor-night-indigo",
+          "title": "adidas Women's Liberty London Cali Tee Multicolor/Night Indigo",
+          "brand": "adidas",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Cali-Tee-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1743529852",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Cali-Tee-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1743529852"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "45"
+            }
+          ],
+          "variants": [
+            {
+              "id": "23317c72-d9e4-49e9-81df-95c3ce570e26",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "1e636043-56af-4e0b-a536-06f369f397a3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f3a0882f-7038-473e-9e00-22b649c05e5e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "d71de36c-fc45-4dce-820a-c9cf39075fcf",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "497f4b5b-78b5-44d5-8eae-159f176cb332",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "083b34ee-b05c-4ed7-bc79-2d971d88e927",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "5ccf9a1c-81ff-4573-b62b-e73f8b390973",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "68011482-b212-4be3-98d9-109b0216a91f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 145,
+                "updatedAt": "2025-04-28T11:11:52Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 61,
+                "updatedAt": "2025-04-18T16:08:40Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "6d4c309d-a4ea-47bd-9d24-84b9a9ca735f",
+          "name": "Mexico Gold",
+          "urlKey": "adidas-mexico-gold-jersey-black",
+          "title": "adidas Mexico Gold Jersey Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Mexico-Gold-Jersey-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742324578",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Mexico-Gold-Jersey-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742324578"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "150"
+            }
+          ],
+          "variants": [
+            {
+              "id": "59d0be61-6dfe-4a90-8a85-fec5fd4fdb76",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "04ddca44-5226-411e-936d-bb42612e907a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "6f013618-fd94-45cd-832f-767cce28c030",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "3ea9ba6c-d104-4ee3-ab63-df1b43b07246",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "1a693cd3-e8ca-4087-b42b-215ffe5fcc15",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "717d9551-7fc0-4435-999e-fc33d6e4fb35",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "b71e53fe-8b87-4859-b77c-064bf72f70ee",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 124,
+                "updatedAt": "2025-04-27T18:24:35Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 124,
+              "lastSaleDate": "2025-04-28T03:16:48Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": 4,
+              "changePercentage": 0.033333,
+              "volatility": 0.433089,
+              "pricePremium": -0.173
+            },
+            "deadStock": {
+              "sold": 14,
+              "averagePrice": 181
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 181
+              },
+              "annual": {
+                "averagePrice": 181,
+                "salesCount": 14
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d30843a5-515d-46d4-bbb1-118e27334ef0",
+          "name": "",
+          "urlKey": "",
+          "title": "",
+          "brand": "",
+          "description": "",
+          "model": "",
+          "condition": "",
+          "productCategory": "",
+          "listingType": "",
+          "gender": "",
+          "media": "",
+          "productTraits": "",
+          "variants": "",
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 88,
+                "updatedAt": "2025-04-08T02:01:17Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 84,
+              "lastSaleDate": "2025-03-06T16:24:15Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 1,
+              "changePercentage": 0.012048,
+              "volatility": 0.258573,
+              "pricePremium": -0.236
+            },
+            "deadStock": {
+              "sold": 4,
+              "averagePrice": 105
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 83
+              },
+              "annual": {
+                "averagePrice": 105,
+                "salesCount": 4
+              }
+            }
+          }
+        },
+        {
+          "objectId": "6ca55e00-1a4c-40ff-a064-93d506f0d127",
+          "name": "Women's Liberty London Floral Track",
+          "urlKey": "adidas-womens-liberty-london-floral-track-top-multicolor-night-indigo",
+          "title": "adidas Women's Liberty London Floral Track Top Multicolor/Night Indigo",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Floral-Track-Top-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889935",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Liberty-London-Floral-Track-Top-Multicolor-Night-Indigo.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889935"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "80"
+            }
+          ],
+          "variants": [
+            {
+              "id": "e781402c-44ba-4d90-8329-96296cb4e974",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "f5345d62-2907-43ef-92be-f02ad86f0e88",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "0350590d-a5ea-412a-9161-800bca4c7a8a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "3b9185fc-1f20-4ced-aace-a0e72875a102",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "8ad4c1a8-061e-4941-9450-2742cd2c8dd8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "2c3fd0af-20c2-4ee3-aa3e-ff65fa164ffa",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "056f47a4-e875-4fcb-880d-0dacf744cd9a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "235e445e-3da4-4786-ae8f-14f9b16d8a71",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "ab1a49eb-aba3-4b3a-8ed5-2a5d21621ed5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 126,
+                "updatedAt": "2025-04-28T06:26:26Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 63,
+                "updatedAt": "2025-04-28T13:43:37Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 160,
+              "lastSaleDate": "2025-04-25T21:30:40Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 2,
+              "changeValue": -4,
+              "changePercentage": -0.024847,
+              "volatility": 0.148765,
+              "pricePremium": 0.999
+            },
+            "deadStock": {
+              "sold": 6,
+              "averagePrice": 182
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 183
+              },
+              "annual": {
+                "averagePrice": 182,
+                "salesCount": 6
+              }
+            }
+          }
+        },
+        {
+          "objectId": "0b139cf8-dd28-491f-ae64-321d54190f41",
+          "name": "Argentina 2024 Messi Home Authentic",
+          "urlKey": "adidas-argentina-2024-messi-home-authentic-jersey-white-blue-burst",
+          "title": "adidas Argentina 2024 Messi Home Authentic Jersey White/Blue Burst",
+          "brand": "adidas",
+          "description": "The adidas Argentina 2024 Messi Home Authentic Jersey White/Blue Burst features Messi's name and number on the back, with a classic sky blue and white stripe design. This jersey is made with adidas' AEROREADY technology and has an authentic team crest, mirroring the official jersey worn by Argentina's national team. A renowned sports brand since 1949, adidas has partnered with the Argentina national team to create authentic, high-quality jerseys, combining innovative technology with classic design elements.\n<br>\n<br>\nThe Argentina 2024 Messi Home Jersey by adidas, designed for your comfort and peak performance, features a traditional sky blue and white stripe design with a fitted silhouette and V-neckline. This jersey, made from lightweight, sweat-wicking polyester, ensures you stay dry and comfortable during intense matches. \n<br>\n<br>\nAs the experts, we love the adidas Argentina 2024 Messi Home Authentic Jersey White/Blue Burst authentic team crest and premium polyester fabric. Originally priced at $180, this jersey features a precise, heat-transferred crest mirroring the team's official badge and a premium polyester fabric. It offers exceptional durability and comfort.",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Argentina-2024-Messi-Home-Authentic-Jersey-White-Blue-Burst.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1711068153",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Argentina-2024-Messi-Home-Authentic-Jersey-White-Blue-Burst.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1711068153"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "180"
+            }
+          ],
+          "variants": [
+            {
+              "id": "db1fe8cc-a58c-4645-ad03-2ad68f5ada35",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "c437bbfd-93dd-4ad3-a251-e84410f2f186",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "d8967d6d-fb59-4589-99fb-1bf79d75398b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "392ff4c2-3787-4926-bdf5-8122b5ce95ea",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "7178db38-139a-4838-ab01-170251cbd9b9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "d6778821-6723-4b0a-9938-359d1f7671a6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "18b33677-5181-4499-9ab6-7986039b8132",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 125,
+                "updatedAt": "2025-03-29T19:40:48Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 115,
+                "updatedAt": "2025-04-15T15:03:45Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 195,
+              "lastSaleDate": "2025-03-30T17:10:38Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 93,
+              "changePercentage": 0.911765,
+              "volatility": 0.193138,
+              "pricePremium": 0.083
+            },
+            "deadStock": {
+              "sold": 58,
+              "averagePrice": 187
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 140
+              },
+              "annual": {
+                "averagePrice": 187,
+                "salesCount": 58
+              }
+            }
+          }
+        },
+        {
+          "objectId": "4d83972a-c8bf-4e38-b7e3-30c52bdc83d4",
+          "name": "Y-3 Real Madrid 23/24 Special Edition Trikot Authentic",
+          "urlKey": "adidas-y-3-real-madrid-23-24-special-edition-trikot-authentic-jersey-dark-purple",
+          "title": "adidas Y-3 Real Madrid 23/24 Special Edition Trikot Authentic Jersey Dark Purple",
+          "brand": "adidas",
+          "description": "The adidas Y-3 Real Madrid 23/24 Special Edition Trikot Authentic Jersey Dark Purple is a collaborative football jersey featuring a unique design aesthetic, Real Madrid's crest, and a commemorative \"23/24\" patch. This jersey is designed for genuine team representation.\n<br>\n<br>\nThe Y-3 Real Madrid Trikot Authentic Jersey features a sleek, high-tech design with a predominantly purple base color and black, white, and lighter purple accents. The jersey's fabric is lightweight and sweat-wicking, with a slim fit and original team details. This collaboration combines innovative design with athletic functionality, while the team's rich football history is reflected in the jersey's classic crest and commemorative patch.\n<br>\n<br>\nWe love the adidas Y-3 Real Madrid 23/24 Special Edition Trikot Authentic Jersey Dark Purple for its innovative HEAT.RDY technology provides optimal breathability and comfort during intense matches. The bold floral design and Yohji Yamamoto's signature add a unique artistic touch. It originally retailed at $200 on March 27, 2024.",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Y-3-Real-Madrid-23-24-Special-Edition-Trikot-Authentic-Jersey-Dark-Purple-ProductX.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744142786",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Y-3-Real-Madrid-23-24-Special-Edition-Trikot-Authentic-Jersey-Dark-Purple-ProductX.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744142786"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-03-27"
+            },
+            {
+              "name": "Retail Price",
+              "value": "200"
+            }
+          ],
+          "variants": [
+            {
+              "id": "174cb7d4-732d-4c0d-925a-28f28f84fec2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "fc284c1c-4c3e-4a88-8af4-a8b909ca6a7a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "7cfec1bf-c755-418d-9b3b-a025bb45ed87",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "458e3662-a730-4537-8e57-a9d85e19445c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "1566935d-abd9-4534-a8a8-9eefff02bff2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "10277210-f6f6-4835-80ef-8d19c8387958",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "b108579c-3374-4d0e-b7ed-aac38dfb6f74",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 307,
+                "updatedAt": "2025-04-13T14:24:37Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 271,
+                "updatedAt": "2025-04-13T00:54:47Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 471,
+              "lastSaleDate": "2025-04-26T16:19:56Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 242,
+              "changePercentage": 1.056489,
+              "volatility": 0.160415,
+              "pricePremium": 1.355
+            },
+            "deadStock": {
+              "sold": 395,
+              "averagePrice": 236
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 258
+              },
+              "annual": {
+                "averagePrice": 236,
+                "salesCount": 395
+              }
+            }
+          }
+        },
+        {
+          "objectId": "356371a3-b56d-482c-981f-03d27f9885c7",
+          "name": "Adicolor Denim Firebird Track",
+          "urlKey": "adidas-adicolor-denim-firebird-track-top-true-black-denim",
+          "title": "adidas Adicolor Denim Firebird Track Top True Black Denim",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Adicolor-Denim-Firebird-Track-Top-True-Black-Denim.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890149",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Adicolor-Denim-Firebird-Track-Top-True-Black-Denim.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890149"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "85"
+            }
+          ],
+          "variants": [
+            {
+              "id": "172b5383-30c4-41ef-8384-9a7b9e0b6cdb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "26a20628-c68d-4164-a669-d8d96350a047",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "7ed3d4b8-8dc0-4b81-96c0-cf406ff3cf78",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "f7e00acd-a0f3-4c0d-9519-a970a85ab15e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "f9eb136c-198a-4eed-ab22-58c57af86810",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "36ed0d9e-b694-4c40-b587-93d27d51a143",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "b6893f53-ed59-4c1d-95e8-0ed8922aea30",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 121,
+                "updatedAt": "2025-04-28T09:34:48Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 100,
+                "updatedAt": "2025-04-18T14:12:48Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 121,
+              "lastSaleDate": "2025-04-26T20:24:37Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": -7,
+              "changePercentage": -0.061441,
+              "volatility": 0.386685,
+              "pricePremium": 0.424
+            },
+            "deadStock": {
+              "sold": 7,
+              "averagePrice": 165
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 166
+              },
+              "annual": {
+                "averagePrice": 165,
+                "salesCount": 7
+              }
+            }
+          }
+        },
+        {
+          "objectId": "e1a286ac-e718-47a7-a63c-9444180d79c1",
+          "name": "Originals x Edison Chen Clot Sports",
+          "urlKey": "adidas-originals-x-edison-chen-clot-sports-jacket-black",
+          "title": "adidas Originals x Edison Chen Clot Sports Jacket Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "unisex",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Originals-x-Edison-Chen-Clot-Sports-Jacket-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1736800048",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Originals-x-Edison-Chen-Clot-Sports-Jacket-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1736800048"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "220"
+            }
+          ],
+          "variants": [
+            {
+              "id": "37f1e880-5115-4540-b7f2-0029bdcaf813",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "9bf772c9-71b7-4c07-8f4c-281251b391b5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "11342d61-c5bd-4202-8e73-500fe1a00ee9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "b59130e3-17d3-42d0-b5cd-49bfab928bcf",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "23b3e57d-f1da-4f1a-92eb-ced9de8b1ae8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "3941ed03-4297-4c14-8b0c-a3901c64c697",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 2,
+              "lowestAsk": {
+                "amount": 170,
+                "updatedAt": "2025-04-01T19:20:46Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 170
+              },
+              "highestBid": {
+                "amount": 129,
+                "updatedAt": "2025-04-27T11:30:45Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 170,
+              "lastSaleDate": "2025-04-27T05:36:07.366Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": -30,
+              "changePercentage": -0.15,
+              "volatility": 0.386856,
+              "pricePremium": -0.227
+            },
+            "deadStock": {
+              "sold": 11,
+              "averagePrice": 219
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 185
+              },
+              "annual": {
+                "averagePrice": 219,
+                "salesCount": 11
+              }
+            }
+          }
+        },
+        {
+          "objectId": "abdf036f-bb39-4ea3-ab11-0e3fc7275e21",
+          "name": "Women's Satin",
+          "urlKey": "adidas-womens-satin-shorts-multicolor-bronze-strata",
+          "title": "adidas Women's Satin Shorts Multicolor/Bronze Strata",
+          "brand": "adidas",
+          "description": "",
+          "model": "Shorts",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Satin-Shorts-Multicolor-Bronze-Strata.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741038068",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Satin-Shorts-Multicolor-Bronze-Strata.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741038068"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "35"
+            }
+          ],
+          "variants": [
+            {
+              "id": "5f8301e9-d4b4-4bd2-85a5-3648abe9c0b2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "5fc60f24-85d5-4b39-aa89-bebd01856645",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "8e45d3d1-0495-42f8-932d-1f9bf14dd519",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "f15ae338-6799-4d88-891e-b7f8725bb056",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "6ebf1920-f100-48ea-b2a2-02e92a0c79d4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "fc184975-1cee-42d2-ae4e-29cd5d7a4e6f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c5ac2925-e82b-47ec-8798-e5bd07cedf13",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "0a58980c-5bcd-42d3-bf2b-24d06cfac1b2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 71,
+                "updatedAt": "2025-04-28T06:48:21Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 38,
+                "updatedAt": "2025-04-12T03:36:25Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 109,
+              "lastSaleDate": "2025-04-26T13:42:09Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": -15,
+              "changePercentage": -0.127699,
+              "volatility": 0.203497,
+              "pricePremium": 2.114
+            },
+            "deadStock": {
+              "sold": 3,
+              "averagePrice": 102
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 102
+              },
+              "annual": {
+                "averagePrice": 102,
+                "salesCount": 3
+              }
+            }
+          }
+        },
+        {
+          "objectId": "70371a88-c14e-4a26-96e5-c0e78a560506",
+          "name": "Women's Adicolor Denim Firebird",
+          "urlKey": "adidas-womens-adicolor-denim-firebird-shorts-indigo-denim",
+          "title": "adidas Women's Adicolor Denim Firebird Shorts Indigo Denim",
+          "brand": "adidas",
+          "description": "",
+          "model": "Shorts",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Denim-Firebird-Shorts-Indigo-Denim.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741038067",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Denim-Firebird-Shorts-Indigo-Denim.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741038067"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "50"
+            }
+          ],
+          "variants": [
+            {
+              "id": "d750514d-9da8-454c-98e2-ecbb7e8d2da8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "d98caaa7-db86-4ae0-81f8-534df2289c75",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "6313b7cc-6248-4ee8-8e6a-6a3aa4d204a4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "ed892d42-28a6-4652-9c6a-f304f4dd87ef",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "17d5c637-f693-4c75-b338-61ab2a22b2ac",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a9829892-6565-4411-9c20-7b50c44775e1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "1c2056f7-1c9a-4c87-ab11-7368ed4d1da4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "b77e5627-b667-4634-b99e-053ef6cd50de",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 100,
+                "updatedAt": "2025-04-17T23:32:48Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 50,
+                "updatedAt": "2025-04-18T18:55:04Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 121,
+              "lastSaleDate": "2025-04-26T16:36:31Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 2,
+              "changePercentage": 0.016807,
+              "volatility": 0.13483,
+              "pricePremium": 1.42
+            },
+            "deadStock": {
+              "sold": 4,
+              "averagePrice": 105
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 105
+              },
+              "annual": {
+                "averagePrice": 105,
+                "salesCount": 4
+              }
+            }
+          }
+        },
+        {
+          "objectId": "71b747cd-4f90-4ac6-8d64-3282ec2fd433",
+          "name": "Women's Adicolor Classic Firebird Loose Track Tracksuit",
+          "urlKey": "adidas-womens-adicolor-classic-firebird-loose-track-tracksuit-bottoms-trace-brown",
+          "title": "adidas Women's Adicolor Classic Firebird Loose Track Tracksuit Bottoms Trace Brown",
+          "brand": "adidas",
+          "description": "",
+          "model": "Bottoms",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Tracksuit-Bottoms-Trace-Brown.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104248",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Tracksuit-Bottoms-Trace-Brown.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104248"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "60"
+            }
+          ],
+          "variants": [
+            {
+              "id": "0e8532c9-3b96-4270-8346-1063266ffe89",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "6e63edae-a7bb-4c39-92fa-ec252c31e0ad",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "581c6b83-79a7-4cc2-9e72-7c7691d03834",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "faabcb6b-0586-4273-a99a-ac1c74afc72d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "2d5e9f0d-648c-4902-9cbd-38cd58254eb4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "fc311f03-306e-49ab-8206-e9d3fa6d21e0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "ccdc4e7c-f868-455b-9b16-d8f660b1b3eb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "5cb0168e-9863-43f6-83d5-8ebe932a006c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 101,
+                "updatedAt": "2025-04-16T17:05:39Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 121,
+              "lastSaleDate": "2025-04-26T11:58:57Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -3,
+              "changePercentage": -0.02494,
+              "volatility": 0.012789,
+              "pricePremium": 1.015
+            },
+            "deadStock": {
+              "sold": 2,
+              "averagePrice": 122
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 123
+              },
+              "annual": {
+                "averagePrice": 122,
+                "salesCount": 2
+              }
+            }
+          }
+        },
+        {
+          "objectId": "2b4553a6-1b7b-48bf-ab4c-15942985cce7",
+          "name": "Adicolor Classics Beckenbauer Track",
+          "urlKey": "adidas-adicolor-classics-beckenbauer-track-top-collegiate-green-silver-green",
+          "title": "adidas Adicolor Classics Beckenbauer Track Top Collegiate Green/Silver Green",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Adicolor-Classics-Beckenbauer-Track-Top-Collegiate-Green-Silver-Green.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890014",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Adicolor-Classics-Beckenbauer-Track-Top-Collegiate-Green-Silver-Green.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890014"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "65"
+            }
+          ],
+          "variants": [
+            {
+              "id": "3d76d2a9-27cc-4d8b-a77e-9f4a89c047d6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "31bd9aaf-4e16-4c46-8bfa-425cf65a58ba",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "89bcecb2-b938-4d8d-8935-e1c25cddfe9c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "10bafa1d-7eff-4e4f-8f81-a85a60f40e04",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "d976a110-1694-4194-9633-68308d2ea2d1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "e6d1c878-f16f-4921-b6f7-37aba7dc3916",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "4aa83243-d4fb-4222-83a2-767f8d276802",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "1c09207d-8abf-4c72-8ba4-bb2c2d619b0e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "3e96c35d-c6dc-47ef-81cc-4ef77886debc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 138,
+                "updatedAt": "2025-04-28T11:52:14Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 61,
+                "updatedAt": "2025-04-22T13:28:07Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 138,
+              "lastSaleDate": "2025-04-25T21:19:33Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -13,
+              "changePercentage": -0.086093,
+              "volatility": 0.047101,
+              "pricePremium": 1.123
+            },
+            "deadStock": {
+              "sold": 1,
+              "averagePrice": 151
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 151
+              },
+              "annual": {
+                "averagePrice": 151,
+                "salesCount": 1
+              }
+            }
+          }
+        },
+        {
+          "objectId": "dafb400f-4b67-4f5f-8388-551fbc0fd0b8",
+          "name": "Women's Adicolor Sheer Track Tracksuit",
+          "urlKey": "adidas-womens-adicolor-sheer-track-tracksuit-bottoms-black",
+          "title": "adidas Women's Adicolor Sheer Track Tracksuit Bottoms Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Bottoms",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Sheer-Track-Tracksuit-Bottoms-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104318",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Sheer-Track-Tracksuit-Bottoms-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741104318"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "60"
+            }
+          ],
+          "variants": [
+            {
+              "id": "e7f0d91e-29ac-4805-880a-5d72f25f3607",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "d358f58f-86f2-4cb5-a284-11d17c173718",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "6e80c726-c454-4518-bbb6-f3b076dcc39e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "7db3486c-97fb-47a9-b16f-94b2f533e6b0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "53cb76c4-0d7f-472a-96ee-7edb08bac431",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "f882a1cf-ae05-4f37-83d3-dbe0daa07976",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "64ef9b2a-a379-4238-8ab3-4829e0ffaef6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "571a8972-1fc1-4bc0-8cee-01d34bf66678",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 140,
+                "updatedAt": "2025-04-28T15:25:51Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 67,
+                "updatedAt": "2025-04-26T20:47:18Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 184,
+              "lastSaleDate": "2025-04-26T20:51:29Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 1,
+              "averagePrice": 184
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 184
+              },
+              "annual": {
+                "averagePrice": 184,
+                "salesCount": 1
+              }
+            }
+          }
+        },
+        {
+          "objectId": "596a4dd9-43af-4bcc-aec1-0f61665aac82",
+          "name": "Argentina 24 Messi Home",
+          "urlKey": "adidas-argentina-24-messi-home-jersey-white-blue-burst",
+          "title": "adidas Argentina 24 Messi Home Jersey White/Blue Burst",
+          "brand": "adidas",
+          "description": "Please note: KR sizing for Adidas matches US sizing, while JP sizing is one size larger. (For example, KR/US M = JP L)",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Argentina-24-Messi-Home-Jersey-White-Blue-Burst.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1711068153",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Argentina-24-Messi-Home-Jersey-White-Blue-Burst.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1711068153"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "130"
+            }
+          ],
+          "variants": [
+            {
+              "id": "8b026513-2a4a-4448-b28f-f22c18a452ab",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "4fa4b70d-d41d-4090-9f6b-64e8faabe369",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "0713bf39-1163-4fd6-8926-52de850d0b84",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "8a5acea4-43a0-4f71-8b71-0457e7ee88dd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "72d9f3fe-a9a1-4999-ae70-24c24e417b5b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "1de501ac-8008-4953-8b80-7611e363e50d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "a04c1b29-b16f-4274-af98-7c266b2e2e1a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 80,
+                "updatedAt": "2025-04-17T16:17:04Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 57,
+                "updatedAt": "2025-04-12T19:59:04Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 119,
+              "lastSaleDate": "2025-04-21T03:50:35Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 54,
+              "changePercentage": 0.830769,
+              "volatility": 0.157005,
+              "pricePremium": -0.085
+            },
+            "deadStock": {
+              "sold": 66,
+              "averagePrice": 84
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 64
+              },
+              "annual": {
+                "averagePrice": 84,
+                "salesCount": 66
+              }
+            }
+          }
+        },
+        {
+          "objectId": "26dc19ae-cd1a-41eb-933e-0eb70ae885ac",
+          "name": "x KoRn",
+          "urlKey": "adidas-x-korn-longsleeve-black",
+          "title": "adidas x KoRn Longsleeve Black",
+          "brand": "adidas",
+          "description": "The adidas x KoRn Longsleeve Black is a Black t-shirt featuring a short-sleeved t-shirt silhouette over cuffed long sleeves, with the long sleeves accented by adidas‚Äô signature 3-Stripes in white.\n<br>\n<br>\nadidas, the German athletic wear powerhouse, has been around since 1924, and their clothing and footwear have appeared on the likes of professional athletes and artists for decades. Bakersfield, California‚Äôs, KoRn, the nu metal band, heavily embraced adidas since their founding in the 1990s, and the band sported adidas wear from 1993 through 1997. The Longsleeve's artwork reimagines KoRn's self-titled debut album image with adidas branding. At the Black adidas x KoRn Longsleeve, the front features a screen-printed image of a girl on a playground swing with KoRn and the adidas Trefoil logo. The short sleeve and rear collar area display established 1994 and adidas branding in red embroidery.\n<br>\n<br>\nIn our opinion, the best feature of the adidas x Longsleeve is its layered sleeve, which gives a trompe l'oeil effect. The adidas x KoRn Longsleeve Black was released on October 31, 2024, and retailed at $75.",
+          "model": "Longsleeve",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-x-KoRn-Longsleeve-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1730389488",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-x-KoRn-Longsleeve-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1730389488"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-10-31"
+            }
+          ],
+          "variants": [
+            {
+              "id": "4e905251-d335-4f8a-b7cf-31764bcdaf3b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "2146ed11-c469-45c3-ba43-164c74e08334",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "ceeb146a-da82-4822-8c9b-081b1c37bc8e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "53f76e9d-ce94-4214-8eb2-4f6dc6d0b693",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "536eda93-9683-46a3-9167-a0a8cea4a5cd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "62768621-37e7-4e25-8c7f-b5bf54332440",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "99ae9d02-80de-4eaa-ab28-df60f8a9dedc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 1,
+              "lowestAsk": {
+                "amount": 125,
+                "updatedAt": "2025-04-25T22:39:43Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 125
+              },
+              "highestBid": {
+                "amount": 110,
+                "updatedAt": "2025-04-16T14:13:56Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 205,
+              "lastSaleDate": "2025-04-25T21:05:41Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": 6,
+              "changePercentage": 0.026637,
+              "volatility": 0.136036,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 215,
+              "averagePrice": 100
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 136
+              },
+              "annual": {
+                "averagePrice": 100,
+                "salesCount": 215
+              }
+            }
+          }
+        },
+        {
+          "objectId": "dc9baaec-988e-4d4a-8c81-b32401b44fe5",
+          "name": "Adilenium Season 3 Vintage Faux Leather",
+          "urlKey": "adidas-adilenium-season-3-vintage-faux-leather-pants-better-scarlet",
+          "title": "adidas Adilenium Season 3 Vintage Faux Leather Pants Better Scarlet",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "unisex",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Adilenium-Season-3-Vintage-Faux-Leather-Pants-Better-Scarlet.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1739541495",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Adilenium-Season-3-Vintage-Faux-Leather-Pants-Better-Scarlet.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1739541495"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "130"
+            }
+          ],
+          "variants": [
+            {
+              "id": "adff2054-109d-44a1-9682-d7e2184da93c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "23"
+              }
+            },
+            {
+              "id": "9221c1d8-b8e9-4c37-9bb9-cd286b853a69",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "24"
+              }
+            },
+            {
+              "id": "79949e1a-4a20-4d16-8a26-251d4fe9ae59",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "25"
+              }
+            },
+            {
+              "id": "f399b8fb-8295-4012-9164-1e6039f1b133",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "26"
+              }
+            },
+            {
+              "id": "dc03d880-92da-405e-9932-1109c67edd2d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "27"
+              }
+            },
+            {
+              "id": "1e5c09af-955d-403e-b963-f9dda5411694",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "28"
+              }
+            },
+            {
+              "id": "19a3965f-5bc4-4615-a25f-dc10c0bd9e07",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "29"
+              }
+            },
+            {
+              "id": "853905cb-f10d-4924-a74e-cbbdf3239031",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "30"
+              }
+            },
+            {
+              "id": "b5ddadd0-bbc1-4251-a8b6-0528371baa8f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "31"
+              }
+            },
+            {
+              "id": "a2f1e282-7f22-45a4-bbd0-b0ce323c527c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "32"
+              }
+            },
+            {
+              "id": "50d3d2bc-d13f-4c39-ba97-c015b943f14f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "33"
+              }
+            },
+            {
+              "id": "92f1dc44-67f4-4ab6-be42-4a25f97c9998",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "34"
+              }
+            },
+            {
+              "id": "2f07a702-4603-4d21-b9ce-97a32c151fac",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "35"
+              }
+            },
+            {
+              "id": "7a2792fd-9d50-4467-81a8-84c5da020b7d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "36"
+              }
+            },
+            {
+              "id": "f9ea2397-36fb-42e5-975a-6bf1a5fb25c3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "37"
+              }
+            },
+            {
+              "id": "73c8fc0c-ad97-4b1d-8b0a-3cc724d42bb6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "38"
+              }
+            },
+            {
+              "id": "ae5be203-4c47-4ba5-98c7-a8c33577f75b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "39"
+              }
+            },
+            {
+              "id": "4301c922-4a3a-44ee-bfaf-923a85b5ded9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "40"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 180,
+                "updatedAt": "2025-04-21T02:57:12Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 145,
+                "updatedAt": "2025-04-26T22:06:41Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 219,
+              "lastSaleDate": "2025-04-12T21:01:37Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 8,
+              "changePercentage": 0.037915,
+              "volatility": 0.174864,
+              "pricePremium": 0.685
+            },
+            "deadStock": {
+              "sold": 7,
+              "averagePrice": 183
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 183
+              },
+              "annual": {
+                "averagePrice": 183,
+                "salesCount": 7
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d401ab43-4f48-4229-9ba2-dfa0167984e8",
+          "name": "Mexico Gold Track",
+          "urlKey": "adidas-mexico-gold-track-pants-black",
+          "title": "adidas Mexico Gold Track Pants Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Mexico-Gold-Track-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742324571",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Mexico-Gold-Track-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1742324571"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "90"
+            }
+          ],
+          "variants": [
+            {
+              "id": "1989bdfb-63a3-4b84-bd70-f901a2c89786",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "045b338e-da76-4a02-8334-27074d645b34",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "3a7c0ae5-de5f-4f4a-bec3-80eb2ac322c4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "bd2509db-75d6-40bd-bf0f-509528f0f48c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "1bdd42e4-ae17-41c5-bda3-8f16e6ccba96",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c854e50f-6af2-4792-93d8-472e9ace2c59",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "1ebad1d4-bd26-4467-b55e-88a414ba564d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 367,
+                "updatedAt": "2025-04-28T15:26:53Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 5,
+                "updatedAt": "2025-04-18T15:49:41Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "f8530159-a447-4788-aaf8-d88d1f21b0cd",
+          "name": "Women's Adicolor Short Sleeve Track Long-Sleeve",
+          "urlKey": "adidas-womens-adicolor-short-sleeve-track-long-sleeve-top-black",
+          "title": "adidas Women's Adicolor Short Sleeve Track Long-Sleeve Top Black",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Short-Sleeve-Track-Long-Sleeve-Top-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890165",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Short-Sleeve-Track-Long-Sleeve-Top-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890165"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "50"
+            }
+          ],
+          "variants": [
+            {
+              "id": "015efb95-7dfd-4c3a-9a62-1c95529bb354",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "3f203eff-b761-4af2-9007-31bf4c6401ba",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "1f48636b-6f3d-476c-8e9c-32a9e6642f0b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "ad121a65-a229-48ed-ae49-baf4592c23f9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "350078b7-6d07-4f3e-bfd6-e8f4f04d382b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "82da1aa7-6b2b-4330-a30f-c80b867c65fc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "8e7d6832-7fc1-4dd4-b4f9-87557190c158",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "e4fcec7d-ca04-4bdf-aa4c-4a4b695d5675",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "d329e044-5154-4a5d-8e0f-2c45ee5b5f10",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 118,
+                "updatedAt": "2025-04-28T15:25:43Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 31,
+                "updatedAt": "2025-04-28T06:31:05Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "ec38ed1b-d74a-4aeb-894a-7d60db931ce9",
+          "name": "Colombia Anniversary Track",
+          "urlKey": "adidas-colombia-anniversary-track-top-night-indigo-tech-indigo",
+          "title": "adidas Colombia Anniversary Track Top Night Indigo/Tech Indigo",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Colombia-Anniversary-Track-Top-Night-Indigo-Tech-Indigo.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889823",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Colombia-Anniversary-Track-Top-Night-Indigo-Tech-Indigo.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889823"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "90"
+            }
+          ],
+          "variants": [
+            {
+              "id": "e6a4f752-222f-48b2-bfc3-ca7a785b1b75",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "35286987-8b13-46e3-9fe5-b384c1671a53",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "5bc12f20-6758-41ba-ae96-5cab99a3af6e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "71658276-df06-4875-9f0f-8bd0680ac5f9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "be582642-95d8-4309-aafd-46f1c071a1e8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "0773037e-281d-4641-8f79-745125071247",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "7cfccce1-03af-47a7-9e05-1bf5d4d4d05b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 287,
+                "updatedAt": "2025-03-30T04:45:36Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 109,
+                "updatedAt": "2025-04-25T06:07:05Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "73fd689c-851f-43f8-8755-781cb0f2a6ac",
+          "name": "Women's Firebird Badge Track",
+          "urlKey": "adidas-womens-firebird-badge-track-top-preloved-green",
+          "title": "adidas Women's Firebird Badge Track Top Preloved Green",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Firebird-Badge-Track-Top-Preloved-Green.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889928",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Firebird-Badge-Track-Top-Preloved-Green.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741889928"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "75"
+            }
+          ],
+          "variants": [
+            {
+              "id": "5adeede6-e9dd-4125-83b0-473e9998d515",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "183241a9-a4ba-4b94-98d1-c81737f7cd1e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "c77ded30-cd15-4cd6-bb8f-123ee82525df",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "b00bd104-344f-437e-92cd-5e2fd8cd7798",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "228245e1-6342-49a8-9aed-d61a10f8b319",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "0b90b020-e787-4db2-9be2-eda114cfd945",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "8035b837-0ceb-4c5c-a550-2abc2ef5f830",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "10a7fad2-3c8d-440a-848a-4a47fa2fa1a3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "31c2495c-b680-45ab-b907-df9f366a97a2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 99,
+                "updatedAt": "2025-04-28T09:33:56Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 62,
+                "updatedAt": "2025-04-28T06:29:41Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "9a7c1622-fe2a-4348-b653-936ab4a1e34c",
+          "name": "Argentina 2022-23 Authentic Messi Home",
+          "urlKey": "adidas-argentina-2022-23-authentic-messi-home-jersey-white-light-blue",
+          "title": "adidas Argentina 2022-23 Authentic Messi Home Jersey White/Light Blue",
+          "brand": "adidas",
+          "description": "Please note: KR sizing for Adidas matches US sizing, while JP sizing is one size larger. (For example, KR/US M = JP L)",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Argentina-2022-23-Authentic-Messi-Home-Jersey-White-Light-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1672847451",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Argentina-2022-23-Authentic-Messi-Home-Jersey-White-Light-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1672847451"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "180"
+            }
+          ],
+          "variants": [
+            {
+              "id": "5ac0a38e-bc4b-46e2-924f-a5926ea24b35",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "56d5d6c9-5bcf-4edb-9568-288f052c922b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "b81afe77-b398-44d2-98cd-730d52f51e88",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "6465d8b6-9c63-4dbd-83f2-ea13cbfc91d0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "219ec8b1-b951-4438-b7ef-3befa1bfcbd6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "7b6b0227-6265-44f6-9944-1f484105b45f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 180,
+                "updatedAt": "2025-04-28T12:31:27Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 210,
+                "updatedAt": "2025-04-12T04:58:39Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 200,
+              "lastSaleDate": "2025-04-27T20:09:20Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -182,
+              "changePercentage": -0.47715,
+              "volatility": 0.410804,
+              "pricePremium": 0.111
+            },
+            "deadStock": {
+              "sold": 68,
+              "averagePrice": 279
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 286
+              },
+              "annual": {
+                "averagePrice": 279,
+                "salesCount": 68
+              }
+            }
+          }
+        },
+        {
+          "objectId": "2996d3b3-8411-4b23-904f-e5acc21ed263",
+          "name": "Y-3 Real Madrid 23/24 Special Edition Trikot Authentic",
+          "urlKey": "adidas-y-3-real-madrid-23-24-special-edition-trikot-authentic-jersey-black",
+          "title": "adidas Y-3 Real Madrid 23/24 Special Edition Trikot Authentic Jersey Black",
+          "brand": "adidas",
+          "description": "The adidas Y-3 Real Madrid 23/24 Special Edition Trikot Authentic Jersey Black is the result of a collaborative effort between adidas and Yohji Yamamoto, a well-known Japanese fashion designer. \n<br>\n<br> \nThe Black adidas Y-3 Real Madrid 23/24 Special Edition Trikot Authentic Jersey is made of 100% polyester with added mesh underarm panels for comfort and coolness on hot or humid days. The polyester consists of recycled materials to help with environmental waste. Features of this special edition jersey include a ribbed crewneck and three logos/brand names. This includes Y-3 for the designer, Emirates (and their team slogan - Fly Better) and the Real Madrid team crest.\n<br>\n<br> \nOur team is most impressed that the signature of Yohji Yamamoto is included in the graphics for the adidas Y-3 Real Madrid 23/24 Special Edition Trikot Authentic Jersey Black. There is also a soft, floral motif featured on this special team jersey. This Real Madrid jersey was released on March 27, 2024. It originally sold for $200.",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Y-3-Real-Madrid-23-24-Special-Edition-Trikot-Authentic-Jersey-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1711656542",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Y-3-Real-Madrid-23-24-Special-Edition-Trikot-Authentic-Jersey-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1711656542"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-03-27"
+            },
+            {
+              "name": "Retail Price",
+              "value": "200"
+            }
+          ],
+          "variants": [
+            {
+              "id": "68c48278-fe9a-41b9-b60b-731f42d44985",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "79ccda2c-8fc1-40f6-9140-42068da8f720",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "fdd0cb62-cac0-4c3f-80ec-411bd977705e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "6a284024-2cd9-4386-8049-fb6a777cc6f6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "e5cda6b0-71ee-4dc6-b378-c5942e8ad02b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "ae362fd1-5ce3-4580-8200-df3a7b3f4d89",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "f1dc7b91-da89-4d2b-88c9-6244938ca72b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 777,
+                "updatedAt": "2025-04-28T18:23:23Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 291,
+                "updatedAt": "2025-04-27T07:18:20Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 251,
+              "lastSaleDate": "2025-04-28T13:58:15Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -241,
+              "changePercentage": -0.491442,
+              "volatility": 0.296751,
+              "pricePremium": 0.251
+            },
+            "deadStock": {
+              "sold": 200,
+              "averagePrice": 252
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 329
+              },
+              "annual": {
+                "averagePrice": 252,
+                "salesCount": 200
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d672c31d-20b3-4e69-9d28-9cdae70b7ca9",
+          "name": "Real Madrid 24/25 Third",
+          "urlKey": "adidas-real-madrid-24-25-third-jersey-charcoal-charcoal",
+          "title": "adidas Real Madrid 24/25 Third Jersey Charcoal/Charcoal",
+          "brand": "adidas",
+          "description": "",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Real-Madrid-24-25-Third-Jersey-Charcoal-Charcoal.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741025922",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Real-Madrid-24-25-Third-Jersey-Charcoal-Charcoal.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741025922"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "130"
+            }
+          ],
+          "variants": [
+            {
+              "id": "a9c31982-e8e9-48ea-b67d-3be071334ae5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "7be3f300-5a40-4273-8a55-c743d8197d4e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "047714f7-a3ad-451f-90c0-3b5519fcb624",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "b736327e-4232-475c-aba0-a913778854f4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "3371aa06-c454-4966-b8d5-889d2d50e2ce",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "d7346423-0601-4fc8-a77d-b107ce960136",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "5f5baa52-d4a8-4e8b-a290-875bd1178e59",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 179,
+                "updatedAt": "2025-04-28T15:29:13Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 40,
+                "updatedAt": "2025-04-18T03:32:32Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 189,
+              "lastSaleDate": "2025-04-22T19:42:01Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 1,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 1,
+              "averagePrice": 189
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 189
+              },
+              "annual": {
+                "averagePrice": 189,
+                "salesCount": 1
+              }
+            }
+          }
+        },
+        {
+          "objectId": "8b762a44-93e8-41e7-8383-9080c5476dbc",
+          "name": "Yeezy Calabasas Track",
+          "urlKey": "adidas-yeezy-calabasas-track-pant-umber-core",
+          "title": "adidas Yeezy Calabasas Track Pant Umber/Core",
+          "brand": "adidas",
+          "description": "Kanye West is back with yet another iteration of his popular Calabasas line. Get cozy with this umber/core pair of Calabasas track pants featuring the iconic Calabasas logo along with the Calabasas font down the side. This particular pair of pants dropped on November 17th, 2018 for a retail price of $120. If you're looking for cozy with a side of style, these pants are for you. Place a bid today to secure your pair.",
+          "model": "Pant",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Yeezy-Calabasas-Track-Pant-Umber-Core.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1606322902",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Yeezy-Calabasas-Track-Pant-Umber-Core.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1606322902"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2018-11-17"
+            },
+            {
+              "name": "Retail Price",
+              "value": "120"
+            }
+          ],
+          "variants": [
+            {
+              "id": "bd288925-bbfd-4c22-bcdc-837a2e9c604d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "ab5858e6-c62f-4fe8-ae01-1b36709ddb48",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "32a646ae-6538-42ae-a0d4-ce10bc7c4e2e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "9f91cadb-ea18-41b9-a751-5b70fce862f1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "ae039ed0-162c-4fb8-ae3a-7dfd61952577",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "1ba164d2-9ffc-4cb7-8003-74a71adf60fc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "578ca3b3-9178-442f-910a-987b5a35c309",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 52,
+                "updatedAt": "2025-04-09T02:54:05Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 35,
+                "updatedAt": "2025-04-25T15:49:42Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 52,
+              "lastSaleDate": "2025-04-26T02:09:19Z",
+              "salesThisPeriod": 2,
+              "salesLastPeriod": 0,
+              "changeValue": 2,
+              "changePercentage": 0.04,
+              "volatility": 0.326913,
+              "pricePremium": -0.567
+            },
+            "deadStock": {
+              "sold": 100,
+              "averagePrice": 67
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 62
+              },
+              "annual": {
+                "averagePrice": 67,
+                "salesCount": 100
+              }
+            }
+          }
+        },
+        {
+          "objectId": "0558d3f3-3e02-4cdb-ae6f-57c8d5343688",
+          "name": "Women's Adicolor Classic Firebird Loose Track",
+          "urlKey": "adidas-womens-adicolor-classic-firebird-loose-track-top-collegiate-green-crew-yellow",
+          "title": "adidas Women's Adicolor Classic Firebird Loose Track Top Collegiate Green/Crew Yellow",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Top-Collegiate-Green-Crew-Yellow.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890117",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-Classic-Firebird-Loose-Track-Top-Collegiate-Green-Crew-Yellow.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890117"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "70"
+            }
+          ],
+          "variants": [
+            {
+              "id": "66fbf9a2-f802-4d12-b640-07916583ebff",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "a9322b5b-2597-410e-bf51-9a3bca3a156c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "60499c00-352c-408e-a336-c41bd991f66c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "8918e2e5-21b4-47c9-92ba-d128f8d8d455",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "fcc93c93-14d7-4573-a616-7fb42c2ace21",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "9f7a8f36-40c6-4b23-91f4-728aa2813a58",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "c8d9f608-c083-4127-b0f3-1383ccbb83a7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "65f0924a-63dd-4535-9787-5274f5715716",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "2ede69b9-2304-4f90-a71a-0a1e68560a30",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 114,
+                "updatedAt": "2025-04-28T09:33:27Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": null
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "e980b3d6-2936-454a-b31f-eebbb0b499d0",
+          "name": "Street Neuclassics Track",
+          "urlKey": "adidas-street-neuclassics-track-top-wonder-white",
+          "title": "adidas Street Neuclassics Track Top Wonder White",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Street-Neuclassics-Track-Top-Wonder-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890058",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Street-Neuclassics-Track-Top-Wonder-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890058"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "70"
+            }
+          ],
+          "variants": [
+            {
+              "id": "6b2c2fb0-44e8-455e-9b04-daf4023973c0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "2d689dff-dbb6-430d-9932-e9b0db41f106",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "a6239e79-7082-430c-8dac-e4101c8f768a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "ea05285a-3856-48ef-b92e-749c10bbe8de",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "007e6984-cbf0-4201-8f26-d653d2d59146",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "937339aa-2da7-4110-af09-c8e8c7f6ed4f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "3929746a-0e51-4051-a80f-aa9ff708dfe9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            },
+            {
+              "id": "6d33825c-4a01-4aa8-9df0-90290a796221",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "4XL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 96,
+                "updatedAt": "2025-04-27T10:31:31Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 26,
+                "updatedAt": "2025-04-15T07:58:12Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "5c3177bb-7224-4617-a2e9-e8865570cc6e",
+          "name": "Women's Adicolor 3-Stripes Long Sleeve Crop Long-Sleeve",
+          "urlKey": "adidas-womens-adicolor-3-stripes-long-sleeve-crop-long-sleeve-top-better-scarlet",
+          "title": "adidas Women's Adicolor 3-Stripes Long Sleeve Crop Long-Sleeve Top Better Scarlet",
+          "brand": "adidas",
+          "description": "",
+          "model": "Top",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "women",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-3-Stripes-Long-Sleeve-Crop-Long-Sleeve-Top-Better-Scarlet.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890082",
+            "smallImageUrl": "https://images.stockx.com/images/adidas-Womens-Adicolor-3-Stripes-Long-Sleeve-Crop-Long-Sleeve-Top-Better-Scarlet.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1741890082"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "33"
+            }
+          ],
+          "variants": [
+            {
+              "id": "2fcb8ad6-e8b2-46e7-b166-6d8884edda18",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXS"
+              }
+            },
+            {
+              "id": "7c15aacf-173f-4b10-921a-d75aac4efdc0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "c95a5500-1744-4448-b014-b27a3e3e2e8e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "e1284771-9a5d-4cc1-b1ce-71744e3f06cd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "84b14ef7-47ff-4605-b83d-942302fb6f85",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "27620cde-1ed0-4a0b-b99c-7041a451d356",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "f8dd0bc9-829b-43c4-8789-77c1c08d4485",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "55d03cdc-80e2-4626-81bb-db1b4db37a57",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "514fbe18-ea72-43d8-b6aa-584b3bc86e58",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 102,
+                "updatedAt": "2025-04-28T15:26:32Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 10,
+                "updatedAt": "2025-04-28T06:09:04Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        }
+      ],
+      "page": 1,
+      "limit": 40,
+      "total": 6254
+    }
+  }

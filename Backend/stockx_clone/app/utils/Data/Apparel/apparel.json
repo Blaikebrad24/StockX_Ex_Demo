@@ -1,0 +1,4663 @@
+{
+    "data": {
+      "results": [
+        {
+          "objectId": "96cc5bbe-d9e0-491a-ae40-cf37ebc692ad",
+          "name": "x Travis Scott Air",
+          "urlKey": "jordan-x-travis-scott-air-t-shirt-sail",
+          "title": "Jordan x Travis Scott Air T-Shirt Sail",
+          "brand": "Jordan",
+          "description": "",
+          "model": "T-Shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-x-Travis-Scott-Air-T-Shirt-Sail.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727380838",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-x-Travis-Scott-Air-T-Shirt-Sail.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727380838"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-28"
+            },
+            {
+              "name": "Retail Price",
+              "value": "70"
+            }
+          ],
+          "variants": [
+            {
+              "id": "84e22f64-f4c7-4f8f-bfcb-0878bd2afe19",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "1ad8a377-f194-4912-b011-6bdac8fe904a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "e92b0713-c419-4dfd-b901-039a12e8c64d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "f2a114c9-4d57-411b-973e-7c8ac28e1365",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "3ecce190-175b-44e7-aaac-eb27be41a2f3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "cee4aa60-a167-443e-8c4a-6bd7eefb149a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "90a7b4ee-c268-431d-93ab-328fc6297bdd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 3,
+              "lowestAsk": {
+                "amount": 40,
+                "updatedAt": "2025-04-27T21:13:48Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 73
+              },
+              "highestBid": {
+                "amount": 32,
+                "updatedAt": "2025-04-28T14:32:36Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 60,
+              "lastSaleDate": "2025-04-28T05:20:53Z",
+              "salesThisPeriod": 4,
+              "salesLastPeriod": 4,
+              "changeValue": -7,
+              "changePercentage": -0.104478,
+              "volatility": 0.227012,
+              "pricePremium": -0.143
+            },
+            "deadStock": {
+              "sold": 100,
+              "averagePrice": 61
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 52
+              },
+              "annual": {
+                "averagePrice": 61,
+                "salesCount": 100
+              }
+            }
+          }
+        },
+        {
+          "objectId": "ccd06bd7-0999-40b9-83b7-0d4fe402a678",
+          "name": "x Union LA Fleece",
+          "urlKey": "air-jordan-x-union-la-fleece-hoodie-light-orewood-brown-hyper-cobalt",
+          "title": "Jordan x Union LA Fleece Hoodie Light Orewood Brown/Hyper Cobalt",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-Union-LA-Fleece-Hoodie-Light-Orewood-Brown-Hyper-Cobalt.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068816",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-Union-LA-Fleece-Hoodie-Light-Orewood-Brown-Hyper-Cobalt.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068816"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "9b6eb7ea-cfbc-4c0f-a23e-87a5381b35a3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "32ba2108-803b-480d-a7ff-c16a0133e609",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "09c205a2-c4d0-4ef4-8c6b-fdfc7704a862",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "230505da-49ae-43aa-b504-a2603cab74a2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "7793b248-639f-4e00-b7a5-6808014d3cf1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "e3d429e8-b673-46ab-b7cd-4e374e345bbc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "7fafddb7-bd85-4d9c-81c4-2944a31cf8fd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 80,
+                "updatedAt": "2025-04-27T05:44:46Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 65,
+                "updatedAt": "2025-04-23T15:50:44Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 129,
+              "lastSaleDate": "2025-04-23T04:08:55Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 1,
+              "changeValue": 39,
+              "changePercentage": 0.433333,
+              "volatility": 0.176431,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 3,
+              "averagePrice": 98
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 98
+              },
+              "annual": {
+                "averagePrice": 98,
+                "salesCount": 3
+              }
+            }
+          }
+        },
+        {
+          "objectId": "1266a6f2-6b64-4e5e-8fc6-21822506abeb",
+          "name": "x Union LA Fleece",
+          "urlKey": "air-jordan-x-union-la-fleece-hoodie-black",
+          "title": "Jordan x Union LA Fleece Hoodie Black",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-Union-LA-Fleece-Hoodie-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068799",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-Union-LA-Fleece-Hoodie-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1744068799"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "8f4f17c1-ad60-4fcd-b86a-168112185076",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "318dd1a9-f6c5-40c5-9ffb-ad07e5f03298",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "24cdb412-bbde-43bd-a36a-d2c63fd991cb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "b5c0dbb8-8e0f-4f9b-9f7f-e19a354bcf4d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "d7ee4ef0-f1f9-48f1-8660-bec8a623c76c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "8c4ec345-7666-4959-957e-55c2739b5b4e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "9ca8b899-fec8-4a8d-b4ce-726aedba1190",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 120,
+                "updatedAt": "2025-04-27T16:58:58Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 130,
+                "updatedAt": "2025-04-26T21:55:53Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 207,
+              "lastSaleDate": "2025-04-20T14:50:40Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "0b515195-f518-4853-9735-538fca93d33a",
+          "name": "x A Ma Maniere Shooting",
+          "urlKey": "air-jordan-x-a-ma-maniere-shooting-shirt-flat-pewter",
+          "title": "Jordan x A Ma Maniere Shooting Shirt Flat Pewter",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Shooting-Shirt-Flat-Pewter.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292904",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Shooting-Shirt-Flat-Pewter.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292904"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "115"
+            }
+          ],
+          "variants": [
+            {
+              "id": "dbdb9784-d964-4a37-bf1a-63c686dd06d0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "8d533ec0-8500-4260-b0e9-5ca3c73bb258",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "18ed04ef-356a-4cdf-823a-a2e7aeca4096",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "745c897c-eb04-432d-a587-1df874df3735",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "b4a4efcf-5b4a-419c-8562-57c223691d42",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "cc95aff5-0455-498a-ad8b-4c4e8da2df04",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "ceef5e23-bea0-43fe-be95-23b9660b5a71",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 75,
+                "updatedAt": "2025-04-15T15:11:32Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 70,
+                "updatedAt": "2025-04-05T14:13:22Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 101,
+              "lastSaleDate": "2025-04-25T02:07:28Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 1,
+              "changeValue": 9,
+              "changePercentage": 0.095918,
+              "volatility": 0.316834,
+              "pricePremium": -0.123
+            },
+            "deadStock": {
+              "sold": 20,
+              "averagePrice": 107
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 97
+              },
+              "annual": {
+                "averagePrice": 107,
+                "salesCount": 20
+              }
+            }
+          }
+        },
+        {
+          "objectId": "a03408ba-1b32-416b-9bea-3f0d9ef26ee8",
+          "name": "Air Jordan Essentials Dri-Fit Diamond",
+          "urlKey": "nike-air-jordan-essentials-dri-fit-diamond-shorts-gym-red-black",
+          "title": "Nike Air Jordan Essentials Dri-Fit Diamond Shorts Gym Red/Black",
+          "brand": "Nike",
+          "description": "",
+          "model": "Shorts",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-Essentials-Dri-Fit-Diamond-Shorts-Gym-Red-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1707755351",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-Essentials-Dri-Fit-Diamond-Shorts-Gym-Red-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1707755351"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "60"
+            }
+          ],
+          "variants": [
+            {
+              "id": "982f5904-7f8a-4cd1-9de6-4204bbbb7f54",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "3b2de0e1-f889-4020-aeba-5e8982727a07",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "697e98da-f553-43e3-a6cc-0c204795da9d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "33e118d0-3cbb-4283-bbbe-135e160f9ab7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "131775ab-5bda-4560-b128-bab721c16cde",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "b55f78f7-ce35-4f7f-8d19-cb74a734c775",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 129,
+                "updatedAt": "2025-04-28T11:38:37Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 25,
+                "updatedAt": "2025-04-16T20:55:18Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 58,
+              "lastSaleDate": "2025-04-22T22:20:04Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 2,
+              "changePercentage": 0.035714,
+              "volatility": 0.205338,
+              "pricePremium": -0.033
+            },
+            "deadStock": {
+              "sold": 21,
+              "averagePrice": 69
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 60
+              },
+              "annual": {
+                "averagePrice": 69,
+                "salesCount": 21
+              }
+            }
+          }
+        },
+        {
+          "objectId": "dd87a174-116d-4bb0-9fd7-d7e017820b91",
+          "name": "Air Flight Artist",
+          "urlKey": "jordan-air-flight-artist-vest-black-blue",
+          "title": "Jordan Air Flight Artist Vest Black/Blue",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Vest",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-Air-Flight-Artist-Vest-Black-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1719505525",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-Air-Flight-Artist-Vest-Black-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1719505525"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "80"
+            }
+          ],
+          "variants": [
+            {
+              "id": "a607ce11-ab62-4ee9-a279-e5928e96febe",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "60f304da-e96b-40d1-b9ee-5951681f8cb7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "180178d9-a248-4b31-ba82-5d4ed0a9f145",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "bf62834d-4499-4405-9c4b-8410aa46552b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "5466d7a0-e00b-4b78-b300-65fecba2bf0c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "10db17c6-bdf7-447b-98a6-0294e396f3be",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "9ad7bbc0-c543-4f86-b9d1-9e638a542074",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 100,
+                "updatedAt": "2025-04-25T11:40:04Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 28,
+                "updatedAt": "2025-04-28T12:37:41Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 137,
+              "lastSaleDate": "2025-04-25T10:31:08Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 1,
+              "changeValue": 50,
+              "changePercentage": 0.574593,
+              "volatility": 0.200192,
+              "pricePremium": 0.712
+            },
+            "deadStock": {
+              "sold": 14,
+              "averagePrice": 110
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 131
+              },
+              "annual": {
+                "averagePrice": 110,
+                "salesCount": 14
+              }
+            }
+          }
+        },
+        {
+          "objectId": "2084a0fa-0e3d-4565-b45b-3e00307bac33",
+          "name": "x A Ma Maniere",
+          "urlKey": "air-jordan-x-a-ma-maniere-t-shirt-light-armory-blue",
+          "title": "Jordan x A Ma Maniere T-Shirt Light Armory Blue",
+          "brand": "Jordan",
+          "description": "",
+          "model": "T-Shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-T-Shirt-Light-Armory-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292940",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-T-Shirt-Light-Armory-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292940"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "55"
+            }
+          ],
+          "variants": [
+            {
+              "id": "1791fabb-78c5-4d19-953a-3dd9f6d524c2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "38be5a4e-d753-4394-9ac0-7fea10925bbe",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "356980d3-9b42-42af-913f-500d8eaf0610",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "40239f06-f214-4aed-98aa-f068ad2bae54",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "b5656529-3fb8-43e7-8c43-1e8631155aac",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c1dba38d-65cb-487b-aec8-f12b32b64896",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "af5478f2-1537-4c3e-b4af-9921ff16eb36",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 65,
+                "updatedAt": "2025-04-17T18:44:51Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 30,
+                "updatedAt": "2025-04-17T15:48:37Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 39,
+              "lastSaleDate": "2025-04-25T18:51:34Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 1,
+              "changeValue": 9,
+              "changePercentage": 0.3,
+              "volatility": 0.52203,
+              "pricePremium": -0.291
+            },
+            "deadStock": {
+              "sold": 30,
+              "averagePrice": 59
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 46
+              },
+              "annual": {
+                "averagePrice": 59,
+                "salesCount": 30
+              }
+            }
+          }
+        },
+        {
+          "objectId": "05ae8c8b-ffc9-4554-b9bd-46a2057ae7eb",
+          "name": "x A Ma Maniere",
+          "urlKey": "air-jordan-x-a-ma-maniere-hoodie-flat-pewter",
+          "title": "Jordan x A Ma Maniere Hoodie Flat Pewter",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Hoodie-Flat-Pewter.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292870",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Hoodie-Flat-Pewter.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292870"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "179"
+            }
+          ],
+          "variants": [
+            {
+              "id": "25b45934-c969-4cc8-97e7-bda52deb8017",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "9a2bd73a-1dee-4940-aab7-02662d1e15c2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "64d24755-8e3c-44a0-bfc4-f1f2430cb429",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "ce1d9d04-759b-4f5d-9971-1075fd7c9f31",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "ed3a621f-60d9-47d8-afe0-a04291900eec",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "b13b67ca-8fa6-45b2-885f-f79a6a0a6866",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "1de26642-6dad-4574-91cd-3850ce903e90",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 120,
+                "updatedAt": "2025-04-13T21:50:20Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 124,
+                "updatedAt": "2025-04-25T09:02:09Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 148,
+              "lastSaleDate": "2025-04-18T16:14:06Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -42,
+              "changePercentage": -0.221891,
+              "volatility": 0.229005,
+              "pricePremium": -0.174
+            },
+            "deadStock": {
+              "sold": 41,
+              "averagePrice": 168
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 136
+              },
+              "annual": {
+                "averagePrice": 168,
+                "salesCount": 41
+              }
+            }
+          }
+        },
+        {
+          "objectId": "18c4413a-01c0-440a-b4aa-796b8662f5ed",
+          "name": "x A Ma Maniere",
+          "urlKey": "air-jordan-x-a-ma-maniere-t-shirt-flat-pewter",
+          "title": "Jordan x A Ma Maniere T-Shirt Flat Pewter",
+          "brand": "Jordan",
+          "description": "",
+          "model": "T-Shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-T-Shirt-Flat-Pewter.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292860",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-T-Shirt-Flat-Pewter.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292860"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "55"
+            }
+          ],
+          "variants": [
+            {
+              "id": "85231a32-8188-4560-b439-fa07e18fdbee",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "d3f3839a-0d88-456f-9d68-afa39e7a1f93",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "e6e3e782-cfe1-422a-87b0-eacb2dff5a13",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "e380947f-ca5a-41a7-a680-7f71d9e18492",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "ab533b91-052a-4aae-83dc-fb2b0653fabf",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "ca9d6ebd-af92-454c-8e0e-125658bafbed",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "15a312c2-bdb0-4013-aa0c-a1d3d202bfad",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 65,
+                "updatedAt": "2025-04-24T15:14:57Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 69,
+                "updatedAt": "2025-04-28T12:57:37Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 45,
+              "lastSaleDate": "2025-04-03T04:49:52Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -20,
+              "changePercentage": -0.307692,
+              "volatility": 0.400293,
+              "pricePremium": -0.182
+            },
+            "deadStock": {
+              "sold": 29,
+              "averagePrice": 73
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 50
+              },
+              "annual": {
+                "averagePrice": 73,
+                "salesCount": 29
+              }
+            }
+          }
+        },
+        {
+          "objectId": "ddbaee8b-148e-45b2-9e41-91b857744a25",
+          "name": "x A Ma Maniere Shooting",
+          "urlKey": "air-jordan-x-a-ma-maniere-shooting-shirt-phantom",
+          "title": "Jordan x A Ma Maniere Shooting Shirt Phantom",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Shooting-Shirt-Phantom.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292884",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Shooting-Shirt-Phantom.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292884"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "115"
+            }
+          ],
+          "variants": [
+            {
+              "id": "12ffb65d-7e54-4a8c-add6-3931f91bc2ee",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "348837b2-f7b4-42a1-b0b5-d5d380f54934",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "e91d1d22-fdf5-494b-be95-4024cac8fe6f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "3e9d9899-3fcb-4b25-aed6-3499a2ded353",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "9de552cf-4ab0-4a04-9824-bb984cdb01f1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "a08506fb-1e62-4d5b-9c65-ed6b22633d03",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "db9fa7fd-0d4e-4de1-92eb-0f4db7b95b6f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 75,
+                "updatedAt": "2025-04-17T23:15:46Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 55,
+                "updatedAt": "2025-04-23T03:29:38Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 68,
+              "lastSaleDate": "2025-04-20T12:57:55Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -7,
+              "changePercentage": -0.093333,
+              "volatility": 0.41231,
+              "pricePremium": -0.409
+            },
+            "deadStock": {
+              "sold": 19,
+              "averagePrice": 99
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 71
+              },
+              "annual": {
+                "averagePrice": 99,
+                "salesCount": 19
+              }
+            }
+          }
+        },
+        {
+          "objectId": "3ea64ae7-0d82-4eea-bb78-a71473e70fc4",
+          "name": "Air Jordan x Solefly Cargo",
+          "urlKey": "nike-air-jordan-x-solefly-cargo-pants-smoke-grey",
+          "title": "Nike Air Jordan x Solefly Cargo Pants Smoke Grey",
+          "brand": "Nike",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-x-Solefly-Cargo-Pants-Smoke-Grey.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1718292045",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-x-Solefly-Cargo-Pants-Smoke-Grey.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1718292045"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-06-08"
+            },
+            {
+              "name": "Retail Price",
+              "value": "120"
+            }
+          ],
+          "variants": [
+            {
+              "id": "1c8703d9-74ac-481b-bc86-56b2fc030e69",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "99170236-c555-4593-a64e-44245499caa4",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "6abfbc0f-f472-4ae0-a123-6674d532317a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "88374ac1-9c18-4e21-91eb-37163a6f3865",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "b0872f86-2d1b-496a-beee-d0ba261af558",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "6d7c9d4a-321e-4ea0-9b2a-24ff5c51e8f0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "7ba6ef80-015f-4783-81a7-3294b2a1bb58",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 46,
+                "updatedAt": "2025-04-23T16:40:08Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 32,
+                "updatedAt": "2025-04-28T11:56:15Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 55,
+              "lastSaleDate": "2025-04-19T09:46:45Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 5,
+              "changePercentage": 0.1,
+              "volatility": 0.62075,
+              "pricePremium": -0.542
+            },
+            "deadStock": {
+              "sold": 9,
+              "averagePrice": 92
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 92
+              },
+              "annual": {
+                "averagePrice": 92,
+                "salesCount": 9
+              }
+            }
+          }
+        },
+        {
+          "objectId": "a4da244a-2fd7-4fc8-9a06-8b2bdcc66aa0",
+          "name": "x Travis Scott Air",
+          "urlKey": "jordan-x-travis-scott-air-t-shirt-celery",
+          "title": "Jordan x Travis Scott Air T-Shirt Celery",
+          "brand": "Jordan",
+          "description": "",
+          "model": "T-Shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-x-Travis-Scott-Air-T-Shirt-Celery.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727380838",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-x-Travis-Scott-Air-T-Shirt-Celery.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727380838"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-28"
+            },
+            {
+              "name": "Retail Price",
+              "value": "70"
+            }
+          ],
+          "variants": [
+            {
+              "id": "b763a56e-5a08-4b35-8108-418be30cf1bf",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "1425fe6d-463c-443f-9a28-5ad4cac8fd90",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "9523b9d2-904b-4b43-80b3-9b0fac0e21f5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "3e916fec-01e5-4577-9add-e05a7f1cb342",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "746b98c5-97de-4ea4-9423-90b771c1ce57",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "55e06288-efef-48cc-801d-fe29cc9f5bfc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "b69e2a04-f164-4c52-88ba-ac567892996b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 49,
+                "updatedAt": "2025-04-15T20:22:26Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 30,
+                "updatedAt": "2025-04-01T00:54:28Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 59,
+              "lastSaleDate": "2025-03-24T17:22:43.1Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 15,
+              "changePercentage": 0.340909,
+              "volatility": 0.243586,
+              "pricePremium": -0.157
+            },
+            "deadStock": {
+              "sold": 36,
+              "averagePrice": 70
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 62
+              },
+              "annual": {
+                "averagePrice": 70,
+                "salesCount": 36
+              }
+            }
+          }
+        },
+        {
+          "objectId": "6ac41bf0-0d75-42d7-a0a2-798a039e84a0",
+          "name": "x A Ma Maniere",
+          "urlKey": "air-jordan-x-a-ma-maniere-t-shirt-phantom",
+          "title": "Jordan x A Ma Maniere T-Shirt Phantom",
+          "brand": "Jordan",
+          "description": "",
+          "model": "T-Shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-T-Shirt-Phantom.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292864",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-T-Shirt-Phantom.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292864"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "55"
+            }
+          ],
+          "variants": [
+            {
+              "id": "de144709-bf2d-4dfa-8dc6-fa4445e696f8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "e0dd56ba-f5b7-4566-ac02-dbf210eba514",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "c47e6664-5131-45bf-9f14-e99d18c843cb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "3f44dbbe-df61-4163-8b89-35a4a59a0203",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "b4d95514-ec06-44eb-8481-8a46e4096622",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "e3ccf37f-6f84-4461-b0cc-999f84036d73",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "128d0334-7a3d-49d8-a616-2dd1be963a1e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 1,
+              "lowestAsk": {
+                "amount": 50,
+                "updatedAt": "2025-03-31T22:58:20Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 89
+              },
+              "highestBid": {
+                "amount": 44,
+                "updatedAt": "2025-04-18T03:41:02Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 74,
+              "lastSaleDate": "2025-03-19T23:12:19Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 5,
+              "changePercentage": 0.072464,
+              "volatility": 0.225196,
+              "pricePremium": 0.345
+            },
+            "deadStock": {
+              "sold": 19,
+              "averagePrice": 73
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 61
+              },
+              "annual": {
+                "averagePrice": 73,
+                "salesCount": 19
+              }
+            }
+          }
+        },
+        {
+          "objectId": "861fecbc-c669-4407-8b80-3fc67a585319",
+          "name": "x A Ma Maniere",
+          "urlKey": "air-jordan-x-a-ma-maniere-hoodie-phantom",
+          "title": "Jordan x A Ma Maniere Hoodie Phantom",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Hoodie-Phantom.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292893",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Hoodie-Phantom.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292893"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "179"
+            }
+          ],
+          "variants": [
+            {
+              "id": "ea3ddba3-7795-45cb-9814-18c81aaa38e0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "05573c88-ba53-467a-a66d-1bdeca5cfbcd",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "149110f3-44f3-439d-8672-15640c91b94b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "222ca2ff-7fbb-445d-a25a-f05a11560a77",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "2f43c8dd-710b-4365-a027-d5d23562cd16",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "3f966fec-fe76-4d04-a838-76b185f86739",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "8fcca625-52a0-44ef-98c2-afbf47380f6f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 89,
+                "updatedAt": "2025-04-23T06:22:29Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 53,
+                "updatedAt": "2025-04-17T02:06:37Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 75,
+              "lastSaleDate": "2025-04-15T14:20:12Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -24,
+              "changePercentage": -0.248012,
+              "volatility": 0.391545,
+              "pricePremium": -0.581
+            },
+            "deadStock": {
+              "sold": 28,
+              "averagePrice": 112
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 89
+              },
+              "annual": {
+                "averagePrice": 112,
+                "salesCount": 28
+              }
+            }
+          }
+        },
+        {
+          "objectId": "8a1c3254-1c90-4de6-b355-6b5fd6915574",
+          "name": "x Awake NY Varsity",
+          "urlKey": "air-jordan-x-awake-ny-varsity-jacket-university-red-black",
+          "title": "Air Jordan x Awake NY Varsity Jacket University Red/Black",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-Awake-NY-Varsity-Jacket-University-Red-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1718126609",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-Awake-NY-Varsity-Jacket-University-Red-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1718126609"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "840"
+            }
+          ],
+          "variants": [
+            {
+              "id": "74965d72-0ea6-4332-9c31-446073a463ae",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "0b302498-467e-4830-ad3d-86bd53b269de",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "e66d3b2d-a72d-45cb-986e-0c9192d34c02",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "088c1c6e-c0f7-4a89-a03a-0108e23eec98",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "e952ac36-a7f9-4fd7-966f-09b1dc7ce01c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "90a3020b-4e58-4e60-ba7c-47caccfe6fc6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "ae5a5b15-7ea4-4a49-89a6-c26ad8d5be2b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 1,
+              "lowestAsk": {
+                "amount": 403,
+                "updatedAt": "2025-04-22T12:14:16Z"
+              },
+              "lowestCustodialAsk": {
+                "amount": 497
+              },
+              "highestBid": {
+                "amount": 119,
+                "updatedAt": "2025-04-28T11:10:08Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 533,
+              "lastSaleDate": "2025-04-10T01:45:33Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 136,
+              "changePercentage": 0.342206,
+              "volatility": 0.212085,
+              "pricePremium": -0.367
+            },
+            "deadStock": {
+              "sold": 67,
+              "averagePrice": 406
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 386
+              },
+              "annual": {
+                "averagePrice": 406,
+                "salesCount": 67
+              }
+            }
+          }
+        },
+        {
+          "objectId": "adb563a8-13bd-4413-8689-60057f5fede8",
+          "name": "x A Ma Maniere",
+          "urlKey": "air-jordan-x-a-ma-maniere-short-light-armory-blue",
+          "title": "Jordan x A Ma Maniere Short Light Armory Blue",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Short",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Short-Light-Armory-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292910",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Short-Light-Armory-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292910"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "129"
+            }
+          ],
+          "variants": [
+            {
+              "id": "f30dbe26-2321-43f3-a049-ea78a39cf880",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "da5c39fa-6341-4c33-a6a7-b0ca49ecac6c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "45c8189c-8939-4bd6-ba2b-47d90421ad06",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "75079257-e3f0-4fc4-bf37-4bf4a0af5ac2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "197217af-f22b-48b6-a6a2-2b0a0c748c1d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "bb5cec38-d663-4aca-b940-8ff0f392df9f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "9b667762-9512-49eb-bd0e-0e3e86625cde",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 193,
+                "updatedAt": "2025-04-28T09:59:57Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 50,
+                "updatedAt": "2025-04-03T19:30:16Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 125,
+              "lastSaleDate": "2025-04-16T22:17:58Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -17,
+              "changePercentage": -0.123426,
+              "volatility": 0.338816,
+              "pricePremium": -0.031
+            },
+            "deadStock": {
+              "sold": 20,
+              "averagePrice": 65
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 74
+              },
+              "annual": {
+                "averagePrice": 65,
+                "salesCount": 20
+              }
+            }
+          }
+        },
+        {
+          "objectId": "a2e29746-5ab0-4023-be55-d2b6bbc926fd",
+          "name": "Air Jordan x J Balvin Woven",
+          "urlKey": "nike-air-jordan-x-j-balvin-woven-pants-bio-beige",
+          "title": "Nike Air Jordan x J Balvin Woven Pants Bio Beige",
+          "brand": "Nike",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-x-J-Balvin-Woven-Pants-Bio-Beige.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1719937990",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-x-J-Balvin-Woven-Pants-Bio-Beige.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1719937990"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "215"
+            }
+          ],
+          "variants": [
+            {
+              "id": "a87126f8-d3a4-4525-b4db-25c880e4d988",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f560d988-e884-427f-b6ed-0282b0b6a9f5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "595ab75a-5d98-4c26-8b10-18c1fc626273",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "c7b12471-0b43-4482-9437-e0428bd87a8a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "b3e38412-6097-4ce7-a1a1-19c471826083",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "2bbbc6d3-de96-4a4b-a111-18ff6357233e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "01159197-8f6f-43d4-8548-994ff12b43a7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 55,
+                "updatedAt": "2025-04-01T02:23:11Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 27,
+                "updatedAt": "2025-04-28T07:53:27Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 75,
+              "lastSaleDate": "2025-04-23T04:49:52Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 33,
+              "changePercentage": 0.779807,
+              "volatility": 0.200175,
+              "pricePremium": -0.651
+            },
+            "deadStock": {
+              "sold": 22,
+              "averagePrice": 75
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 66
+              },
+              "annual": {
+                "averagePrice": 75,
+                "salesCount": 22
+              }
+            }
+          }
+        },
+        {
+          "objectId": "b352d31b-76dc-45d2-be61-6f0a34764a8d",
+          "name": "Air Essential Puffer Winter",
+          "urlKey": "jordan-air-essential-puffer-winter-jacket-red",
+          "title": "Jordan Air Essential Puffer Winter Jacket Red",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-Air-Essential-Puffer-Jacket-Red.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1728509877",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-Air-Essential-Puffer-Jacket-Red.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1728509877"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "250"
+            }
+          ],
+          "variants": [
+            {
+              "id": "4537327d-ff35-48b9-9827-5888618437f6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "74b077d7-cfdc-46e7-b410-64837f5ac3da",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "dba54eb5-99ce-42b1-bd33-1213aa219c47",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "bc410e01-226e-41e8-8c62-5843bfbb2104",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a6da2237-f1e4-4275-bccb-424b5d5af322",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "dbc046a5-8d6b-49d0-8174-d06d42af414b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "5caac169-0a55-4f6f-a948-0dcfc0f22c77",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 100,
+                "updatedAt": "2025-04-17T16:39:55Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 16,
+                "updatedAt": "2025-04-10T18:34:26Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 140,
+              "lastSaleDate": "2025-02-25T09:03:36Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -9,
+              "changePercentage": -0.060403,
+              "volatility": 0.266632,
+              "pricePremium": -0.44
+            },
+            "deadStock": {
+              "sold": 3,
+              "averagePrice": 177
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 140
+              },
+              "annual": {
+                "averagePrice": 177,
+                "salesCount": 3
+              }
+            }
+          }
+        },
+        {
+          "objectId": "ebc3d3d8-737e-4316-ae25-c94c0b535805",
+          "name": "Air Jordan Essentials Chicago",
+          "urlKey": "nike-air-jordan-essentials-chicago-hoodie-black-chicago-red",
+          "title": "Nike Air Jordan Essentials Chicago Hoodie Black/Chicago Red",
+          "brand": "Nike",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-Essentials-Chicago-Hoodie-Black-Chicago-Red.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1714491318",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-Essentials-Chicago-Hoodie-Black-Chicago-Red.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1714491318"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "90"
+            }
+          ],
+          "variants": [
+            {
+              "id": "e801717f-58f3-4e51-ac2e-39cdb600742e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "5109ff5c-6a4d-4d4a-bef0-7f46a2852e79",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "bcd80b9e-bceb-469c-9fc8-c53b874519c1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "4a2104ff-0e5d-472c-89ff-79902e37de0d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a1f05e87-916a-47e2-980a-29f86c25fe68",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "f7c6764b-6c26-49f0-a5fc-e387596f33be",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 200,
+                "updatedAt": "2025-04-11T00:24:31Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 75,
+                "updatedAt": "2025-03-03T00:03:53Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 115,
+              "lastSaleDate": "2025-04-25T23:27:31Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -28,
+              "changePercentage": -0.196806,
+              "volatility": 0.353523,
+              "pricePremium": 0.271
+            },
+            "deadStock": {
+              "sold": 33,
+              "averagePrice": 128
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 156
+              },
+              "annual": {
+                "averagePrice": 128,
+                "salesCount": 33
+              }
+            }
+          }
+        },
+        {
+          "objectId": "d3ce78ca-f98c-46ca-a536-320464e0dd90",
+          "name": "x A Ma Maniere",
+          "urlKey": "air-jordan-x-a-ma-maniere-short-flat-pewter",
+          "title": "Jordan x A Ma Maniere Short Flat Pewter",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Short",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Short-Flat-Pewter.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292906",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-A-Ma-Maniere-Short-Flat-Pewter.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727292906"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-09-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "129"
+            }
+          ],
+          "variants": [
+            {
+              "id": "4e6e1676-b32e-4326-b1e0-9f5d197b32d9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "6cb50fdd-f04e-44bb-bc1c-d8f13fd2d822",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "bc48fbac-22d8-4c05-8bcd-83bd090dba6e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "cc3a0b41-a469-42e5-b9b2-98f614a24487",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "352d1d34-3857-4759-8183-405e1ddfff64",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "65cfbafa-49a1-426d-96e4-c368b4faf161",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "42e08891-9ffd-4d76-88e5-9b31cb6d1dd9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 109,
+                "updatedAt": "2025-04-01T04:02:32Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 32,
+                "updatedAt": "2025-04-15T10:04:05Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 55,
+              "lastSaleDate": "2025-04-08T18:09:43Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": 0,
+              "volatility": 0.301309,
+              "pricePremium": -0.574
+            },
+            "deadStock": {
+              "sold": 5,
+              "averagePrice": 74
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 55
+              },
+              "annual": {
+                "averagePrice": 74,
+                "salesCount": 5
+              }
+            }
+          }
+        },
+        {
+          "objectId": "a05e343c-5a90-4b2b-bc0f-9838b41a750c",
+          "name": "Lamelo Ball Hornets Icon Edition 2022 Swingman NBA",
+          "urlKey": "air-jordan-lamelo-ball-hornets-icon-edition-2022-swingman-nba-jersey-rapid-teal-ball-lamelo",
+          "title": "Air Jordan Lamelo Ball Hornets Icon Edition 2022 Swingman NBA Jersey Rapid Teal/Ball Lamelo",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Jersey",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-Lamelo-Ball-Hornets-Icon-Edition-2022-Swingman-NBA-Jersey-Rapid-Teal-Ball-Lamelo.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1657028156",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-Lamelo-Ball-Hornets-Icon-Edition-2022-Swingman-NBA-Jersey-Rapid-Teal-Ball-Lamelo.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1657028156"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "e6491b83-3261-4364-bd70-da74216b5b2f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXS"
+              }
+            },
+            {
+              "id": "3e455dbd-8486-4975-a99c-3e074f38bd34",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "771087eb-b4c5-446a-a227-f417712c7ffc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "fe4d56e5-f348-439e-b1bb-b9b8ef2a70c0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "dca3dfaf-c831-405c-ad82-ede3220cacb8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "af9524bf-7006-44fb-a3db-707976c785bc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "2060e6b1-7807-496e-ada2-4c52330d5c33",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "33b125e3-1680-4aed-9288-1606fcddf7e2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 59,
+                "updatedAt": "2025-04-27T17:50:24Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 43,
+                "updatedAt": "2025-04-28T08:13:02Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 45,
+              "lastSaleDate": "2025-04-15T14:34:05Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -10,
+              "changePercentage": -0.181818,
+              "volatility": 0.297915,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 43,
+              "averagePrice": 69
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 52
+              },
+              "annual": {
+                "averagePrice": 69,
+                "salesCount": 43
+              }
+            }
+          }
+        },
+        {
+          "objectId": "e3829914-3f7b-456b-ada4-1d65fb1e99e8",
+          "name": "Cactus Jack x Jordan MJ TS Air",
+          "urlKey": "travis-scott-cactus-jack-x-jordan-mj-ts-air-tee-black-sail",
+          "title": "Travis Scott Cactus Jack x Jordan MJ TS Air Tee Black/Sail",
+          "brand": "Travis Scott",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Travis-Scott-Cactus-Jack-x-Jordan-MJ-TS-Air-Tee-Black-Sail.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1715289340",
+            "smallImageUrl": "https://images.stockx.com/images/Travis-Scott-Cactus-Jack-x-Jordan-MJ-TS-Air-Tee-Black-Sail.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1715289340"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2024-05-09"
+            },
+            {
+              "name": "Retail Price",
+              "value": "65"
+            }
+          ],
+          "variants": [
+            {
+              "id": "65d2ff35-e822-48d7-b4e3-f6f10b1385ca",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "9be57bc4-2953-49ee-94b0-0bbf526fb938",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "0872e18b-236f-445e-b693-ae6da71efa19",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "9844e104-6fd4-4ee9-a8fd-113ea403d510",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "4c68524c-e0ef-466e-9abb-e46e790708f2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 130,
+                "updatedAt": "2025-04-28T17:46:37Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 37,
+                "updatedAt": "2025-04-28T12:56:49Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 140,
+              "lastSaleDate": "2025-03-03T00:09:52Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 20,
+              "changePercentage": 0.166667,
+              "volatility": 0.151956,
+              "pricePremium": 1.154
+            },
+            "deadStock": {
+              "sold": 8,
+              "averagePrice": 113
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 156
+              },
+              "annual": {
+                "averagePrice": 113,
+                "salesCount": 8
+              }
+            }
+          }
+        },
+        {
+          "objectId": "66592346-edc6-4035-b9ee-34c00c02777b",
+          "name": "365 x A Ma Maniére Essentials Short Sleeve",
+          "urlKey": "jordan-365-x-a-ma-maniere-essentials-short-sleeve-tee-purple",
+          "title": "Jordan 365 x A Ma Maniére Essentials Short Sleeve Tee Purple",
+          "brand": "Jordan",
+          "description": "Regular-fit short sleeve cotton t-shirt. Crewneck. Embroidered logo text at chest. Embroidered logo print and texts at back.",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-365-x-A-Ma-Maniere-Essentials-Short-Sleeve-Tee-Purple.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1691079628",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-365-x-A-Ma-Maniere-Essentials-Short-Sleeve-Tee-Purple.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1691079628"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "60"
+            }
+          ],
+          "variants": [
+            {
+              "id": "6a2285a9-6809-474d-9a55-901fded402dc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "056248a4-11d1-44a7-8ad9-b1b30cd4f570",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "58d4a98d-5c55-4346-9279-257f3c18fddc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "1154b581-3480-4ff6-8393-d7e94b78f601",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "9f6947c0-f966-4d2c-b131-08ae98ad6a08",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "278bac94-98d1-4ef3-b004-5fb8edf4d0b9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 99,
+                "updatedAt": "2025-03-26T18:38:11Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 95,
+                "updatedAt": "2025-03-10T21:16:46Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 120,
+              "lastSaleDate": "2025-04-18T10:31:29Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 30,
+              "changePercentage": 0.333333,
+              "volatility": 0.184089,
+              "pricePremium": 1
+            },
+            "deadStock": {
+              "sold": 2,
+              "averagePrice": 117
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 90
+              },
+              "annual": {
+                "averagePrice": 117,
+                "salesCount": 2
+              }
+            }
+          }
+        },
+        {
+          "objectId": "8b9951a6-8e49-4b35-8d85-ac7d15c1ee5e",
+          "name": "Air Jordan Brooklyn Nets",
+          "urlKey": "nike-air-jordan-brooklyn-nets-shorts-grey",
+          "title": "Nike Air Jordan Brooklyn Nets Shorts Grey",
+          "brand": "Nike",
+          "description": "",
+          "model": "Shorts",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-Brooklyn-Nets-Shorts-Grey.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1728509952",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-Brooklyn-Nets-Shorts-Grey.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1728509952"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "50"
+            }
+          ],
+          "variants": [
+            {
+              "id": "965e1543-435b-46de-9f29-8840ff702c51",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "9b2ddf10-5df4-453b-b1e9-a0d174eff3af",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "a480e026-4cd9-427f-a4e8-ce356a605080",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "dae075ba-4bda-4580-90bf-9d381158a8d3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "50624f86-68d4-4adb-94f8-0276a079da55",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "21afe0f2-cf65-400e-bf50-d173c4ec151f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "ff66b6ff-43e6-4406-ae58-bc9407a4076f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 75,
+                "updatedAt": "2024-11-24T19:03:36Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 25,
+                "updatedAt": "2025-04-16T20:55:18Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 72,
+              "lastSaleDate": "2024-11-12T11:07:40Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 1,
+              "averagePrice": 72
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 72,
+                "salesCount": 1
+              }
+            }
+          }
+        },
+        {
+          "objectId": "53ee0339-2aea-4130-aa87-ecc21d52ca01",
+          "name": "Air Jordan All Over Print Track",
+          "urlKey": "nike-air-jordan-all-over-print-track-jacket-white",
+          "title": "Nike Air Jordan All Over Print Track Jacket White",
+          "brand": "Nike",
+          "description": "",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-All-Over-Print-Track-Jacket-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727271971",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-All-Over-Print-Track-Jacket-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1727271971"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "95"
+            }
+          ],
+          "variants": [
+            {
+              "id": "f40572c1-7a28-43be-823e-9db88d8d19ea",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "91b7cbe3-234a-4ada-bfde-060157cc50d8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "8e685898-7ef2-403d-91e7-9173fe993558",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "a9c23207-987c-4c63-8184-5e8f4c998f85",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "66dfd7b6-d92e-4eb4-b65a-e90e574ceb0e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "0fd08281-7c66-4abd-980c-ab316327495e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "a7f2d21a-541a-4f34-a448-1cd2b908b726",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            },
+            {
+              "id": "85c50893-b7dc-4331-87a2-3393120911f7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 125,
+                "updatedAt": "2024-12-17T00:27:00Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 104,
+                "updatedAt": "2025-04-08T01:04:44Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 113,
+              "lastSaleDate": "2024-12-14T04:10:24Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "303cff56-107e-4652-9691-ecb95545105a",
+          "name": "Air Jordan 23 Engineered Statement Nylon Cargo",
+          "urlKey": "nike-air-jordan-23-engineered-statement-nylon-cargo-pants-black",
+          "title": "Nike Air Jordan 23 Engineered Statement Nylon Cargo Pants Black",
+          "brand": "Nike",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-23-Engineered-Statement-Nylon-Cargo-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1717588332",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-23-Engineered-Statement-Nylon-Cargo-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1717588332"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "160"
+            }
+          ],
+          "variants": [
+            {
+              "id": "9d5df672-f06b-4fe3-8896-e92d184151df",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f72eecd3-c635-4a26-afe6-38100d3caa96",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "733b57e7-c720-4c31-b808-5453c0579eaa",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "64a2e21b-262a-47ee-8deb-acdfa7498f89",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "add9319f-6302-446b-8d22-4c00d4bd4690",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "c631e081-0079-4ca2-94e8-e700c539a28b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 149,
+                "updatedAt": "2024-11-30T20:20:42Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 105,
+                "updatedAt": "2025-04-12T01:02:24Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 149,
+              "lastSaleDate": "2025-03-09T16:57:01Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": 0,
+              "volatility": 0.082963,
+              "pricePremium": -0.069
+            },
+            "deadStock": {
+              "sold": 9,
+              "averagePrice": 154
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 149
+              },
+              "annual": {
+                "averagePrice": 154,
+                "salesCount": 9
+              }
+            }
+          }
+        },
+        {
+          "objectId": "42ba7c23-ebe9-4025-86d5-49ff1d508c37",
+          "name": "Air Jordan x Two 18 Detroit 218",
+          "urlKey": "nike-air-jordan-x-two-18-detroit-218-tee-sail",
+          "title": "Nike Air Jordan x Two 18 Detroit 218 Tee Sail",
+          "brand": "Nike",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-x-Two-18-Detroit-218-Tee-Sail.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701900385",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-x-Two-18-Detroit-218-Tee-Sail.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701900385"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "55"
+            }
+          ],
+          "variants": [
+            {
+              "id": "0779e1ed-97c0-439c-a92b-a86b98fff242",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "b6855434-a8db-44c4-a4d5-06cbae65d17c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "307edbb8-607d-427b-b6a8-e5b8a66d8d41",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "96a21112-3677-4a91-b964-b95150eac5d6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "0fb0524b-39c6-4383-973f-1ac57ccd0c05",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "6c76dbdd-98be-46cc-bc0e-183d001f71bb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 49,
+                "updatedAt": "2025-03-11T06:07:08Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 70,
+                "updatedAt": "2025-04-14T01:40:52Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 57,
+              "lastSaleDate": "2025-04-04T19:54:33Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 2,
+              "changePercentage": 0.036364,
+              "volatility": 0.196591,
+              "pricePremium": 0.036
+            },
+            "deadStock": {
+              "sold": 9,
+              "averagePrice": 55
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 40
+              },
+              "annual": {
+                "averagePrice": 55,
+                "salesCount": 9
+              }
+            }
+          }
+        },
+        {
+          "objectId": "222ae61f-2a04-4a08-84be-3146680aaf60",
+          "name": "Air Stretch S/S Crew",
+          "urlKey": "jordan-air-stretch-s-s-crew-t-shirt-grey",
+          "title": "Jordan Air Stretch S/S Crew T-shirt Grey",
+          "brand": "Jordan",
+          "description": "",
+          "model": "T-shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-Air-Stretch-S-S-Crew-T-shirt-Grey.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1720020906",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-Air-Stretch-S-S-Crew-T-shirt-Grey.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1720020906"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "220270a9-7bd7-4364-b90d-a1c1d282b503",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "2e150f8a-d87b-4049-9b11-83c67ad3067e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "7d7c3524-f391-4d36-8241-e916e741cd53",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "7a983157-c51d-4b8b-978a-03e97a8c9f18",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "5dd2ff4f-88d8-41bb-ad5b-432881bda478",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "1fbd3ed9-6577-4d92-ad53-ddfc2cd1c6b8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "c7be95e7-8bfb-4114-9ca9-0dfd6dec6aab",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 108,
+                "updatedAt": "2025-04-28T15:24:51Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 6,
+                "updatedAt": "2025-04-24T15:16:50Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "01c4db19-0aac-440c-a3cf-1726e626c322",
+          "name": "Air Jordan Woodwork Fleece",
+          "urlKey": "nike-air-jordan-woodwork-fleece-hoodie-dark-concord-white",
+          "title": "Nike Air Jordan Woodwork Fleece Hoodie Dark Concord/White",
+          "brand": "Nike",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-Woodwork-Fleece-Hoodie-Dark-Concord-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1717588332",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-Woodwork-Fleece-Hoodie-Dark-Concord-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1717588332"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "100"
+            }
+          ],
+          "variants": [
+            {
+              "id": "b9b63f76-9e85-443c-a183-e1cb9ef96e79",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "a8476d32-2667-472d-b84c-6c6b7b77cc0b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "aed21cfd-bb40-41ff-bbd6-81c4405342a5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "644a0412-b775-49d7-bbf6-2cc655042468",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "db253811-b7be-4c03-8122-7ca9f5c3bb7f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "ac9b9f58-d6c1-4b3d-b15e-2b663c9c79e5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 98,
+                "updatedAt": "2025-01-15T16:06:37Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 100,
+                "updatedAt": "2025-04-22T05:14:58Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 98,
+              "lastSaleDate": "2025-02-10T16:26:29Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 28,
+              "changePercentage": 0.4,
+              "volatility": 0.142857,
+              "pricePremium": -0.02
+            },
+            "deadStock": {
+              "sold": 2,
+              "averagePrice": 84
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 84
+              },
+              "annual": {
+                "averagePrice": 84,
+                "salesCount": 2
+              }
+            }
+          }
+        },
+        {
+          "objectId": "7ef4979a-781a-4f2c-be1a-46afe513d79b",
+          "name": "Jumpan Air",
+          "urlKey": "jordan-jumpan-air-jacket-autumn-black",
+          "title": "Jordan Jumpan Air Jacket Autumn Black",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-Jumpan-Air-Jacket-Autumn-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1716474552",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-Jumpan-Air-Jacket-Autumn-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1716474552"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "24cb9a64-be01-47ef-bfeb-dd9a1dd4542a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f1900f34-cf4f-443f-a806-c90d63f4ff4b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "077becd5-ba72-44a7-81a2-d10ae066823e",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "34ebc776-1b67-4cf5-bcc9-b042954dfd36",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "3e8250a8-8a89-4b64-a177-6ae26c8d5a85",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "9f5ca865-a0e0-40c1-9af7-d8ec3f479ce0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 675,
+                "updatedAt": "2025-04-28T14:46:16Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 65,
+                "updatedAt": "2025-04-28T07:53:36Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 91,
+              "lastSaleDate": "2024-11-17T14:12:57Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -9,
+              "changePercentage": -0.094249,
+              "volatility": 0.052028,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 1,
+              "averagePrice": 100
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 100,
+                "salesCount": 1
+              }
+            }
+          }
+        },
+        {
+          "objectId": "36eef166-06ba-45cb-871a-f33576545a2b",
+          "name": "Air 3/4 Length Dri-Fit",
+          "urlKey": "jordan-air-3-4-length-dri-fit-tights-white",
+          "title": "Jordan Air 3/4 Length Dri-Fit Tights White",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Tights",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-Air-3-4-Length-Dri-Fit-Tights-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1721227121",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-Air-3-4-Length-Dri-Fit-Tights-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1721227121"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "bab686bc-0d57-4e0e-a5db-eee2fa81a1e1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "e340a20d-f117-4f2f-93b3-c12f53321928",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "f3318dca-b949-48a1-83c0-a31d888aa352",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "6aaedaab-279f-4cf2-874e-8b05721d96df",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "be855cb2-0779-4ae0-9fbe-4ffcf7cf0c8f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "0515251c-d0f1-4d40-84f9-5e2354523d65",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "81a18a8f-a2df-420d-85c1-2ce3c8be6fc7",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 192,
+                "updatedAt": "2025-04-21T03:04:01Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 35,
+                "updatedAt": "2025-04-28T07:46:47Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 0,
+              "lastSaleDate": null,
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": null,
+              "volatility": 0,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 1,
+              "averagePrice": 119
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 119,
+                "salesCount": 1
+              }
+            }
+          }
+        },
+        {
+          "objectId": "cf45b56d-1afb-4bdd-a6a8-e890d038ab48",
+          "name": "Air Jordan x Titan",
+          "urlKey": "nike-air-jordan-x-titan-tee-ocean-cube-blue",
+          "title": "Nike Air Jordan x Titan Tee Ocean Cube Blue",
+          "brand": "Nike",
+          "description": "",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Air-Jordan-x-Titan-Tee-Ocean-Cube-Blue.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701900360",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Air-Jordan-x-Titan-Tee-Ocean-Cube-Blue.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701900360"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "55"
+            }
+          ],
+          "variants": [
+            {
+              "id": "47be48ae-ef5f-4fea-894d-61712bf58d96",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "e6a9fd81-ce14-49ab-a19d-267fe6712385",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "3a589c5a-2e61-43d1-a6c8-055495f0caa0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "a8463be3-f1f8-47d2-b249-0ac2a596845c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "cf149e7a-d5cd-46f2-9586-bffff3ca5645",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "294e3c86-99d4-4acc-9373-66b108845b9c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 54,
+                "updatedAt": "2025-04-23T06:22:29Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 15,
+                "updatedAt": "2025-03-30T19:30:27Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 55,
+              "lastSaleDate": "2025-04-17T17:02:00Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 2,
+              "changePercentage": 0.037736,
+              "volatility": 0.23797,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 15,
+              "averagePrice": 64
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 55
+              },
+              "annual": {
+                "averagePrice": 64,
+                "salesCount": 15
+              }
+            }
+          }
+        },
+        {
+          "objectId": "513bba14-d6a1-43f8-86dc-514ea013eb0b",
+          "name": "365 x A Ma Maniére Essentials Diamond",
+          "urlKey": "jordan-365-x-a-ma-maniere-essentials-diamond-short-purple",
+          "title": "Jordan 365 x A Ma Maniére Essentials Diamond Short Purple",
+          "brand": "Jordan",
+          "description": "Regular-fit mesh shorts. Elasticized drawstring waistband. Two pockets at sides. Single zip pocket at back. Embroidered logo prints and texts at sides. Monogram print throughout. Zip closure at front.",
+          "model": "Short",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-365-x-A-Ma-Maniere-Essentials-Diamond-Short-Purple.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1691079627",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-365-x-A-Ma-Maniere-Essentials-Diamond-Short-Purple.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1691079627"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "125"
+            }
+          ],
+          "variants": [
+            {
+              "id": "3bc08023-490f-4215-b4e0-83c6353dafa2",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "f4443a6f-1952-48f5-962a-e10834acf4f0",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "a42ed48c-4437-4c1b-b0bd-6a358871e0f3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "a617f986-d5e4-45a7-b40e-f78d82587335",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "25cfde95-a639-4366-a7d9-fb7aeea9f222",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "0d64dba7-9fc3-40e6-97b9-943f57126ae6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 100,
+                "updatedAt": "2025-04-11T17:33:58Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 150,
+                "updatedAt": "2025-04-20T06:13:10Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 80,
+              "lastSaleDate": "2025-04-27T01:43:57Z",
+              "salesThisPeriod": 1,
+              "salesLastPeriod": 0,
+              "changeValue": 15,
+              "changePercentage": 0.228377,
+              "volatility": 0.37199,
+              "pricePremium": -0.361
+            },
+            "deadStock": {
+              "sold": 4,
+              "averagePrice": 110
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 101
+              },
+              "annual": {
+                "averagePrice": 110,
+                "salesCount": 4
+              }
+            }
+          }
+        },
+        {
+          "objectId": "42d1e532-c084-4b86-824e-fc8640b092ee",
+          "name": "Air S/S Gray",
+          "urlKey": "jordan-air-s-s-gray-t-shirt-gray",
+          "title": "Jordan Air S/S Gray T-Shirt Gray",
+          "brand": "Jordan",
+          "description": "",
+          "model": "T-Shirt",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-Air-S-S-Gray-T-Shirt-Gray.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1717096975",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-Air-S-S-Gray-T-Shirt-Gray.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1717096975"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "d46650e8-8cbb-4a7e-b657-8e355bd279be",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "d4397d89-5602-44fb-9041-b61acc553a80",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "5a44d95b-b22d-44e3-ba15-7489fd55a4d9",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "fa4670c5-cb0c-4b64-a57f-4161988d293a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "25e7c6c0-2bb1-4f37-adfb-6126fd811269",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "82194314-29ed-4696-90cb-ccafe0695f15",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 108,
+                "updatedAt": "2025-04-28T15:24:31Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 25,
+                "updatedAt": "2025-04-13T18:16:53Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 68,
+              "lastSaleDate": "2025-03-05T15:19:54Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 16,
+              "changePercentage": 0.304273,
+              "volatility": 0.109974,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 3,
+              "averagePrice": 57
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 68
+              },
+              "annual": {
+                "averagePrice": 57,
+                "salesCount": 3
+              }
+            }
+          }
+        },
+        {
+          "objectId": "fd2bb30a-61da-4033-bf57-c4728e4e540d",
+          "name": "365 x A Ma Maniére Essentials Long Sleeve",
+          "urlKey": "jordan-365-x-a-ma-maniere-essentials-long-sleeve-tee-purple",
+          "title": "Jordan 365 x A Ma Maniére Essentials Long Sleeve Tee Purple",
+          "brand": "Jordan",
+          "description": "Regular-fit long sleeve cotton t-shirt. Crewneck. Graphic brand logo prints and texts at sleeves.",
+          "model": "Tee",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-365-x-A-Ma-Maniere-Essentials-Long-Sleeve-Tee-Purple.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1691079627",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-365-x-A-Ma-Maniere-Essentials-Long-Sleeve-Tee-Purple.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1691079627"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "65"
+            }
+          ],
+          "variants": [
+            {
+              "id": "08276f59-3424-461a-8380-6da93861c09d",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "57a55263-65eb-4d6f-8d2f-6d7172d3c22f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "0e0c23b7-a6e0-467e-b745-83342a87402c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "3e955c5c-1113-449a-81e2-0cd58023f23a",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "fed2f459-54a9-4e37-a26b-9286deda7fe8",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "d11d703d-c6b3-4795-a5a9-d64eae9bee96",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 150,
+                "updatedAt": "2025-04-14T05:11:02Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 63,
+                "updatedAt": "2025-04-18T05:55:50Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 65,
+              "lastSaleDate": "2023-11-19T20:41:29Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -33,
+              "changePercentage": -0.336735,
+              "volatility": 0.246901,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 0,
+              "averagePrice": 0
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 0,
+                "salesCount": 0
+              }
+            }
+          }
+        },
+        {
+          "objectId": "6ceee8be-6463-4b9b-afc4-492417e79802",
+          "name": "365 x A Ma Maniére Essentials Diamond",
+          "urlKey": "jordan-365-x-a-ma-maniere-essentials-diamond-short-black",
+          "title": "Jordan 365 x A Ma Maniére Essentials Diamond Short Black",
+          "brand": "Jordan",
+          "description": "Regular-fit mesh shorts. Elasticized drawstring waistband. Two pockets at sides. Single zip pocket at back. Embroidered logo prints and texts at sides. Monogram print throughout. Zip closure at front.",
+          "model": "Short",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Jordan-365-x-A-Ma-Maniere-Essentials-Diamond-Short-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1691079627",
+            "smallImageUrl": "https://images.stockx.com/images/Jordan-365-x-A-Ma-Maniere-Essentials-Diamond-Short-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1691079627"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "125"
+            }
+          ],
+          "variants": [
+            {
+              "id": "df4add4b-05c2-4631-9331-a149fe6ab885",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "ccc49fba-16f6-413c-aaa1-48f6c0b1fedc",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "925202fe-905d-4fed-a042-6e366e226fe5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "578ebf77-f5a9-43bf-bffc-ccc5c8b6d34f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "6fb5ca91-0a44-409a-8782-06ff41afc431",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "432bee57-8e43-4677-b382-b5543e23b81f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 80,
+                "updatedAt": "2025-04-22T16:50:04Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 75,
+                "updatedAt": "2025-04-07T05:18:52Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 100,
+              "lastSaleDate": "2025-04-04T17:47:28Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 35,
+              "changePercentage": 0.538462,
+              "volatility": 0.34309,
+              "pricePremium": -0.2
+            },
+            "deadStock": {
+              "sold": 11,
+              "averagePrice": 95
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 83
+              },
+              "annual": {
+                "averagePrice": 95,
+                "salesCount": 11
+              }
+            }
+          }
+        },
+        {
+          "objectId": "ed142867-85e7-4cc4-bc30-b44f72485205",
+          "name": "x J Balvin Woven",
+          "urlKey": "air-jordan-x-j-balvin-woven-pants-black",
+          "title": "Air Jordan x J Balvin Woven Pants Black",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Pants",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-J-Balvin-Woven-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1698775044",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-J-Balvin-Woven-Pants-Black.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1698775044"
+          },
+          "productTraits": [
+            {
+              "name": "Release Date",
+              "value": "2023-10-20"
+            },
+            {
+              "name": "Retail Price",
+              "value": "200"
+            }
+          ],
+          "variants": [
+            {
+              "id": "46545089-ba6f-4f56-af75-4b850e3fde61",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "0e6a4b52-21b2-46ef-9166-6feaceabb4a5",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "13bc852d-a1e2-4421-a5a7-1c47d93dcec1",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "cd2b383d-03bc-4e63-98f7-ca34d8a4a158",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "54289c5b-745d-488a-9db1-5f1210b2385c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "12cff1d1-facd-4e33-abba-9711d1094508",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 150,
+                "updatedAt": "2025-04-14T19:48:09Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 55,
+                "updatedAt": "2025-04-14T01:47:06Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 70,
+              "lastSaleDate": "2025-03-24T06:16:29Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 8,
+              "changePercentage": 0.114872,
+              "volatility": 0.303993,
+              "pricePremium": -0.65
+            },
+            "deadStock": {
+              "sold": 19,
+              "averagePrice": 88
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 68
+              },
+              "annual": {
+                "averagePrice": 88,
+                "salesCount": 19
+              }
+            }
+          }
+        },
+        {
+          "objectId": "577403ba-bc6e-485e-904c-da02d2cc1bf0",
+          "name": "Jumpman Core Fleece Pullover",
+          "urlKey": "air-jordan-jumpman-core-fleece-pullover-hoodie-black-multi",
+          "title": "Air Jordan Jumpman Core Fleece Pullover Hoodie Black/Multi",
+          "brand": "Jordan",
+          "description": "",
+          "model": "Hoodie",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-Jumpman-Core-Fleece-Pullover-Hoodie-Black-Multi.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1671688558",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-Jumpman-Core-Fleece-Pullover-Hoodie-Black-Multi.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1671688558"
+          },
+          "productTraits": [],
+          "variants": [
+            {
+              "id": "5a6080cb-a9af-4336-a4a9-ecead44aa20c",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "4bdbba97-6f55-46f5-aa72-aa3a5eac7ceb",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "126b6e7f-f982-4fae-905d-6c5e8e39ae5b",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "218008b7-6654-4151-b284-3a59590d3652",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "594de9cb-2c84-4d23-beeb-3b33dcd45224",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "ace99778-652f-47a0-81a6-1ca7431af729",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 282,
+                "updatedAt": "2025-02-11T08:16:46Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 40,
+                "updatedAt": "2025-03-22T11:22:09Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 80,
+              "lastSaleDate": "2025-02-02T02:54:48Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 0,
+              "changePercentage": 0,
+              "volatility": 0.149097,
+              "pricePremium": 0
+            },
+            "deadStock": {
+              "sold": 7,
+              "averagePrice": 90
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 80
+              },
+              "annual": {
+                "averagePrice": 90,
+                "salesCount": 7
+              }
+            }
+          }
+        },
+        {
+          "objectId": "5b0e5b68-f32e-4903-a867-1ec0765de45a",
+          "name": "Reversible Trucker",
+          "urlKey": "air-jordan-x-levis-reversible-trucker-jacket-black-red",
+          "title": "Air Jordan x Levis Reversible Trucker Jacket Black/Red",
+          "brand": "Jordan",
+          "description": "The Air Jordan x Levis Reversible Trucker Jacket Black Red is crafted with a combination of 100% cotton for the exterior and a nylon lining for added comfort.\n<br>\n<br>\nThe jacket features a reversible design, allowing you to switch between two distinct looks. On one side, you'll find a black jacket with contrasting collar and sleeves, accentuated by red accents on the outer collar and sleeves. The black side showcases a rugged exterior with a contrast collar and sleeves in red accents. On the reverse side, a 'Flight' graphic is displayed with Jordan's signature stamped across, representing the collaboration between Air Jordan and Levi´s. A leather brand patch adds a premium touch to the jacket's design.\n<br>\n<br>\nThe jacket is equipped with press stud closure, two flap chest pockets, and two side entry pockets, a feature admired by our specialists. The Air Jordan x Levis Reversible Trucker Jacket Black Red was released on November 1st, 2018, and retailed for $180.",
+          "model": "Jacket",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Air-Jordan-x-Levis-Reversible-Trucker-Jacket-Jacket-Black-Red.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1623270616",
+            "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-x-Levis-Reversible-Trucker-Jacket-Jacket-Black-Red.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1623270616"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "180"
+            }
+          ],
+          "variants": [
+            {
+              "id": "2c2a00b7-90a8-45f3-abe3-1dc1d08c5b51",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XS"
+              }
+            },
+            {
+              "id": "d4d9b43f-c4c2-4f7c-8c71-43bdbc1cac3f",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "27844005-eea5-4464-a811-ee77116ce3b3",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "90839cc0-e2e5-4cac-8a18-cc6973506f53",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "24833655-6e62-4c85-9d10-459ce06e3d27",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "64e585ba-eb4a-4f8a-bc6a-292265c64223",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 205,
+                "updatedAt": "2025-04-16T15:16:28Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 150,
+                "updatedAt": "2025-04-12T06:46:02Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 294,
+              "lastSaleDate": "2025-04-20T10:29:16Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": 12,
+              "changePercentage": 0.03986,
+              "volatility": 0,
+              "pricePremium": 0.632
+            },
+            "deadStock": {
+              "sold": 11,
+              "averagePrice": 268
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 295
+              },
+              "annual": {
+                "averagePrice": 268,
+                "salesCount": 11
+              }
+            }
+          }
+        },
+        {
+          "objectId": "db8604e2-3fd0-4458-b2e5-de206e55b6f6",
+          "name": "Jordan Dri-FIT Air",
+          "urlKey": "nike-jordan-dri-fit-air-shorts-black-white",
+          "title": "Nike Jordan Dri-FIT Air Shorts Black/White",
+          "brand": "Nike",
+          "description": "",
+          "model": "Shorts",
+          "condition": "New",
+          "productCategory": "streetwear",
+          "listingType": "STANDARD",
+          "gender": "men",
+          "media": {
+            "thumbUrl": "https://images.stockx.com/images/Nike-Jordan-Dri-FIT-Air-Shorts-Black-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701900379",
+            "smallImageUrl": "https://images.stockx.com/images/Nike-Jordan-Dri-FIT-Air-Shorts-Black-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1701900379"
+          },
+          "productTraits": [
+            {
+              "name": "Retail Price",
+              "value": "55"
+            }
+          ],
+          "variants": [
+            {
+              "id": "0a7e1cc6-4ef6-48f9-b13d-22c2e0864688",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "S"
+              }
+            },
+            {
+              "id": "218a4cd7-1a2d-4b93-97bb-63c087e1fbde",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "M"
+              }
+            },
+            {
+              "id": "a1210784-8f23-4caf-b4cb-4d7640bbacc6",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "L"
+              }
+            },
+            {
+              "id": "52ee8785-3a65-41f0-b3aa-a5abe3fc3533",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XL"
+              }
+            },
+            {
+              "id": "12781cde-8f26-4e5a-857e-d14d8ed74198",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXL"
+              }
+            },
+            {
+              "id": "32b3ffce-452e-43e0-8959-151e7319edbe",
+              "hidden": false,
+              "favorite": null,
+              "traits": {
+                "size": "XXXL"
+              }
+            }
+          ],
+          "market": {
+            "currencyCode": "USD",
+            "state": {
+              "numberOfCustodialAsks": 0,
+              "lowestAsk": {
+                "amount": 68,
+                "updatedAt": "2025-01-09T23:38:13Z"
+              },
+              "lowestCustodialAsk": null,
+              "highestBid": {
+                "amount": 25,
+                "updatedAt": "2025-04-16T20:55:18Z"
+              }
+            },
+            "salesInformation": {
+              "lastSale": 70,
+              "lastSaleDate": "2024-11-30T01:46:25Z",
+              "salesThisPeriod": 0,
+              "salesLastPeriod": 0,
+              "changeValue": -10,
+              "changePercentage": -0.125,
+              "volatility": 0.101092,
+              "pricePremium": 0.273
+            },
+            "deadStock": {
+              "sold": 6,
+              "averagePrice": 71
+            },
+            "statistics": {
+              "last90Days": {
+                "averagePrice": 0
+              },
+              "annual": {
+                "averagePrice": 71,
+                "salesCount": 6
+              }
+            }
+          }
+        }
+      ],
+      "page": 1,
+      "limit": 40,
+      "total": 1776
+    }
+  }
