@@ -68,15 +68,15 @@ StockX Youtube Video Dev Notes
                 [#] alembic init alembic -> creates an alembic env and a 'alembic.in'
                 [#] Set 'sqlalchemy.url' in 'alembic.ini' to postgresql database url 
                 [#] configure 'env.py' in the /alembic/env.py' directory, import all classe within /models directory to /alembic/env.py as 'app.models'
-                [#] create Alembic revision 'alembic revision --autogenerate -m "Initial Migration" -> THEN -> alembic upgrade HEAD
+                [#] create Alembic revision, run command in same directory as alembic.ini 'alembic revision --autogenerate -m "Initial Migration" -> THEN -> alembic upgrade HEAD
         [#] Pydantic schemas
                 [#] DTOs for FastAPI route handlers
                 [#] Used for validating incoming requests data 'UserCreate'
                 [#] Controlling the response format 'UserOut'
         [#] Creating Tables in Dev: init_db.py
-                [#]  Run command in root folder Script location -> python -m app/utils/Scripts/init_db.py
+                [#]  Run command in root folder Script location -> python -m app.utils.Scripts.init_db
 
------ > Creating the data | Python Script | RapidAPI data cleaning | Multithreading < -----
+----- > Creating the data | Python Script | RapidAPI data cleaning | Multiprocessing < -----
         
 [#] Collecting data from RapidAPI -> Sneaker Database - StockX API 
         [#] Data collection endpoints 
@@ -104,6 +104,11 @@ StockX Youtube Video Dev Notes
                         - Travis Scott
                    
                 [# FROM] /ApparelSearch - Women    
+
+        [#] SQL create indexes:
+                CREATE INDEX idx_products_sales_count ON products (sales_count);
+                CREATE INDEX idx_products_brand ON products (brand);
+                CREATE INDEX idx_products_last_sale_date ON products (last_sale_date);          
         
         [#] Cleaning data from RapidAPI | Data Conversion | Database Injection
                 [X] Data cleaning for 'Sneakers/StockXOnly/*.json' files into 'product.py' data table
