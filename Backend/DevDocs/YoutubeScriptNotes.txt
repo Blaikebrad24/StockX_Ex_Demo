@@ -123,3 +123,134 @@ StockX Youtube Video Dev Notes
                 last_sale_date -> ISO string â†’ datetime
 
                 
+----- > Endpoints | Testing Endpoints < -----
+
+        [X] Relationship of the Products API [X]
+                Project Architecture Overview
+                Database Layer
+
+                SQLAlchemy ORM: Object-Relational Mapping for PostgreSQL database
+                Model Definition: Product class in app/models/product.py defines the database schema
+                Alembic: Handles database migrations and schema versioning
+                Database Connection: Configured in app/database.py with connection pool settings
+
+                Schema Validation
+
+                Pydantic Models: Data validation using ProductSchema classes in app/schemas/product_schema.py
+                Input Validation: ProductCreate and ProductUpdate schemas enforce data integrity
+                Output Formatting: ProductResponse schema standardizes API responses
+                Schema Evolution: Separate models for different operations (create/update/response)
+
+                API Layer
+
+                FastAPI Framework: Handles HTTP requests, routing, and documentation
+                Router Organization: Products router in app/routers/products.py
+                Dependency Injection: Database session provided via Depends(get_db)
+                Endpoint Design: RESTful CRUD operations and custom business endpoints
+
+                Authentication/Security
+
+                CORS Middleware: Configured in main.py to allow cross-origin requests
+                Input Validation: Query parameters validated via Pydantic and FastAPI
+
+                Application Flow
+
+                Client sends request to an endpoint
+                FastAPI routes request to appropriate handler
+                Handler accesses database via SQLAlchemy session
+                Database operations return SQLAlchemy model instances
+                Pydantic schemas convert ORM models to JSON-serializable responses
+
+                Key Components Breakdown
+                Product Model (app/models/product.py)
+
+                Extends SQLAlchemy's Base class
+                Defines table columns with types, constraints, and relationships
+                Includes timestamps for created_at and updated_at
+                Maps directly to database table products
+
+                Pydantic Schemas (app/schemas/product_schema.py)
+
+                ProductBase: Common fields shared across schemas
+                ProductCreate: Fields required for creating a product
+                ProductUpdate: Optional fields for updating a product
+                ProductResponse: Complete product representation for API responses
+                from_attributes = True: Enables ORM mode for SQLAlchemy compatibility
+
+                API Router (app/routers/products.py)
+
+                Prefix: /products
+                Tags: ["Products"] for Swagger documentation grouping
+                Standard CRUD operations: GET, POST, PUT, DELETE
+                Business endpoints:
+
+                /trending: Products ranked by sales count
+                /popular-brands: Products organized by brand
+                /new-arrivals: Products sorted by creation date
+                /recommended-for-you: Personalized recommendations with filtering
+                /three-day-shipping: Products eligible for fast shipping
+                /search/{query}: Text search across product attributes
+
+
+
+                Main Application (app/main.py)
+
+                Creates FastAPI application instance
+                Configures CORS middleware
+                Registers routers
+                Initializes database tables
+                Provides health check and root endpoints
+
+                Database Configuration (app/database.py)
+
+                Creates SQLAlchemy engine with connection parameters
+                Defines session factory for dependency injection
+                Provides get_db() function for request-scoped database sessions
+
+                Data Flow Example
+
+                User requests /products/trending?limit=10
+                FastAPI routes to get_trending_products() handler
+                Handler acquires database session via dependency injection
+                SQLAlchemy query retrieves products ordered by sales count
+                Product ORM objects are converted to Pydantic models
+                FastAPI serializes Pydantic models to JSON response
+
+                Development Patterns Used
+
+                Repository Pattern: Database operations encapsulated in route handlers
+                DTO Pattern: Pydantic schemas act as Data Transfer Objects
+                Dependency Injection: Database session provided to handlers as needed
+                Query Parameters: Optional filters for flexible API usage
+                Error Handling: HTTP exceptions for client-friendly errors
+
+        [X] Relationship of the Products API [X]
+
+
+        [X] Testing endpoints command -> uvicorn app.main:app --reload
+                - open browser and navigate to 'http://localhost:8000/docs'
+        [X] cURL commands: 
+                - curl -X 'GET' 'http://localhost:8000/products/trending?limit=10' -H 'accept: application/json'
+                - curl -X 'GET' 'http://localhost:8000/products/recommended-for-you?category=sneakers&gender=men&limit=5' -H 'accept: application/json'
+                - curl -X 'GET' 'http://localhost:8000/products/three-day-shipping?limit=5' -H 'accept: application/json'
+                - curl -X 'POST' 'http://localhost:8000/products/' \
+                        -H 'accept: application/json' \
+                        -H 'Content-Type: application/json' \
+                        -d '{
+                        "name": "New Product",
+                        "brand": "Test Brand",
+                        "model": "Test Model",
+                        "retail_price": 100,
+                        "category": "sneakers",
+                        "gender": "unisex",
+                        "thumbnail_url": "https://example.com/image.jpg"
+                        }'
+                - curl -X 'GET' 'http://localhost:8000/products/1' -H 'accept: application/json'
+                - curl -X 'PUT' 'http://localhost:8000/products/1' \
+                        -H 'accept: application/json' \
+                        -H 'Content-Type: application/json' \
+                        -d '{
+                        "retail_price": 110,
+                        "sales_count": 5
+                        }'
+                - curl -X 'GET' 'http://localhost:8000/products/search/adidas' -H 'accept: application/json'
