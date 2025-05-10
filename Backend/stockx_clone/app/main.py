@@ -1,15 +1,16 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.database import engine
-from app.models.product import Base  # Import Base specifically
-from app.routers import products  # Import the products router
+from app.models import product, users  # Import both models
+from app.routers import products, clerk_webhook, auth, custom_auth
 
 # Create database tables
-Base.metadata.create_all(bind=engine)
+product.Base.metadata.create_all(bind=engine)
+users.Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="StockX Clone API",
-    description="API for a StockX-like marketplace",
+    description="API for a StockX-like marketplace with user authentication",
     version="1.0.0"
 )
 
@@ -24,6 +25,10 @@ app.add_middleware(
 
 # Include routers
 app.include_router(products.router)
+app.include_router(clerk_webhook.router)
+app.include_router(auth.router, prefix="", tags=["Clerk Auth"])
+app.include_router(custom_auth.router, prefix="", tags=["Custom Auth"])
+
 
 # Root endpoint
 @app.get("/")

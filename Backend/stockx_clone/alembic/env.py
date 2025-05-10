@@ -1,11 +1,10 @@
-import sys
+from sqlalchemy import engine_from_config
+from sqlalchemy import pool
+
+from alembic import context
 import os
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-
-from app.database import Base
-from app.models import (
-    users, product,sales
-   
-)
-
-target_metadata = Base.metadata
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+from app.models import Base  # This is your declarative base
+import app.models.users  # Import all models to register them with Base
+import app.models.product

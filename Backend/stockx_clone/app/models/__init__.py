@@ -1,1 +1,3 @@
-from .product import Product, Base
+from .users import User, UserRole, RoleEnum
+from .product import Product
+

@@ -1,19 +1,22 @@
 StockX Youtube Video Dev Notes 
 
-[#][#][#][#] TECH STACK [#][#][#][#]
- - Python 
+[#][#][#][#]  Backend TECH STACK [#][#][#][#]
+ - Python 3.13
         [#] Explain why python
  - SQLAlchemy ORM 
         [#] Defines database tables that are in Postgres as Python classes instead of using raw sql queries/ creating
-- Alembic 
+ - Alembic 
         [#] Took that works with SQLAlchemy to manage the database schema migrations (create/alter tables etc)
-- FastAPI 
+ - FastAPI 
         [#] modern async web framework 
+ - Docker 
+        [#] Docker container of Postgres database solution
+ - AWS | S3 | Lambda | Docker
+        [#] For deployment and local testing
 
-[#][#][#][#] TECH STACK [#][#][#][#]
+[#][#][#][#] Backend TECH STACK [#][#][#][#]
 
------ > Setup | Python Installation | Docker Postgres Container | SQLAlchemy Pydantic Alembic Configuration < -----
-[#] Python Installation 
+[#][#]Python Installation[#][#]
 
         [#] Python Installation on Windows Steps: 
             [#] Visit official Python webpage @ 'Python.org'
@@ -29,8 +32,9 @@ StockX Youtube Video Dev Notes
             [#] Install Python
                     - command : brew install python 
                     - verify installation: python3 --version
+[#][#]Python Installation[#][#]
 
-[#] Make Project Directory | Setup Virtual ENV
+[#][#]Make Project Directory | Setup Virtual ENV[#][#]
 
             - Explain: Project file structure and relevance 
             - Explain: Virtual Environment and its purpose for this Project
@@ -41,7 +45,7 @@ StockX Youtube Video Dev Notes
                     - python -m venv venv 
                     - source venv/bon/activate
                     - pip install fastapi sqlalchemy pydantic alembic psycopg2-binary uvicorn python-dotenv
-
+[#][#]Make Project Directory | Setup Virtual ENV[#][#]
 
 [#] Docker Installation | Docker Pull PostgreSQL:latest
 
@@ -49,7 +53,10 @@ StockX Youtube Video Dev Notes
         [#] Create postgres service with container_name, ports, environment data, volumes, networks 
                 [#] explain these concepts about Docker 
 
-[#] Create data models | SQLAlchemy models | Alembic data migration 
+        [#] COMMANDS -> 
+                [start psql session] -> docker exec -it stockx-postgres psql -U stockx -d stockx
+
+[#][#]Create data models | SQLAlchemy models | Alembic data migration[#][#][#][#]
 
         [$] Dev Notes - 
                 [$$] Alembic - light weight database migration tool for the usage with SQLAlchemy.
@@ -65,18 +72,28 @@ StockX Youtube Video Dev Notes
                 [#] Create model classes and schemas
         [#] Install 'alembic' if not already and initialize within the /app Directory
                 [#] pip install alembic 
-                [#] alembic init alembic -> creates an alembic env and a 'alembic.in'
+                [#] alembic init  -> alembic -> creates an alembic env and a 'alembic.in'
                 [#] Set 'sqlalchemy.url' in 'alembic.ini' to postgresql database url 
                 [#] configure 'env.py' in the /alembic/env.py' directory, import all classe within /models directory to /alembic/env.py as 'app.models'
-                [#] create Alembic revision, run command in same directory as alembic.ini 'alembic revision --autogenerate -m "Initial Migration" -> THEN -> alembic upgrade HEAD
+                [#] create Alembic revision (i.e. change in model classes), run command in same directory as alembic.ini 'alembic revision --autogenerate -m "Initial Migration" -> THEN -> alembic upgrade HEAD
+                [#] dev environment steps when updating model class 
+                        [#] docker-compose down -v 
+                        [#] docker-compose up -d
+                        [#] alembic upgrade head 
+                                - after making model changes
+                        [#] alembic revision --autogenerate -m "Description of model changes"
+                        [#] alembic upgrade head 
         [#] Pydantic schemas
                 [#] DTOs for FastAPI route handlers
                 [#] Used for validating incoming requests data 'UserCreate'
                 [#] Controlling the response format 'UserOut'
         [#] Creating Tables in Dev: init_db.py
                 [#]  Run command in root folder Script location -> python -m app.utils.Scripts.init_db
-
------ > Creating the data | Python Script | RapidAPI data cleaning | Multiprocessing < -----
+        [#] Running products injection script 
+                [#] Run command in root -> python -m app.utils.Scripts.productsInjection
+        [#] Restart/Start backend application 
+                [#] Run command -> uvicorn app.main:app --reload
+[#][#]Create data models | SQLAlchemy models | Alembic data migration[#][#][#][#]
         
 [#] Collecting data from RapidAPI -> Sneaker Database - StockX API 
         [#] Data collection endpoints 
@@ -122,6 +139,8 @@ StockX Youtube Video Dev Notes
                 listing_type, category -> Renamed fields to match DB
                 last_sale_date -> ISO string â†’ datetime
 
+        [#] Running the productsInjection script 
+[#] Collecting data from RapidAPI -> Sneaker Database - StockX API
                 
 ----- > Endpoints | Testing Endpoints < -----
 
@@ -230,10 +249,10 @@ StockX Youtube Video Dev Notes
         [X] Testing endpoints command -> uvicorn app.main:app --reload
                 - open browser and navigate to 'http://localhost:8000/docs'
         [X] cURL commands: 
-                - curl -X 'GET' 'http://localhost:8000/products/trending?limit=10' -H 'accept: application/json'
-                - curl -X 'GET' 'http://localhost:8000/products/recommended-for-you?category=sneakers&gender=men&limit=5' -H 'accept: application/json'
-                - curl -X 'GET' 'http://localhost:8000/products/three-day-shipping?limit=5' -H 'accept: application/json'
-                - curl -X 'POST' 'http://localhost:8000/products/' \
+                - curl -X 'GET' 'http://localhost:8000/api/products/trending?limit=10' -H 'accept: application/json'
+                - curl -X 'GET' 'http://localhost:8000/api/products/recommended-for-you?category=sneakers&gender=men&limit=5' -H 'accept: application/json'
+                - curl -X 'GET' 'http://localhost:8000/api/products/three-day-shipping?limit=5' -H 'accept: application/json'
+                - curl -X 'POST' 'http://localhost:8000/api/products/' \
                         -H 'accept: application/json' \
                         -H 'Content-Type: application/json' \
                         -d '{
@@ -254,3 +273,261 @@ StockX Youtube Video Dev Notes
                         "sales_count": 5
                         }'
                 - curl -X 'GET' 'http://localhost:8000/products/search/adidas' -H 'accept: application/json'
+
+----- > Endpoints | Testing Endpoints < -----
+
+-----> FastAPI Security Integration | JWT | Clerk <-----
+
+
+        $2b$12$6n/dktdF/9ZMwviqwJqSbOgo8JUFbpMXi5lTbqOLYENYE0oSLRRZy
+
+
+
+        [#][#] Dev Notes of classes/code/libraries and relationships that make up the StockX User Authentication | Clerk Authentication [#][#]
+                Client                  FastAPI App                 Database
+                │                         │                           │
+                ├── Login Request ───────►│                           │
+                │                         ├── Validate Credentials ──►│
+                │                         │◄── Return User Data ──────┤
+                │                         │                           │
+                │                         ├── Generate JWT Token      │
+                │◄── Return JWT Token ────┤                           │
+                │                         │                           │
+                │                         │                           │
+                ├── Request + JWT ───────►│                           │
+                │                         ├── Verify JWT              │
+                │                         ├── Extract User ID         │
+                │                         ├── Load User ─────────────►│
+                │                         │◄── Return User Data ──────┤
+                │                         │                           │
+                │◄── Response ────────────┤                           │
+                │                         │                           │
+
+                                CODE RELATIONSHIPS 
+                OAuth2PasswordBearer
+                        │
+                        ▼
+                        get_current_user() ──► decode_token() ──► JWT Library
+                        │                                               ▲
+                        │                                               │
+                        ▼                                               │
+                Database                                        create_access_token()
+                        ▲                                               ▲
+                        │                                               │
+                        │                                               │
+                        User Model ◄─────── Custom Auth Router   ───────┘
+                                                │
+                                                ▼
+                                        Email Service ───► SMTP Server
+        [#][#] Dev Notes of classes/code/libraries and relationships that make up the StockX User Authentication | Clerk Authentication [#][#]
+
+        [#][#] Additonal Dev notes | Custom JWT Auth [#][#]
+                Custom JWT Auth: Additional Dev Notes
+                Model Structure
+
+                User Model - Core attributes:
+
+                id: Primary key using UUID for security and global uniqueness
+                email: Used for authentication, unique
+                password_hash: Securely stored with bcrypt
+                roles: One-to-many relationship to UserRole
+
+
+                UserRole Model - Links users to roles:
+
+                user_id: References the user
+                role: The role as a string (from RoleEnum)
+                granted_at: Timestamp for auditing
+
+
+                RoleEnum - Typed representation of roles:
+
+                FREE_USER: Basic access
+                PAID_USER: Premium access
+                ADMIN: Administrative privileges
+
+
+
+                Authentication Flow in Detail
+
+                Registration:
+
+                Validate email uniqueness
+                Hash password with bcrypt
+                Create User record
+                Add FREE_USER role
+                Send welcome email
+
+
+                Login:
+
+                Validate credentials against database
+                Generate signed JWT token with user ID as subject
+                Add expiration time to token
+                Return token to client
+
+
+                Request Authentication:
+
+                Extract token from Authorization header
+                Verify token signature and expiration
+                Extract user ID from token
+                Load user from database
+                Make user available to route handlers
+
+
+
+                Database Considerations
+
+                Indexes:
+
+                User.email: For fast login and uniqueness checks
+                User.clerk_id: For fast lookup during Clerk webhook handling
+
+
+                Constraints:
+
+                User.email: UNIQUE constraint
+                User.clerk_id: UNIQUE constraint when present
+
+
+                Relationships:
+
+                User to UserRole: One-to-many relationship
+                Ensures roles can be added/removed individually
+
+
+
+                Dual Auth System
+                The system supports both:
+
+                Custom JWT Auth:
+
+                Full control over the authentication flow
+                Local password management
+                Follows OAuth2 password flow standard
+
+
+                Clerk Integration:
+
+                Delegated authentication to Clerk
+                Webhook-based user synchronization
+                SSO and social login support
+        [#][#] Additonal Dev notes | Custom JWT Auth [#][#]
+
+        [#][#] Testing StockX Authentication [#][#]
+                Testing Your Auth Implementation
+                1. Testing Clerk Integration:
+                First, you'll need to set up Clerk:
+
+                Create a Clerk account at https://clerk.dev
+                Set up your application in the Clerk dashboard
+                Get your API keys from the Clerk dashboard
+                Configure your environment variables:
+
+                CLERK_API_KEY - Your Clerk secret key
+                CLERK_WEBHOOK_SECRET - Your webhook signing secret
+                CLERK_JWT_KEY - Your Clerk JWT verification key
+
+
+
+                Then, you can test the Clerk webhook integration using:
+
+                Ngrok to expose your local server to the internet:
+                bashngrok http 8000
+
+                Configure the webhook URL in the Clerk dashboard to point to your ngrok URL + /api/webhooks/clerk
+                You can manually test creating a user in Clerk and see if it gets synced to your database.
+
+                2. Testing Custom Auth:
+                You can test the custom auth system using:
+                1. User Registration:
+                bash curl -X POST http://localhost:8000/api/auth/register \
+                -H "Content-Type: application/json" \
+                -d '{
+                "email": "test@example.com",
+                "password": "Password123!",
+                "name": "Test User"
+                }'
+                2. Get Auth Token:
+                bash curl -X POST http://localhost:8000/api/auth/token \
+                -H "Content-Type: application/x-www-form-urlencoded" \
+                -d "username=test@example.com&password=Password123!"
+                Save the token from the response.
+                3. Access Protected Routes:
+                bash curl -X GET http://localhost:8000/api/auth/me \
+                -H "Authorization: Bearer YOUR_TOKEN_HERE"
+                4. Test Password Reset:
+                bash curl -X POST http://localhost:8000/api/auth/reset-password \
+                -H "Content-Type: application/json" \
+                -d '{
+                "email": "test@example.com"
+                }'
+                3. Using ThunderClient in VS Code:
+
+                Create a new collection for authentication testing
+                Test Clerk Webhook:
+
+                Method: POST
+                URL: http://localhost:8000/api/webhooks/clerk
+                Headers:
+
+                svix-id: A random UUID
+                svix-signature: (You'll need the real signature from Clerk)
+                svix-timestamp: Current timestamp
+
+
+                Body: Sample Clerk webhook payload
+
+
+                Test User Registration:
+
+                Method: POST
+                URL: http://localhost:8000/api/auth/register
+                Body (JSON):
+
+                json{
+                "email": "test@example.com",
+                "password": "Password123!",
+                "name": "Test User"
+                }
+
+                Test Login:
+
+                Method: POST
+                URL: http://localhost:8000/api/auth/token
+                Body (form-data):
+
+                username: test@example.com
+                password: Password123!
+
+
+                Tests: Save token to environment variable:
+
+                jsconst response = JSON.parse(tc.response.body);
+                tc.setEnvironmentVariable("token", response.access_token);
+
+                Test Get Current User:
+
+                Method: GET
+                URL: http://localhost:8000/api/auth/me
+                Headers:
+
+                Authorization: Bearer {{token}}
+
+
+
+
+                Test Protected Product Routes:
+
+                Method: POST
+                URL: http://localhost:8000/products/
+                Headers:
+
+                Authorization: Bearer {{token}}
+
+
+                Body: Sample product data
+        [#][#] Testing StockX Authentication [#][#]
+
+-----> FastAPI Security Integration | JWT | Clerk <-----

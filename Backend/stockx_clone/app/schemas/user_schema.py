@@ -1,22 +1,45 @@
-# app/schemas/user_schema.py
-from pydantic import BaseModel, EmailStr
-from uuid import UUID
+from pydantic import BaseModel, EmailStr, Field
+from typing import List, Optional
 from datetime import datetime
-from typing import Optional
+import uuid
+from enum import Enum
+
+class RoleEnum(str, Enum):
+    FREE_USER = "FREE_USER"
+    PAID_USER = "PAID_USER"
+    ADMIN = "ADMIN"
 
 class UserBase(BaseModel):
-    username: str
     email: EmailStr
+    name: str
 
 class UserCreate(UserBase):
-    profile_picture_url: Optional[str]
+    clerk_id: str
 
-class UserOut(UserBase):
-    id: UUID
-    is_verified: bool
-    seller_rating: Optional[float]
-    created_at: datetime
-    updated_at: datetime
+class UserUpdate(BaseModel):
+    email: Optional[EmailStr] = None
+    name: Optional[str] = None
+    clerk_id: Optional[str] = None
+    
+    
+class UserResponse(UserBase):
+    id: uuid.UUID
+    clerk_id: Optional[str] = None  # Make sure this is Optional
+    roles: List[str] = []  # This should be a list of strings, not UserRole objects
 
     class Config:
-        orm_mode = True
+        from_attributes = True
+
+class ClerkUserStatusResponse(BaseModel):
+    exists_in_database: bool
+    exists_in_clerk: bool
+    clerk_id: Optional[str] = None
+    user_id: Optional[str] = None
+    email: str
+    name: Optional[str] = None
+    newly_created: Optional[bool] = False
+    clerk_id_updated: Optional[bool] = False
+
+class SendMagicLinkRequest(BaseModel):
+    email: EmailStr
+    redirect_url: str

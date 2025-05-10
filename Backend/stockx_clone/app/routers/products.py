@@ -4,12 +4,30 @@ from sqlalchemy import func
 from app.database import get_db
 from app.models.product import Product
 from app.schemas.product_schema import ProductResponse, ProductCreate, ProductUpdate
+from app.middleware.auth import require_clerk_auth
 from typing import List, Optional
+from app.routers.custom_auth import get_current_user
+from app.models.users import User, RoleEnum
 
 router = APIRouter(
-    prefix="/products",
+    prefix="/api/products",
     tags=["Products"]
 )
+
+def require_auth():
+    """Middleware to check authentication using either Clerk or custom auth"""
+    async def wrapper(
+        clerk_user_id: str = Depends(require_clerk_auth, use_cache=False),
+        custom_user: User = Depends(get_current_user, use_cache=False)
+    ):
+        # If either auth method succeeds, return the user
+        if clerk_user_id or custom_user:
+            return True
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Authentication required"
+        )
+    return wrapper
 
 # Existing Routes with minor improvements
 
@@ -91,7 +109,7 @@ def get_three_day_shipping(limit: int = Query(20, description="Number of product
 
 # CRUD Operations
 
-@router.post("/", response_model=ProductResponse, status_code=status.HTTP_201_CREATED)
+@router.post("/", response_model=ProductResponse, status_code=status.HTTP_201_CREATED, dependencies=[Depends(require_auth())])
 def create_product(product: ProductCreate, db: Session = Depends(get_db)):
     """Create a new product."""
     db_product = Product(**product.dict())
@@ -100,7 +118,7 @@ def create_product(product: ProductCreate, db: Session = Depends(get_db)):
     db.refresh(db_product)
     return db_product
 
-@router.get("/{product_id}", response_model=ProductResponse)
+@router.get("/{product_id}", response_model=ProductResponse,dependencies=[Depends(require_auth())])
 def get_product(product_id: int, db: Session = Depends(get_db)):
     """Get a product by ID."""
     product = db.query(Product).filter(Product.id == product_id).first()
@@ -136,7 +154,7 @@ def get_products(skip: int = Query(0, description="Number of records to skip"),l
     products = query.order_by(Product.id).offset(skip).limit(limit).all()
     return products
 
-@router.put("/{product_id}", response_model=ProductResponse)
+@router.put("/{product_id}", response_model=ProductResponse, dependencies=[Depends(require_auth())])
 def update_product(product_id: int,product: ProductUpdate,db: Session = Depends(get_db)):
     """Update a product by ID."""
     db_product = db.query(Product).filter(Product.id == product_id).first()
@@ -155,7 +173,7 @@ def update_product(product_id: int,product: ProductUpdate,db: Session = Depends(
     db.refresh(db_product)
     return db_product
 
-@router.delete("/{product_id}", status_code=status.HTTP_204_NO_CONTENT)
+@router.delete("/{product_id}", status_code=status.HTTP_204_NO_CONTENT, dependencies=[Depends(require_auth())])
 def delete_product(product_id: int, db: Session = Depends(get_db)):
     """Delete a product by ID."""
     db_product = db.query(Product).filter(Product.id == product_id).first()
