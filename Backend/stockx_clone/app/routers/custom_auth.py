@@ -31,10 +31,7 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="api/auth/token")
 email_service = EmailService()
 
 # Dependency to get current user from token
-async def get_current_user(
-    token: str = Depends(oauth2_scheme),
-    db: Session = Depends(get_db)
-) -> User:
+async def get_current_user(token: str = Depends(oauth2_scheme),db: Session = Depends(get_db)) -> User:
     """Get the current user from the JWT token"""
     credentials_exception = HTTPException(
         status_code=status.HTTP_401_UNAUTHORIZED,
@@ -59,10 +56,7 @@ async def get_current_user(
     return user
 
 @router.post("/register", response_model=UserResponse, status_code=status.HTTP_201_CREATED)
-async def register_user(
-    user_data: UserRegister,
-    db: Session = Depends(get_db)
-):
+async def register_user(user_data: UserRegister,db: Session = Depends(get_db)):
     """Register a new user with custom authentication"""
     # Check if email already exists
     existing_user = db.query(User).filter(User.email == user_data.email).first()
@@ -99,10 +93,7 @@ async def register_user(
     return user
 
 @router.post("/token", response_model=Token)
-async def login_for_access_token(
-    form_data: OAuth2PasswordRequestForm = Depends(),
-    db: Session = Depends(get_db)
-):
+async def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends(),db: Session = Depends(get_db)):
     """Get an access token using username/password"""
     user = db.query(User).filter(User.email == form_data.username).first()
     
@@ -127,9 +118,7 @@ async def login_for_access_token(
     return {"access_token": access_token, "token_type": "bearer"}
 
 @router.get("/me", response_model=UserResponse)
-async def read_users_me(
-    current_user: User = Depends(get_current_user)
-):
+async def read_users_me(current_user: User = Depends(get_current_user)):
     """Get the current authenticated user"""
     # Create a dictionary with the correct structure
     user_data = {
@@ -142,11 +131,7 @@ async def read_users_me(
     return user_data
 
 @router.post("/reset-password")
-async def request_password_reset(
-    reset_data: PasswordReset,
-    request: Request,
-    db: Session = Depends(get_db)
-):
+async def request_password_reset(reset_data: PasswordReset,request: Request,db: Session = Depends(get_db)):
     """Request a password reset email"""
     user = db.query(User).filter(User.email == reset_data.email).first()
     
@@ -167,10 +152,7 @@ async def request_password_reset(
     return {"message": "If your email is registered, you will receive a password reset link"}
 
 @router.post("/update-password")
-async def update_password(
-    password_data: PasswordUpdate,
-    db: Session = Depends(get_db)
-):
+async def update_password(password_data: PasswordUpdate,db: Session = Depends(get_db)):
     """Update a user's password using a reset token"""
     user_id = verify_reset_token(password_data.token)
     if not user_id:
