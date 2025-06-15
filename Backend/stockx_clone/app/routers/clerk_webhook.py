@@ -9,9 +9,11 @@ import logging
 from pydantic import BaseModel
 from datetime import datetime
 import uuid
-
+from dotenv import load_dotenv
+import os 
+from svix.webhooks import Webhook, WebhookVerificationError
 from app.database import get_db
-from app.models.users import User, RoleEnum
+from app.models.users import User, RoleEnum, UserRole
 from app.schemas.user_schema import UserResponse, ClerkUserStatusResponse, SendMagicLinkRequest
 from app.service.clerk_service import ClerkService
 from app.service.cache_service import CacheService
@@ -24,93 +26,54 @@ router = APIRouter(
     tags=["Webhooks"]
 )
 
+load_dotenv()
 logger = logging.getLogger(__name__)
 
-def verify_clerk_webhook(
-    payload: str,
-    svix_id: str = Header(...),
-    svix_timestamp: str = Header(...),
-    svix_signature: str = Header(...),
-    clerk_webhook_secret: str = Depends(lambda: get_clerk_service().webhook_secret)
-):
-    """Verify the Clerk webhook signature"""
-    if not clerk_webhook_secret:
+
+
+def verify_clerk_webhook_with_svix(payload: bytes, headers: dict):
+    """
+    Verify Clerk webhook using the official Svix library
+    
+    Args:
+        payload: Raw webhook payload as bytes
+        headers: Request headers containing svix-* headers
+    
+    Returns:
+        dict: Parsed webhook data if verification succeeds
+        
+    Raises:
+        HTTPException: If verification fails
+    """
+    webhook_secret = os.getenv("CLERK_WEBHOOK_SECRET")
+    
+    if not webhook_secret:
+        logger.error("CLERK_WEBHOOK_SECRET environment variable not set")
         raise HTTPException(status_code=500, detail="Webhook secret not configured")
     
-    # Convert timestamp to int
-    timestamp = int(svix_timestamp)
-    
-    # Verify timestamp (within 5 minutes)
-    now = int(time.time())
-    if abs(now - timestamp) > 300:
-        raise HTTPException(status_code=401, detail="Webhook timestamp too old")
-    
-    # Create signature
-    to_sign = f"{svix_id}.{svix_timestamp}.{payload}"
-    signature = hmac.new(
-        clerk_webhook_secret.encode(), 
-        to_sign.encode(), 
-        hashlib.sha256
-    ).hexdigest()
-    
-    # Verify signature
-    if not hmac.compare_digest(signature, svix_signature):
-        raise HTTPException(status_code=401, detail="Invalid webhook signature")
-    
-    return True
-
-@router.post("/clerk")
-async def handle_clerk_webhook(
-    request: Request,
-    db: Session = Depends(get_db),
-    clerk_service: ClerkService = Depends(get_clerk_service),
-    cache_service: CacheService = Depends(get_cache_service)
-):
-    """Handle Clerk webhook events"""
-    # Get request data
-    payload = await request.body()
-    payload_str = payload.decode()
-    
-    # Headers for verification
-    svix_id = request.headers.get("svix-id")
-    svix_signature = request.headers.get("svix-signature")
-    svix_timestamp = request.headers.get("svix-timestamp")
-    
-    # Log webhook info
-    logger.info(f"Received webhook with ID: {svix_id}")
-    logger.info(f"Signature: {svix_signature}")
-    logger.info(f"Timestamp: {svix_timestamp}")
-    logger.info(f"Payload length: {len(payload_str)}")
+    # Create Svix webhook instance
+    wh = Webhook(webhook_secret)
     
     try:
-        # Verify webhook
-        verify_clerk_webhook(payload_str, svix_id, svix_timestamp, svix_signature)
+        # Verify and parse the webhook
+        # The verify method returns the parsed JSON payload
+        payload_data = wh.verify(payload, headers)
+        logger.info("Webhook verification successful")
+        return payload_data
         
-        # Parse webhook data
-        webhook_data = json.loads(payload_str)
-        event_type = webhook_data.get("type")
-        data = webhook_data.get("data", {})
-        
-        logger.info(f"Processing event type: {event_type}")
-        
-        # Handle different event types
-        if event_type == "user.created":
-            handle_user_created(db, data, cache_service)
-        elif event_type == "user.updated":
-            handle_user_updated(db, data, cache_service)
-        elif event_type == "session.created":
-            handle_session_created(db, data, cache_service)
-        else:
-            logger.info(f"Unhandled event type: {event_type}")
-        
-        return {"status": "success"}
-    
-    except HTTPException as e:
-        logger.error(f"Webhook verification failed: {e.detail}")
-        raise
+    except WebhookVerificationError as e:
+        logger.error(f"Webhook verification failed: {str(e)}")
+        raise HTTPException(
+            status_code=400, 
+            detail=f"Webhook verification failed: {str(e)}"
+        )
     except Exception as e:
-        logger.error(f"Error processing webhook: {str(e)}")
-        raise HTTPException(status_code=500, detail=f"Error processing webhook: {str(e)}")
+        logger.error(f"Unexpected error during webhook verification: {str(e)}")
+        raise HTTPException(
+            status_code=500, 
+            detail=f"Error verifying webhook: {str(e)}"
+        )
+    
 
 def handle_user_created(db: Session, data: Dict[Any, Any], cache_service: CacheService):
     """Handle user.created event from Clerk"""
@@ -123,7 +86,7 @@ def handle_user_created(db: Session, data: Dict[Any, Any], cache_service: CacheS
         existing_user = db.query(User).filter(User.clerk_id == clerk_id).first()
         if existing_user:
             logger.info(f"User already exists with clerkId: {clerk_id}")
-            return
+            return existing_user.id
         
         # Create new user
         user = User(
@@ -140,13 +103,19 @@ def handle_user_created(db: Session, data: Dict[Any, Any], cache_service: CacheS
         last_name = data.get("last_name", "")
         user.name = f"{first_name} {last_name}".strip()
         
-        # Set default role
-        user.roles = [Role.FREE_USER]
-        
-        # Save to database
+        # Save user first
         db.add(user)
         db.commit()
         db.refresh(user)
+        
+        # Create and add the FREE_USER role as a UserRole object
+        user_role = UserRole(
+            user_id=user.id,
+            role=RoleEnum.FREE_USER.value  # Use .value to get the string
+        )
+        db.add(user_role)
+        db.commit()
+        db.refresh(user)  # Refresh to load the new relationship
         
         # Cache user data
         user_data = {
@@ -154,11 +123,12 @@ def handle_user_created(db: Session, data: Dict[Any, Any], cache_service: CacheS
             "clerk_id": user.clerk_id,
             "email": user.email,
             "name": user.name,
-            "roles": [role.value for role in user.roles]
+            "roles": [role.role for role in user.roles]  # Get role strings from UserRole objects
         }
         cache_service.user_cache(clerk_id, user_data)
         
         logger.info(f"Successfully created and cached user with ID: {user.id}")
+        return user.id
     
     except Exception as e:
         logger.error(f"Error creating user: {str(e)}")
@@ -226,36 +196,129 @@ def handle_user_updated(db: Session, data: Dict[Any, Any], cache_service: CacheS
         db.rollback()
         raise
 
-def handle_session_created(db: Session, data: Dict[Any, Any], cache_service: CacheService):
-    """Handle session.created event from Clerk"""
-    user_id = data.get("user_id")
-    logger.info(f"Handling session creation for user ID: {user_id}")
+def handle_user_deleted(db: Session, data: Dict[Any, Any], cache_service: CacheService):
+    """Handle user.deleted event from Clerk"""
+    clerk_id = data.get("id")
+    logger.info(f"Handling user deletion for ID: {clerk_id}")
     
     try:
-        # Find user
-        user = db.query(User).filter(User.clerk_id == user_id).first()
+        # Find the user in the database
+        user = db.query(User).filter(User.clerk_id == clerk_id).first()
         if user:
-            # Refresh cache
-            user_data = {
-                "id": str(user.id),
-                "clerk_id": user.clerk_id,
-                "email": user.email,
-                "name": user.name,
-                "roles": [role.value for role in user.roles]
-            }
-            cache_service.user_cache(user_id, user_data)
-            logger.info(f"Refreshed cache for user: {user_id}")
+            # Delete user roles first (foreign key constraint)
+            for role in user.roles:
+                db.delete(role)
+            
+            # Delete the user
+            db.delete(user)
+            db.commit()
+            
+            # Remove from cache
+            cache_service.invalidate_user_cache(clerk_id)
+            logger.info(f"User deleted successfully: {clerk_id}")
+            return True
+        else:
+            logger.warning(f"User not found for deletion: {clerk_id}")
+            return False
     
     except Exception as e:
-        logger.error(f"Error handling session creation: {str(e)}")
+        logger.error(f"Error deleting user: {str(e)}")
+        db.rollback()
         raise
 
+def handle_session_ended(db: Session, data: Dict[Any, Any], cache_service: CacheService):
+    """Handle session.ended event from Clerk"""
+    user_id = data.get("user_id")
+    logger.info(f"Handling session end for user ID: {user_id}")
+    
+    try:
+        # Find user and potentially clear some session-specific cache
+        user = db.query(User).filter(User.clerk_id == user_id).first()
+        if user:
+            # You could update last_seen or other session-related fields here
+            logger.info(f"Session ended for user: {user_id}")
+            return user.id
+        else:
+            logger.warning(f"User not found for session end: {user_id}")
+            return None
+    
+    except Exception as e:
+        logger.error(f"Error handling session end: {str(e)}")
+        raise
+
+
+@router.post("/clerk")
+async def handle_clerk_webhook(request: Request,db: Session = Depends(get_db),clerk_service: ClerkService = Depends(get_clerk_service),cache_service: CacheService = Depends(get_cache_service)):
+    """Handle Clerk webhook events using Svix verification"""
+    
+    # Get raw payload as bytes (important for signature verification)
+    payload = await request.body()
+    
+    # Convert headers to dict for Svix
+    headers = dict(request.headers)
+    
+    # Log incoming webhook info
+    logger.info(f"Received webhook from {request.client.host if request.client else 'unknown'}")
+    logger.info(f"Headers: svix-id={headers.get('svix-id')}, svix-timestamp={headers.get('svix-timestamp')}")
+    logger.info(f"Payload size: {len(payload)} bytes")
+    
+    try:
+        # Verify webhook and get parsed data using Svix
+        webhook_data = verify_clerk_webhook_with_svix(payload, headers)
+        
+        # Extract event information
+        event_type = webhook_data.get("type")
+        event_data = webhook_data.get("data", {})
+        object_id = webhook_data.get("object", "unknown")
+        
+        logger.info(f"Processing event: {event_type} for object: {object_id}")
+        
+        # Handle different event types
+        if event_type == "user.created":
+            result = handle_user_created(db, event_data, cache_service)
+            logger.info(f"User created successfully: {result}")
+            
+        elif event_type == "user.updated":
+            result = handle_user_updated(db, event_data, cache_service)
+            logger.info(f"User updated successfully: {result}")
+            
+        elif event_type == "user.deleted":
+            result = handle_user_deleted(db, event_data, cache_service)
+            logger.info(f"User deleted successfully: {result}")
+            
+        elif event_type == "session.created":
+            result = handle_session_created(db, event_data, cache_service)
+            logger.info(f"Session created successfully: {result}")
+            
+        elif event_type == "session.ended":
+            result = handle_session_ended(db, event_data, cache_service)
+            logger.info(f"Session ended successfully: {result}")
+            
+        else:
+            logger.info(f"Unhandled event type: {event_type}")
+            # Still return success for unknown events
+        
+        return {
+            "status": "success", 
+            "message": f"Successfully processed {event_type} event",
+            "event_id": headers.get('svix-id'),
+            "timestamp": headers.get('svix-timestamp')
+        }
+    
+    except HTTPException:
+        # Re-raise HTTP exceptions (these have proper status codes)
+        raise
+        
+    except Exception as e:
+        logger.error(f"Unexpected error processing webhook: {str(e)}", exc_info=True)
+        raise HTTPException(
+            status_code=500, 
+            detail=f"Internal error processing webhook: {str(e)}"
+        )
+
+
 @router.get("/user-status", response_model=ClerkUserStatusResponse)
-async def get_user_status(
-    email: str,
-    db: Session = Depends(get_db),
-    clerk_service: ClerkService = Depends(get_clerk_service)
-):
+async def get_user_status(email: str, db: Session = Depends(get_db),clerk_service: ClerkService = Depends(get_clerk_service)):
     """Check if a user exists in the system and Clerk"""
     logger.info(f"Checking user status for email: {email}")
     
@@ -326,10 +389,7 @@ async def get_user_status(
         raise HTTPException(status_code=500, detail=f"Error checking user status: {str(e)}")
 
 @router.post("/send-magic-link")
-async def send_magic_link(
-    request: SendMagicLinkRequest,
-    clerk_service: ClerkService = Depends(get_clerk_service)
-):
+async def send_magic_link(request: SendMagicLinkRequest,clerk_service: ClerkService = Depends(get_clerk_service)):
     """Send a magic link email to a user"""
     logger.info(f"Sending magic link to: {request.email}")
     

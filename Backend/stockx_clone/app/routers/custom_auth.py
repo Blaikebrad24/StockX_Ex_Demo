@@ -56,7 +56,7 @@ async def get_current_user(token: str = Depends(oauth2_scheme),db: Session = Dep
     return user
 
 @router.post("/register", response_model=UserResponse, status_code=status.HTTP_201_CREATED)
-async def register_user(user_data: UserRegister,db: Session = Depends(get_db)):
+async def register_user(user_data: UserRegister, db: Session = Depends(get_db)):
     """Register a new user with custom authentication"""
     # Check if email already exists
     existing_user = db.query(User).filter(User.email == user_data.email).first()
@@ -72,7 +72,7 @@ async def register_user(user_data: UserRegister,db: Session = Depends(get_db)):
         email=user_data.email,
         name=user_data.name,
         password_hash=hashed_password,
-        email_verified=False  # Will be verified later
+        email_verified=False
     )
     
     db.add(user)
@@ -86,11 +86,25 @@ async def register_user(user_data: UserRegister,db: Session = Depends(get_db)):
     )
     db.add(user_role)
     db.commit()
+    db.refresh(user)  # Refresh to load the new role relationship
     
-    # Send welcome email
-    email_service.send_welcome_email(user.email, user.name)
+    # Send welcome email (handle gracefully)
+    try:
+        email_service.send_welcome_email(user.email, user.name)
+    except Exception as e:
+        print(f"Error sending email: {e}")
+        # Continue even if email fails
     
-    return user
+    # Manually construct the response to ensure proper serialization
+    response_data = {
+        "id": user.id,
+        "email": user.email,
+        "name": user.name,
+        "clerk_id": user.clerk_id,
+        "roles": [RoleEnum.FREE_USER.value]  # Hardcode the role we just added as a string
+    }
+    
+    return response_data
 
 @router.post("/token", response_model=Token)
 async def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends(),db: Session = Depends(get_db)):
